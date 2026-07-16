@@ -1,0 +1,1076 @@
+{
+  "2200086": {
+    "heteroarene": "C45=CC=CC=C4C=NC=N5",
+    "radical": "[H]c1c([H])c([H])c(C=O)c([H])c1[H]",
+    "product": "O=C(C1=CC=CC=C1)C2=NC=NC3=C2C=CC=C3",
+    "paper": "10.1021/acsomega.9b01674"
+  },
+  "2200099": {
+    "heteroarene": "C12=CC=CC=C1C=NC=C2",
+    "radical": "[H]C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)C1=NC=CC2=CC=CC=C21",
+    "paper": "10.1021/acsomega.9b01674"
+  },
+  "2200194": {
+    "heteroarene": "C12=CC=CC=C1N=CS2",
+    "radical": "[H]c1c([H])c([H])c2c(c1[H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C([H])C2([H])[H]",
+    "product": "O=C(OC(C)(C)C)N(C(C=CC=C3)=C3C4)C4C5=NC6=CC=CC=C6S5",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200223": {
+    "heteroarene": "NC3=NC(C4=CC=CC=C4)=CC=N3",
+    "radical": "[H][B-]([H])[N+](C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "[H][B-]([N+](C)(C)C)([H])C1=CC(C2=CC=CC=C2)=NC(N)=N1",
+    "paper": "10.1038/s41586-021-03637-6"
+  },
+  "2200308": {
+    "heteroarene": "CC1=NC(OC)=NC=C1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CC1=NC(OC)=NC(C2CCCCC2)=C1",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200089": {
+    "heteroarene": "C4(C=CC=C5)=C5N=CS4",
+    "radical": "[H]c1c([H])c([H])c(C=O)c([H])c1[H]",
+    "product": "O=C(C1=CC=CC=C1)C2=NC3=C(C=CC=C3)S2",
+    "paper": "10.1021/acsomega.9b01674"
+  },
+  "2200279": {
+    "heteroarene": "CC1=CC=NC2=CC=CC=C21",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CC1=CC(C2CCCCC2)=NC3=CC=CC=C31",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200007": {
+    "heteroarene": "N#CCCN1C=NC2=C1N=CN=C2",
+    "radical": "[H]OC([H])[H]",
+    "product": "OCC1=NC=NC2=C1N=CN2CCC#N",
+    "paper": "acs.orglett.2c01680"
+  },
+  "2200245": {
+    "heteroarene": "CC1=CC=NC2=CC=CC=C21",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CC1=CC(C2CCCCCC2)=NC3=CC=CC=C31",
+    "paper": "10.1039/d2cc06486c"
+  },
+  "2200136": {
+    "heteroarene": "N#CC1=CC=NC=C1",
+    "radical": "[H]c1c([H])c([H])c(C=O)c([H])c1[H]",
+    "product": "O=C(C2=CC(C#N)=CC=N2)C3=CC=CC=C3",
+    "paper": "10.1021/acs.joc.9b00004"
+  },
+  "2200299": {
+    "heteroarene": "COC1=C(OC)C=C(C(Cl)=NC=N2)C2=C1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "COC1=C(OC)C=C(C(Cl)=NC(C2CCCCC2)=N3)C3=C1",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200249": {
+    "heteroarene": "CC1=CC=NC2=CC=CC=C21",
+    "radical": "[H]c1c(C([H])[H])c([H])c(C([H])([H])[H])c([H])c1C([H])([H])[H]",
+    "product": "CC1=CC(CC2=CC(C)=CC(C)=C2)=NC3=CC=CC=C31",
+    "paper": "10.1039/d2cc06486c"
+  },
+  "2200288": {
+    "heteroarene": "O=C(OC)C4=CC5=CC=CC=C5C=N4",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "O=C(OC)C1=CC2=CC=CC=C2C(C3CCCCC3)=N1",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200085": {
+    "heteroarene": "ClC4=NC5=CC=CC=C5N=C4",
+    "radical": "[H]c1c([H])c([H])c(C=O)c([H])c1[H]",
+    "product": "O=C(C1=CC=CC=C1)C2=C(Cl)N=C(C=CC=C3)C3=N2",
+    "paper": "10.1021/acsomega.9b01674"
+  },
+  "2200229": {
+    "heteroarene": "O=C(OCC)C1=CC=C(SC=N2)C2=C1",
+    "radical": "[H][B-]([H])[N+](C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "O=C(OCC)C3=CC=C(SC([B-]([H])([H])[N+](C)(C)C)=N4)C4=C3",
+    "paper": "10.1038/s41586-021-03637-6"
+  },
+  "2200009": {
+    "heteroarene": "O=C(C)OC(C1C2OC(C)(C)O1)OC2N3C=NC4=C3N=CN=C4",
+    "radical": "[H]OC([H])[H]",
+    "product": "O=C(C)OC(C1C2OC(C)(C)O1)OC2N3C=NC4=C3N=CN=C4CO",
+    "paper": "acs.orglett.2c01680"
+  },
+  "2200312": {
+    "heteroarene": "NC1=NC=CC(C(F)(F)F)=N1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "NC1=NC(C2CCCCC2)=CC(C(F)(F)F)=N1",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200240": {
+    "heteroarene": "ClC1=CC=C(N=CS2)C2=C1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "ClC3=CC=C(N=C(C4CCCCC4)S5)C5=C3",
+    "paper": "10.1039/d2cc06486c"
+  },
+  "2200087": {
+    "heteroarene": "C56=C(C=CC=C6)N=C(C=CC=C7)C7=C5",
+    "radical": "[H]c1c([H])c([H])c(C=O)c([H])c1[H]",
+    "product": "O=C(C1=C2C(C=CC=C2)=NC3=C1C=CC=C3)C4=CC=CC=C4",
+    "paper": "10.1021/acsomega.9b01674"
+  },
+  "2200098": {
+    "heteroarene": "C12=CC=CC=C1C=NC=C2",
+    "radical": "[H]C([H])C([H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)CC1=NC=CC2=CC=CC=C21",
+    "paper": "10.1021/acsomega.9b01674"
+  },
+  "2200305": {
+    "heteroarene": "CC1=CC(C(OC)=O)=CC=N1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CC1=CC(C(OC)=O)=CC(C2CCCCC2)=N1",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200192": {
+    "heteroarene": "C12=CC=CC=C1N=CS2",
+    "radical": "[H]C([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1([H])C2([H])C([H])([H])[C@]3([H])C([H])([H])[C@]([H])(C2([H])[H])C([H])([H])[C@@]1([H])C3([H])[H]",
+    "product": "O=C(OC(C)(C)C)N(C4[C@@H](C5)C[C@@H]6CC4C[C@H]5C6)CC7=NC8=CC=CC=C8S7",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200319": {
+    "heteroarene": "N#CC1=C(Cl)N=CC=N1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "N#CC1=C(Cl)N=C(C2CCCCC2)C=N1",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200202": {
+    "heteroarene": "C4(C=CC=C5)=C5N=CC6=C4C=CC=C6",
+    "radical": "[H][B-]([H])[N+](C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "[H][B-]([N+](C)(C)C)([H])C1=NC2=C(C=CC=C2)C3=C1C=CC=C3",
+    "paper": "10.1038/s41586-021-03637-6"
+  },
+  "2200158": {
+    "heteroarene": "C45=CC=CC=C4C=CC(C6=CC=CC=C6)=N5",
+    "radical": "[H]C([H])([H])C([H])([H])C([H])([H])C=O",
+    "product": "O=C(CCC)C1=CC(C2=CC=CC=C2)=NC3=CC=CC=C31",
+    "paper": "10.1002/asia.201900857"
+  },
+  "2200186": {
+    "heteroarene": "C12=CC=CC=C1N=CS2",
+    "radical": "[H]C1N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "O=C(OC(C)(C)C)N(CCCCC2)C2C3=NC4=CC=CC=C4S3",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200040": {
+    "heteroarene": "C3(C=CC=C4)=C4C=NC=C3",
+    "radical": "[H]OC([H])C([H])([H])C([H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "OC(CC(C)C)C1=NC=CC2=C1C=CC=C2",
+    "paper": "10.1038/s41467-019-08413-9"
+  },
+  "2200050": {
+    "heteroarene": "COC1=NC=CN=C1",
+    "radical": "[H]C([H])([H])C=O",
+    "product": "CC(C2=NC=CN=C2OC)=O",
+    "paper": "10.1016/j.tet.2019.01.060"
+  },
+  "2200228": {
+    "heteroarene": "ClC3=C(SC=C4)C4=NC=N3",
+    "radical": "[H][B-]([H])[N+](C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "[H][B-]([N+](C)(C)C)([H])C1=NC(Cl)=C(SC=C2)C2=N1",
+    "paper": "10.1038/s41586-021-03637-6"
+  },
+  "2200015": {
+    "heteroarene": "C1(N=CN2CC3=CC=CC=C3)=C2N=CN=C1",
+    "radical": "[H]OC([H])C([H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "OC(C(C)C)C1=NC=NC2=C1N=CN2CC3=CC=CC=C3",
+    "paper": "acs.orglett.2c01680"
+  },
+  "2200125": {
+    "heteroarene": "C56=CC=CC=C5C=NC=C6C7=CC=CC=C7",
+    "radical": "[H]c1c([H])c([H])c(C=O)c([H])c1[H]",
+    "product": "O=C(C1=NC=C(C2=CC=CC=C2)C3=CC=CC=C31)C4=CC=CC=C4",
+    "paper": "10.1021/acs.joc.9b00004"
+  },
+  "2200059": {
+    "heteroarene": "C3(C=CC=C4)=C4C=NN=C3",
+    "radical": "[H]C([H])([H])C=O",
+    "product": "CC(C1=NN=CC2=C1C=CC=C2)=O",
+    "paper": "10.1016/j.tet.2019.01.060"
+  },
+  "2200187": {
+    "heteroarene": "C12=CC=CC=C1N=CS2",
+    "radical": "[H]C1N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])[C@@]([H])(C(=O)OC([H])([H])[H])C([H])([H])C1([H])[H]",
+    "product": "O=C(OC(C)(C)C)N([C@@H](C(OC)=O)CC2)C2C3=NC4=CC=CC=C4S3",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200322": {
+    "heteroarene": "O=C(OCC)C1=CC=C2C(N=CS2)=C1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "O=C(OCC)C1=CC=C2C(N=C(C3CCCCC3)S2)=C1",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200183": {
+    "heteroarene": "C12=CC=CC=C1N=CS2",
+    "radical": "[H]c1c([H])c(C([H])([H])[H])c([H])c([H])c1OC(=O)N1C([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "O=C(OC1=CC=C(C)C=C1)N2C(C3=NC4=CC=CC=C4S3)CCC2",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200207": {
+    "heteroarene": "OC3=NC=NC4=C3C(F)=CC=C4",
+    "radical": "[H][B-]([H])[N+](C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "OC1=NC([B-]([H])([H])[N+](C)(C)C)=NC2=C1C(F)=CC=C2",
+    "paper": "10.1038/s41586-021-03637-6"
+  },
+  "2200379": {
+    "heteroarene": "OC1=NC2=C(C=CC=C2)N=C1",
+    "radical": "[H]C(F)F",
+    "product": "OC1=NC2=C(N=C1C(F)F)C=CC=C2",
+    "paper": "10.1038/s41467-020-14494-8"
+  },
+  "2200244": {
+    "heteroarene": "FC(F)(F)OC1=CC=C(N=CS2)C2=C1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "FC(F)(F)OC3=CC=C(N=C(C4CCCCC4)S5)C5=C3",
+    "paper": "10.1039/d2cc06486c"
+  },
+  "2200034": {
+    "heteroarene": "C34=CC=CC=C3SC=N4",
+    "radical": "[H]OC([H])[H]",
+    "product": "OCC1=NC2=CC=CC=C2S1",
+    "paper": "10.1038/s41467-019-08413-9"
+  },
+  "2200020": {
+    "heteroarene": "C1(N=CN2CC3=CC=CC=C3)=C2N=CN=C1",
+    "radical": "[H]OC([H])C([H])([H])c1sc([H])c([H])c1[H]",
+    "product": "OC(CC1=CC=CS1)C2=NC=NC3=C2N=CN3CC4=CC=CC=C4",
+    "paper": "acs.orglett.2c01680"
+  },
+  "2200294": {
+    "heteroarene": "C12=CC=CC=C1N=CC=N2",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "C12=CC=CC=C1N=CC(C3CCCCC3)=N2",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200375": {
+    "heteroarene": "CC(C1=CC=CN1)=O",
+    "radical": "[H]C(F)F",
+    "product": "CC(C1=CC=C(C(F)F)N1)=O",
+    "paper": "10.1021/ja211422g"
+  },
+  "2200212": {
+    "heteroarene": "CC2=CC=CC(C)=N2",
+    "radical": "[H][B-]([H])[N+](C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "[H][B-]([N+](C)(C)C)([H])C1=CC(C)=NC(C)=C1",
+    "paper": "10.1038/s41586-021-03637-6"
+  },
+  "2200213": {
+    "heteroarene": "C#CC2=C(C)N=CC=C2",
+    "radical": "[H][B-]([H])[N+](C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "[H][B-]([N+](C)(C)C)([H])C1=NC(C)=C(C#C)C=C1",
+    "paper": "10.1038/s41586-021-03637-6"
+  },
+  "2200235": {
+    "heteroarene": "O=C1NC=NC2=CC=CC=C21",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "O=C3NC(C4CCCCC4)=NC5=CC=CC=C53",
+    "paper": "10.1039/d2cc06486c"
+  },
+  "2200023": {
+    "heteroarene": "C4(N=CN5CC6=CC=CC=C6)=C5N=CN=C4",
+    "radical": "[H]OC(C([H])([H])[H])C([H])([H])[H]",
+    "product": "OC(C)(C)C1=NC=NC2=C1N=CN2CC3=CC=CC=C3",
+    "paper": "acs.orglett.2c01680"
+  },
+  "2200323": {
+    "heteroarene": "BrC1=C2C(N=CS2)=CC=C1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "BrC1=C2C(N=C(C3CCCCC3)S2)=CC=C1",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200055": {
+    "heteroarene": "FC(C(F)=C1)=CC2=C1N=CC=N2",
+    "radical": "[H]C([H])([H])C=O",
+    "product": "O=C(C)C3=NC4=C(C=C(F)C(F)=C4)N=C3",
+    "paper": "10.1016/j.tet.2019.01.060"
+  },
+  "2200383": {
+    "heteroarene": "O=C(C)C1=CNC2=CC=CC=C12",
+    "radical": "[H]C(F)F",
+    "product": "O=C(C)C1=C(C(F)F)NC2=CC=CC=C12",
+    "paper": "10.1038/s41467-020-14494-8"
+  },
+  "2200072": {
+    "heteroarene": "C12=CC=CC=C1C=NC=C2",
+    "radical": "[H]c1c([H])c([H])c(C=O)c(Cl)c1[H]",
+    "product": "O=C(C1=C(Cl)C=CC=C1)C2=NC=CC3=CC=CC=C32",
+    "paper": "10.1021/acsomega.9b01674"
+  },
+  "2200236": {
+    "heteroarene": "O=C1C=NC2=CC=CC=C2N1C",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "O=C3C(C4CCCCC4)=NC5=CC=CC=C5N3C",
+    "paper": "10.1039/d2cc06486c"
+  },
+  "2200181": {
+    "heteroarene": "C12=CC=CC=C1N=CS2",
+    "radical": "[H]C1N(C(=O)N([H])C(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "O=C(NC(C)(C)C)N1C(C2=NC3=CC=CC=C3S2)CCC1",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200209": {
+    "heteroarene": "C3(C4=CC=CC=C4)=CC=NC=C3",
+    "radical": "[H][B-]([H])[N+](C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "[H][B-]([N+](C)(C)C)([H])C1=NC=CC(C2=CC=CC=C2)=C1",
+    "paper": "10.1038/s41586-021-03637-6"
+  },
+  "2200049": {
+    "heteroarene": "N#CC1=NC=CN=C1",
+    "radical": "[H]C([H])([H])C=O",
+    "product": "CC(C2=NC(C#N)=CN=C2)=O",
+    "paper": "10.1016/j.tet.2019.01.060"
+  },
+  "2200013": {
+    "heteroarene": "C1(N=CN2CC3=CC=CC=C3)=C2N=CN=C1",
+    "radical": "[H]OC([H])C([H])([H])C([H])([H])C([H])([H])[H]",
+    "product": "OC(CCC)C1=NC=NC2=C1N=CN2CC3=CC=CC=C3",
+    "paper": "acs.orglett.2c01680"
+  },
+  "2200307": {
+    "heteroarene": "CC1=NC=NC(Cl)=C1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CC1=NC(C2CCCCC2)=NC(Cl)=C1",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200326": {
+    "heteroarene": "CN1C2=CC=C(Br)C=C2N=C1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CN1C2=CC=C(Br)C=C2N=C1C3CCCCC3",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200129": {
+    "heteroarene": "CC(C)(C)C(C=C1)=CC=C1C2=CN=CC3=CC=CC=C32",
+    "radical": "[H]c1c([H])c([H])c(C=O)c([H])c1[H]",
+    "product": "O=C(C4=NC=C(C5=CC=C(C(C)(C)C)C=C5)C6=CC=CC=C64)C7=CC=CC=C7",
+    "paper": "10.1021/acs.joc.9b00004"
+  },
+  "2200014": {
+    "heteroarene": "C1(N=CN2CC3=CC=CC=C3)=C2N=CN=C1",
+    "radical": "[H]OC([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])[H]",
+    "product": "OC(CCCCCCC)C1=NC=NC2=C1N=CN2CC3=CC=CC=C3",
+    "paper": "acs.orglett.2c01680"
+  },
+  "2200119": {
+    "heteroarene": "N#CC1=CC=NC=C1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "N#CC2=CC=NC(C3CCCCC3)=C2",
+    "paper": "10.1021/acsomega.9b01674"
+  },
+  "2200208": {
+    "heteroarene": "OC3=NC=NC4=C3C=C(Cl)C=C4",
+    "radical": "[H][B-]([H])[N+](C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "OC1=NC([B-]([H])([H])[N+](C)(C)C)=NC2=C1C=C(Cl)C=C2",
+    "paper": "10.1038/s41586-021-03637-6"
+  },
+  "2200180": {
+    "heteroarene": "C12=CC=CC=C1N=CS2",
+    "radical": "[H]C1N(C(=O)C([H])([H])C(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "O=C(CC(C)(C)C)N1C(C2=NC3=CC=CC=C3S2)CCC1",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200206": {
+    "heteroarene": "OC3=NC=NC4=C3C=CC=C4",
+    "radical": "[H][B-]([H])[N+](C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "OC1=NC([B-]([H])([H])[N+](C)(C)C)=NC2=C1C=CC=C2",
+    "paper": "10.1038/s41586-021-03637-6"
+  },
+  "2200010": {
+    "heteroarene": "C1(N=CN2CC3=CC=CC=C3)=C2N=CN=C1",
+    "radical": "[H]OC([H])[H]",
+    "product": "OCC1=NC=NC2=C1N=CN2CC3=CC=CC=C3",
+    "paper": "acs.orglett.2c01680"
+  },
+  "2200036": {
+    "heteroarene": "C3(C=CC=C4)=C4C=NC=C3",
+    "radical": "[H]OC([H])C([H])([H])C([H])([H])[H]",
+    "product": "OC(CC)C1=NC=CC2=C1C=CC=C2",
+    "paper": "10.1038/s41467-019-08413-9"
+  },
+  "2200184": {
+    "heteroarene": "C12=CC=CC=C1N=CS2",
+    "radical": "[H]C1N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C([H])([H])C1([H])[H]",
+    "product": "O=C(OC(C)(C)C)N2CCC2C3=NC4=CC=CC=C4S3",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200063": {
+    "heteroarene": "N2=CNN=C2",
+    "radical": "[H]C([H])([H])C=O",
+    "product": "O=C(C)C1=NNC=N1",
+    "paper": "10.1016/j.tet.2019.01.060"
+  },
+  "2200298": {
+    "heteroarene": "C12=CC=CC=C1N=CN=C2C3CCCCC3",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "C12=CC=CC=C1N=C(C3CCCCC3)N=C2C4CCCCC4",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200017": {
+    "heteroarene": "C1(N=CN2CC3=CC=CC=C3)=C2N=CN=C1",
+    "radical": "[H]OC([H])C([H])([H])c1c([H])c([H])c(F)c([H])c1[H]",
+    "product": "OC(CC1=CC=C(F)C=C1)C2=NC=NC3=C2N=CN3CC4=CC=CC=C4",
+    "paper": "acs.orglett.2c01680"
+  },
+  "2200266": {
+    "heteroarene": "CC1=NC2=CC=CC=C2C=C1",
+    "radical": "[H]C1OC([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CC3=NC4=CC=CC=C4C(C5CCCO5)=C3",
+    "paper": "10.1039/c8sc05631e"
+  },
+  "2200278": {
+    "heteroarene": "C12=CC=CC=C1C=CC(C3=CC=CC=C3)=N2",
+    "radical": "[H]C1OC([H])([H])C([H])([H])OC1([H])[H]",
+    "product": "C12=CC=CC=C1C(C3COCCO3)=CC(C4=CC=CC=C4)=N2",
+    "paper": "10.1039/c8sc05631e"
+  },
+  "2200238": {
+    "heteroarene": "N#CC1=CC=C(N=CS2)C2=C1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "N#CC3=CC=C(N=C(C4CCCCC4)S5)C5=C3",
+    "paper": "10.1039/d2cc06486c"
+  },
+  "2200327": {
+    "heteroarene": "O=C(OCC)C1=CN2C(C=CC(Cl)=N2)=N1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "O=C(OCC)C1=CN2C(C(C3CCCCC3)=CC(Cl)=N2)=N1",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200159": {
+    "heteroarene": "C56=CN=CC=C5N=C(C7=CC=CC=C7)C(C8=CC=CC=C8)=N6",
+    "radical": "[H]C([H])([H])C([H])([H])C([H])([H])C=O",
+    "product": "O=C(CCC)C1=C(N=C(C2=CC=CC=C2)C(C3=CC=CC=C3)=N4)C4=CC=N1",
+    "paper": "10.1002/asia.201900857"
+  },
+  "2200314": {
+    "heteroarene": "CC1=CC=C(Cl)N=N1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CC1=CC(C2CCCCC2)=C(Cl)N=N1",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200226": {
+    "heteroarene": "C34=NC=CC=C3C=NN4",
+    "radical": "[H][B-]([H])[N+](C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "[H][B-](C1=NC(NN=C2)=C2C=C1)([H])[N+](C)(C)C",
+    "paper": "10.1038/s41586-021-03637-6"
+  },
+  "2200318": {
+    "heteroarene": "ClC1=CN=C(C2CCCCC2)C=N1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "ClC1=C(C2CCCCC2)N=C(C3CCCCC3)C=N1",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200191": {
+    "heteroarene": "C12=CC=CC=C1N=CS2",
+    "radical": "[H]C([H])N(C(=O)N(C([H])([H])[H])C([H])([H])[H])C([H])([H])[H]",
+    "product": "O=C(N(C)C)N(C)CC1=NC2=CC=CC=C2S1",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200300": {
+    "heteroarene": "FC(F)(F)C1=CC=NC=C1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "FC(F)(F)C1=CC(C2CCCCC2)=NC=C1",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200134": {
+    "heteroarene": "C56=CC=CC=C5C=NC7=C6C=CC=C7",
+    "radical": "[H]c1c([H])c([H])c(C=O)c([H])c1[H]",
+    "product": "O=C(C1=NC(C=CC=C2)=C2C3=CC=CC=C31)C4=CC=CC=C4",
+    "paper": "10.1021/acs.joc.9b00004"
+  },
+  "2200381": {
+    "heteroarene": "CN1C=C(C(OC)=O)N=C1",
+    "radical": "[H]C(F)F",
+    "product": "FC(F)C1=NC(C(OC)=O)=CN1C",
+    "paper": "10.1038/s41467-020-14494-8"
+  },
+  "2200011": {
+    "heteroarene": "COC1=NC2=C(N=CN2CC3=CC=CC=C3)C=N1",
+    "radical": "[H]OC([H])[H]",
+    "product": "OCC1=NC(OC)=NC2=C1N=CN2CC3=CC=CC=C3",
+    "paper": "acs.orglett.2c01680"
+  },
+  "2200128": {
+    "heteroarene": "BrC(C=C1)=CC=C1C2=CN=CC3=CC=CC=C32",
+    "radical": "[H]c1c([H])c([H])c(C=O)c([H])c1[H]",
+    "product": "O=C(C4=NC=C(C5=CC=C(Br)C=C5)C6=CC=CC=C64)C7=CC=CC=C7",
+    "paper": "10.1021/acs.joc.9b00004"
+  },
+  "2200056": {
+    "heteroarene": "ClC(C(Cl)=C1)=CC2=C1N=CC=N2",
+    "radical": "[H]C([H])([H])C=O",
+    "product": "O=C(C)C3=NC4=C(C=C(Cl)C(Cl)=C4)N=C3",
+    "paper": "10.1016/j.tet.2019.01.060"
+  },
+  "2200293": {
+    "heteroarene": "ClC1=NC2=CC=CC=C2N=C1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "ClC1=NC2=CC=CC=C2N=C1C3CCCCC3",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200002": {
+    "heteroarene": "O=C(OCC)CN1C=NC2=C1N=CN=C2",
+    "radical": "[H]OC([H])[H]",
+    "product": "O=C(OCC)CN1C=NC2=C1N=CN=C2CO",
+    "paper": "acs.orglett.2c01680"
+  },
+  "2200268": {
+    "heteroarene": "C12=CC=CC=C1C(C3=CC=CC=C3)=CC=N2",
+    "radical": "[H]C1OC([H])([H])C([H])([H])C1([H])[H]",
+    "product": "C45=CC=CC=C4C(C6=CC=CC=C6)=CC(C7CCCO7)=N5",
+    "paper": "10.1039/c8sc05631e"
+  },
+  "2200005": {
+    "heteroarene": "C#CCN1C=NC2=C1N=CN=C2",
+    "radical": "[H]OC([H])[H]",
+    "product": "C#CCN1C=NC2=C1N=CN=C2CO",
+    "paper": "acs.orglett.2c01680"
+  },
+  "2200260": {
+    "heteroarene": "CC(C=C1)=CC=C1C2=NC3=CC=CC=C3C=C2",
+    "radical": "[H]C1OC([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CC(C=C4)=CC=C4C5=NC6=CC=CC=C6C(C7CCCO7)=C5",
+    "paper": "10.1039/c8sc05631e"
+  },
+  "2200367": {
+    "heteroarene": "O=C(OCC)C1=CC=NC=C1",
+    "radical": "[H]C(F)F",
+    "product": "O=C(OCC)C1=CC(C(F)F)=NC=C1",
+    "paper": "10.1021/ja211422g"
+  },
+  "2200008": {
+    "heteroarene": "C1(N=CN2C3=CC=CC=C3)=C2N=CN=C1",
+    "radical": "[H]OC([H])[H]",
+    "product": "OCC1=NC=NC2=C1N=CN2C3=CC=CC=C3",
+    "paper": "acs.orglett.2c01680"
+  },
+  "2200214": {
+    "heteroarene": "ClC3=CC=C(C4=CC=CC=C4)N=N3",
+    "radical": "[H][B-]([H])[N+](C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "[H][B-]([N+](C)(C)C)([H])C1=C(Cl)N=NC(C2=CC=CC=C2)=C1",
+    "paper": "10.1038/s41586-021-03637-6"
+  },
+  "2200251": {
+    "heteroarene": "CC1=CC=NC2=CC=CC=C21",
+    "radical": "[H]C1OC([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CC1=CC(C2CCCO2)=NC3=CC=CC=C31",
+    "paper": "10.1039/d2cc06486c"
+  },
+  "2200239": {
+    "heteroarene": "ClC1=C(N=CS2)C2=CC=C1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "ClC3=C(N=C(C4CCCCC4)S5)C5=CC=C3",
+    "paper": "10.1039/d2cc06486c"
+  },
+  "2200189": {
+    "heteroarene": "C12=CC=CC=C1N=CS2",
+    "radical": "[H]C([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "O=C(OC(C)(C)C)N(C(C)(C)C)CC1=NC2=CC=CC=C2S1",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200269": {
+    "heteroarene": "CC1=C(C2=CC=CC=C2)C3=CC=CC=C3N=C1",
+    "radical": "[H]C1OC([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CC4=C(C5=CC=CC=C5)C6=CC=CC=C6N=C4C7CCCO7",
+    "paper": "10.1039/c8sc05631e"
+  },
+  "2200088": {
+    "heteroarene": "N#CC3=CC=NC=C3",
+    "radical": "[H]c1c([H])c([H])c(C=O)c([H])c1[H]",
+    "product": "O=C(C1=CC=CC=C1)C2=NC=CC(C#N)=C2",
+    "paper": "10.1021/acsomega.9b01674"
+  },
+  "2200311": {
+    "heteroarene": "ClC1=NC=NC(N)=C1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "ClC1=NC(C2CCCCC2)=NC(N)=C1",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200042": {
+    "heteroarene": "C3(C=CC=C4)=C4C=NC=C3",
+    "radical": "[H]OC([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])[H]",
+    "product": "OC(CCCCC)C1=NC=CC2=C1C=CC=C2",
+    "paper": "10.1038/s41467-019-08413-9"
+  },
+  "2200041": {
+    "heteroarene": "C3(C=CC=C4)=C4C=NC=C3",
+    "radical": "[H]OC([H])C1([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "OC(C1CCCC1)C2=NC=CC3=C2C=CC=C3",
+    "paper": "10.1038/s41467-019-08413-9"
+  },
+  "2200178": {
+    "heteroarene": "BrC1=CN=CN=C1",
+    "radical": "[H]C1N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "BrC2=CN=C(C3CCCN3C(OC(C)(C)C)=O)N=C2",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200176": {
+    "heteroarene": "C45=CC=CC=C4N=CN5",
+    "radical": "[H]C1N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "O=C(OC(C)(C)C)N1C(C2=NC3=CC=CC=C3N2)CCC1",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200025": {
+    "heteroarene": "C6(N=CN7CC8=CC=CC=C8)=C7N=CN=C6",
+    "radical": "[H]OC1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "OC2(CCCCC2)C3=NC=NC4=C3N=CN4CC5=CC=CC=C5",
+    "paper": "acs.orglett.2c01680"
+  },
+  "2200182": {
+    "heteroarene": "C12=CC=CC=C1N=CS2",
+    "radical": "[H]c1c([H])c([H])c(C([H])([H])OC(=O)N2C([H])C([H])([H])C([H])([H])C2([H])[H])c([H])c1[H]",
+    "product": "O=C(OCC1=CC=CC=C1)N2C(C3=NC4=CC=CC=C4S3)CCC2",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200302": {
+    "heteroarene": "C1(C2=CC=CC=C2)=CC=NC=C1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "C1(C2CCCCC2)=NC=CC(C3=CC=CC=C3)=C1",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200188": {
+    "heteroarene": "C12=CC=CC=C1N=CS2",
+    "radical": "[H]C([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C([H])([H])[H]",
+    "product": "O=C(OC(C)(C)C)N(C)CC1=NC2=CC=CC=C2S1",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200272": {
+    "heteroarene": "CC1=CC2=CC=CC=C2C=N1",
+    "radical": "[H]C1OC([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CC3=CC4=CC=CC=C4C(C5CCCO5)=N3",
+    "paper": "10.1039/c8sc05631e"
+  },
+  "2200292": {
+    "heteroarene": "C12=CC=CC=C1C3=C(C=CC=C3)C=N2",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "C12=CC=CC=C1C3=C(C=CC=C3)C(C4CCCCC4)=N2",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200061": {
+    "heteroarene": "C34=CC=CC=C3N=CS4",
+    "radical": "[H]C([H])([H])C=O",
+    "product": "O=C(C)C1=NC2=CC=CC=C2S1",
+    "paper": "10.1016/j.tet.2019.01.060"
+  },
+  "2200173": {
+    "heteroarene": "BrC1=CC=C(C=NC=C2)C2=C1",
+    "radical": "[H]C1N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "O=C(OC(C)(C)C)N3C(C4=NC=CC5=CC(Br)=CC=C54)CCC3",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200082": {
+    "heteroarene": "C45=CC=CC=C4N=CC=N5",
+    "radical": "[H]c1c([H])c([H])c(C=O)c([H])c1[H]",
+    "product": "O=C(C1=CC=CC=C1)C2=CN=C(C=CC=C3)C3=N2",
+    "paper": "10.1021/acsomega.9b01674"
+  },
+  "2200372": {
+    "heteroarene": "CN(CCC1)C1C2=CC=CN=C2",
+    "radical": "[H]C(F)F",
+    "product": "CN(CCC1)C1C2=CC=C(C(F)F)N=C2",
+    "paper": "10.1021/ja211422g"
+  },
+  "2200065": {
+    "heteroarene": "C12=CC=CC=C1C=NC=C2",
+    "radical": "[H]c1c([H])c(C=O)c([H])c([H])c1F",
+    "product": "O=C(C1=CC=C(F)C=C1)C2=NC=CC3=CC=CC=C32",
+    "paper": "10.1021/acsomega.9b01674"
+  },
+  "2200262": {
+    "heteroarene": "C12=CC=CC=C1C=CC(C3=CC=C(C4=CC=CC=C4)C=C3)=N2",
+    "radical": "[H]C1OC([H])([H])C([H])([H])C1([H])[H]",
+    "product": "C56=CC=CC=C5C(C7CCCO7)=CC(C8=CC=C(C9=CC=CC=C9)C=C8)=N6",
+    "paper": "10.1039/c8sc05631e"
+  },
+  "2200377": {
+    "heteroarene": "O=C(OC)C1=NC=CC=N1",
+    "radical": "[H]C(F)F",
+    "product": "O=C(OC)C1=NC=CC(C(F)F)=N1",
+    "paper": "10.1021/ja211422g"
+  },
+  "2200304": {
+    "heteroarene": "CC1=CC(Cl)=CC=N1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CC1=CC(Cl)=CC(C2CCCCC2)=N1",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200243": {
+    "heteroarene": "COC1=CC=C(N=CS2)C2=C1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "COC3=CC=C(N=C(C4CCCCC4)S5)C5=C3",
+    "paper": "10.1039/d2cc06486c"
+  },
+  "2200296": {
+    "heteroarene": "ClC1=NC2=CC=CC=C2C=N1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "ClC1=NC2=CC=CC=C2C(C3CCCCC3)=N1",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200211": {
+    "heteroarene": "CC2=CC=NC(C)=C2C(OCC)=O",
+    "radical": "[H][B-]([H])[N+](C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "[H][B-]([N+](C)(C)C)([H])C1=NC(C)=C(C(OCC)=O)C(C)=C1",
+    "paper": "10.1038/s41586-021-03637-6"
+  },
+  "2200270": {
+    "heteroarene": "CC1=CC=NC2=CC=CC=C21",
+    "radical": "[H]C1OC([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CC3=CC(C4CCCO4)=NC5=CC=CC=C53",
+    "paper": "10.1039/c8sc05631e"
+  },
+  "2200241": {
+    "heteroarene": "FC1=CC=C2C(N=CS2)=C1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "FC3=CC=C4C(N=C(C5CCCCC5)S4)=C3",
+    "paper": "10.1039/d2cc06486c"
+  },
+  "2200224": {
+    "heteroarene": "CC2=NC=NC(C)=C2",
+    "radical": "[H][B-]([H])[N+](C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "[H][B-]([N+](C)(C)C)([H])C1=NC(C)=CC(C)=N1",
+    "paper": "10.1038/s41586-021-03637-6"
+  },
+  "2200210": {
+    "heteroarene": "CC2=CC=NC=C2",
+    "radical": "[H][B-]([H])[N+](C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "[H][B-]([N+](C)(C)C)([H])C1=NC=CC(C)=C1",
+    "paper": "10.1038/s41586-021-03637-6"
+  },
+  "2200130": {
+    "heteroarene": "C56=CC=CC=C5C=NC=C6C#CC7=CC=CC=C7",
+    "radical": "[H]c1c([H])c([H])c(C=O)c([H])c1[H]",
+    "product": "O=C(C1=NC=C(C#CC2=CC=CC=C2)C3=CC=CC=C31)C4=CC=CC=C4",
+    "paper": "10.1021/acs.joc.9b00004"
+  },
+  "2200196": {
+    "heteroarene": "C12=CC=CC=C1N=CS2",
+    "radical": "[H]C1N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C([H])([H])C([H])([H])OC1([H])[H]",
+    "product": "O=C(N2CCOCC2C3=NC4=CC=CC=C4S3)OC(C)(C)C",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200024": {
+    "heteroarene": "C4(N=CN5CC6=CC=CC=C6)=C5N=CN=C4",
+    "radical": "[H]OC(C([H])([H])[H])C([H])([H])C([H])([H])[H]",
+    "product": "OC(CC)(C)C1=NC=NC2=C1N=CN2CC3=CC=CC=C3",
+    "paper": "acs.orglett.2c01680"
+  },
+  "2200167": {
+    "heteroarene": "BrC1=CC=C2C(SC=N2)=C1",
+    "radical": "[H]C1N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "O=C(OC(C)(C)C)N3C(C4=NC5=CC=C(Br)C=C5S4)CCC3",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200368": {
+    "heteroarene": "CC(C1=CC=NC=C1)=O",
+    "radical": "[H]C(F)F",
+    "product": "CC(C1=CC(C(F)F)=NC=C1)=O",
+    "paper": "10.1021/ja211422g"
+  },
+  "2200193": {
+    "heteroarene": "C12=CC=CC=C1N=CS2",
+    "radical": "[H]C([H])N1C(=O)C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "O=C(CCCCC2)N2CC3=NC4=CC=CC=C4S3",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200320": {
+    "heteroarene": "CC(C1=C(CC)N=CC=N1)=O",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CC(C1=C(CC)N=C(C2CCCCC2)C=N1)=O",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200165": {
+    "heteroarene": "C45=CC=CC=C4N=CS5",
+    "radical": "[H]C1N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "O=C(OC(C)(C)C)N1C(C2=NC3=CC=CC=C3S2)CCC1",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200324": {
+    "heteroarene": "CN1C2=CC=CC=C2N=C1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CN1C2=CC=CC=C2N=C1C3CCCCC3",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200101": {
+    "heteroarene": "C12=CC=CC=C1C=NC=C2",
+    "radical": "[H]C([H])C([H])([H])C1([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "C23=CC=CC=C2C(CCC4CCCCC4)=NC=C3",
+    "paper": "10.1021/acsomega.9b01674"
+  },
+  "2200016": {
+    "heteroarene": "C1(N=CN2CC3=CC=CC=C3)=C2N=CN=C1",
+    "radical": "[H]OC([H])C([H])([H])c1c([H])c([H])c([H])c([H])c1[H]",
+    "product": "OC(CC1=CC=CC=C1)C2=NC=NC3=C2N=CN3CC4=CC=CC=C4",
+    "paper": "acs.orglett.2c01680"
+  },
+  "2200175": {
+    "heteroarene": "C45=CC=CC=C4N=CN=C5",
+    "radical": "[H]C1N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "O=C(OC(C)(C)C)N1C(C2=NC=NC3=CC=CC=C32)CCC1",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200131": {
+    "heteroarene": "FC(C=C1)=CC(F)=C1C2=CN=CC3=CC=CC=C32",
+    "radical": "[H]c1c([H])c([H])c(C=O)c([H])c1[H]",
+    "product": "O=C(C4=NC=C(C5=C(F)C=C(F)C=C5)C6=CC=CC=C64)C7=CC=CC=C7",
+    "paper": "10.1021/acs.joc.9b00004"
+  },
+  "2200247": {
+    "heteroarene": "C12=CC=CC=C1SC=N2",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "C12=CC=CC=C1SC(C3CCCC3)=N2",
+    "paper": "10.1039/d2cc06486c"
+  },
+  "2200054": {
+    "heteroarene": "ClC1=NC(C=CC=C2)=C2N=C1",
+    "radical": "[H]C([H])([H])C=O",
+    "product": "O=C(C)C3=NC4=C(C=CC=C4)N=C3Cl",
+    "paper": "10.1016/j.tet.2019.01.060"
+  },
+  "2200277": {
+    "heteroarene": "C12=CC=CC=C1C=CC(C3=CC=CC=C3)=N2",
+    "radical": "[H]C1OC([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "C12=CC=CC=C1C(C3CCCCO3)=CC(C4=CC=CC=C4)=N2",
+    "paper": "10.1039/c8sc05631e"
+  },
+  "2200190": {
+    "heteroarene": "C12=CC=CC=C1N=CS2",
+    "radical": "[H]C(N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C([H])([H])C([H])([H])[H])C([H])([H])[H]",
+    "product": "O=C(OC(C)(C)C)N(CC)C(C1=NC2=CC=CC=C2S1)C",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200078": {
+    "heteroarene": "C12=CC=CC=C1C=NC=C2",
+    "radical": "[H]c1sc(C=O)c([H])c1[H]",
+    "product": "O=C(C1=NC=CC2=CC=CC=C21)C3=CC=CS3",
+    "paper": "10.1021/acsomega.9b01674"
+  },
+  "2200218": {
+    "heteroarene": "ClC2=CC=C(OC)N=N2",
+    "radical": "[H][B-]([H])[N+](C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "[H][B-]([N+](C)(C)C)([H])C1=C(Cl)N=NC(OC)=C1",
+    "paper": "10.1038/s41586-021-03637-6"
+  },
+  "2200258": {
+    "heteroarene": "FC(F)(F)C1=CC(C2=NC3=CC=CC=C3C=C2)=CC=C1",
+    "radical": "[H]C1OC([H])([H])C([H])([H])C1([H])[H]",
+    "product": "FC(F)(F)C4=CC(C5=NC6=CC=CC=C6C(C7CCCO7)=C5)=CC=C4",
+    "paper": "10.1039/c8sc05631e"
+  },
+  "2200325": {
+    "heteroarene": "CN1C2=CC=CC(C(OCC)=O)=C2N=C1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CN1C2=CC=CC(C(OCC)=O)=C2N=C1C3CCCCC3",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200248": {
+    "heteroarene": "C12=CC=CC=C1SC=N2",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "C12=CC=CC=C1SC(C3CCCCCC3)=N2",
+    "paper": "10.1039/d2cc06486c"
+  },
+  "2200234": {
+    "heteroarene": "COC1=C(OC)C=C(N=CC=C2Cl)C2=C1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "ClC3=CC(C4CCCCC4)=NC5=CC(OC)=C(OC)C=C53",
+    "paper": "10.1039/d2cc06486c"
+  },
+  "2200215": {
+    "heteroarene": "ClC3=CC=C(N4C=CC=N4)N=N3",
+    "radical": "[H][B-]([H])[N+](C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "[H][B-]([N+](C)(C)C)([H])C1=C(Cl)N=NC(N2C=CC=N2)=C1",
+    "paper": "10.1038/s41586-021-03637-6"
+  },
+  "2200297": {
+    "heteroarene": "C12=CC=CC=C1N=CN=C2",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "C12=CC=CC=C1N=CN=C2C3CCCCC3",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200237": {
+    "heteroarene": "C12=CC=CC=C1SC=N2",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "C34=CC=CC=C3SC(C5CCCCC5)=N4",
+    "paper": "10.1039/d2cc06486c"
+  },
+  "2200171": {
+    "heteroarene": "BrC1=CN=CC2=CC=CC=C21",
+    "radical": "[H]C1N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "O=C(OC(C)(C)C)N3C(C4=NC=C(Br)C5=CC=CC=C54)CCC3",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200216": {
+    "heteroarene": "ClC2=CC(Cl)=CN=N2",
+    "radical": "[H][B-]([H])[N+](C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "[H][B-]([N+](C)(C)C)([H])C1=C(Cl)N=NC=C1Cl",
+    "paper": "10.1038/s41586-021-03637-6"
+  },
+  "2200003": {
+    "heteroarene": "O=C(C)CN1C=NC2=C1N=CN=C2",
+    "radical": "[H]OC([H])[H]",
+    "product": "O=C(C)CN1C=NC2=C1N=CN=C2CO",
+    "paper": "acs.orglett.2c01680"
+  },
+  "2200185": {
+    "heteroarene": "C12=CC=CC=C1N=CS2",
+    "radical": "[H]C1N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "O=C(OC(C)(C)C)N(CCCC2)C2C3=NC4=CC=CC=C4S3",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200195": {
+    "heteroarene": "C12=CC=CC=C1N=CS2",
+    "radical": "[H]c1c([H])c([H])c2c(c1[H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C([H])C([H])([H])C2([H])[H]",
+    "product": "O=C(N(C(C3=NC4=CC=CC=C4S3)CC5)C6=C5C=CC=C6)OC(C)(C)C",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200097": {
+    "heteroarene": "C12=CC=CC=C1C=NC=C2",
+    "radical": "[H]C([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])[H]",
+    "product": "CCCCCCCCCCC1=NC=CC2=CC=CC=C21",
+    "paper": "10.1021/acsomega.9b01674"
+  },
+  "2200276": {
+    "heteroarene": "C12=CC=CC=C1C=CC(C3=CC=CC=C3)=N2",
+    "radical": "[H]c1c([H])c([H])c(C([H])([H])OC([H])C([H])([H])[H])c([H])c1[H]",
+    "product": "CC(C1=CC(C2=CC=CC=C2)=NC3=CC=CC=C31)OCC4=CC=CC=C4",
+    "paper": "10.1039/c8sc05631e"
+  },
+  "2200018": {
+    "heteroarene": "C1(N=CN2CC3=CC=CC=C3)=C2N=CN=C1",
+    "radical": "[H]OC([H])C([H])([H])c1c([H])c([H])c(OC([H])([H])[H])c([H])c1[H]",
+    "product": "OC(CC1=CC=C(OC)C=C1)C2=NC=NC3=C2N=CN3CC4=CC=CC=C4",
+    "paper": "acs.orglett.2c01680"
+  },
+  "2200053": {
+    "heteroarene": "CC(C(C)=C1)=CC2=C1N=CC=N2",
+    "radical": "[H]C([H])([H])C=O",
+    "product": "O=C(C)C3=NC4=C(C=C(C)C(C)=C4)N=C3",
+    "paper": "10.1016/j.tet.2019.01.060"
+  },
+  "2200205": {
+    "heteroarene": "C3(C=CC=C4)=C4C=NN=C3",
+    "radical": "[H][B-]([H])[N+](C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "[H][B-](C1=NN=CC2=C1C=CC=C2)([H])[N+](C)(C)C",
+    "paper": "10.1038/s41586-021-03637-6"
+  },
+  "2200384": {
+    "heteroarene": "O=C(OC)C1=CN(C)C2=CC=CC=C12",
+    "radical": "[H]C(F)F",
+    "product": "O=C(OC)C1=C(C(F)F)N(C)C2=CC=CC=C12",
+    "paper": "10.1038/s41467-020-14494-8"
+  },
+  "2200090": {
+    "heteroarene": "C1(C2=CC=CC=C2)=C(C3=CC=CC=C3)N=C(C=CN=C4)C4=N1",
+    "radical": "[H]c1c([H])c([H])c(C=O)c([H])c1[H]",
+    "product": "O=C(C1=CC=CC=C1)C2=NC=CC3=C2N=C(C4=CC=CC=C4)C(C5=CC=CC=C5)=N3",
+    "paper": "10.1021/acsomega.9b01674"
+  },
+  "2200265": {
+    "heteroarene": "C12=CC=CC=C1C=CC=N2",
+    "radical": "[H]C1OC([H])([H])C([H])([H])C1([H])[H]",
+    "product": "C34=CC=CC=C3C(C5CCCO5)=CC=N4",
+    "paper": "10.1039/c8sc05631e"
+  },
+  "2200317": {
+    "heteroarene": "ClC1=CN=CC=N1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "ClC1=CN=C(C2CCCCC2)C=N1",
+    "paper": "10.1021/acs.orglett.9b01635"
+  },
+  "2200225": {
+    "heteroarene": "ClC3=CC=C4C(NN=C4C)=N3",
+    "radical": "[H][B-]([H])[N+](C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "[H][B-]([N+](C)(C)C)([H])C1=CC(Cl)=NC2=C1C(C)=NN2",
+    "paper": "10.1038/s41586-021-03637-6"
+  },
+  "2200378": {
+    "heteroarene": "CC1=NC2=C(C=CC=C2)N=C1",
+    "radical": "[H]C(F)F",
+    "product": "CC1=NC2=C(C=CC=C2)N=C1C(F)F",
+    "paper": "10.1038/s41467-020-14494-8"
+  },
+  "2200217": {
+    "heteroarene": "ClC2=CC(N)=CN=N2",
+    "radical": "[H][B-]([H])[N+](C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "[H][B-]([N+](C)(C)C)([H])C1=C(Cl)N=NC=C1N",
+    "paper": "10.1038/s41586-021-03637-6"
+  },
+  "2200027": {
+    "heteroarene": "C3(C=CC=C4)=C4C=NC=C3",
+    "radical": "[H]OC([H])C([H])([H])[H]",
+    "product": "OC(C)C1=NC=CC2=C1C=CC=C2",
+    "paper": "10.1038/s41467-019-08413-9"
+  },
+  "2200004": {
+    "heteroarene": "C=CCN1C=NC2=C1N=CN=C2",
+    "radical": "[H]OC([H])[H]",
+    "product": "C=CCN1C=NC2=C1N=CN=C2CO",
+    "paper": "acs.orglett.2c01680"
+  },
+  "2200242": {
+    "heteroarene": "CC1=C(C)C=C2C(N=CS2)=C1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CC3=C(C)C=C4C(N=C(C5CCCCC5)S4)=C3",
+    "paper": "10.1039/d2cc06486c"
+  },
+  "2200150": {
+    "heteroarene": "FC(C=C1)=CC(F)=C1C2=CN=CC3=CC=CC=C32",
+    "radical": "[H]C([H])([H])C([H])([H])C([H])([H])C=O",
+    "product": "O=C(CCC)C4=NC=C(C5=C(F)C=C(F)C=C5)C6=CC=CC=C64",
+    "paper": "10.1002/asia.201900857"
+  },
+  "2200118": {
+    "heteroarene": "ClC1=NN2C(C=C1)=NC=C2",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "ClC3=NN4C(C=C3C5CCCCC5)=NC=C4",
+    "paper": "10.1021/acsomega.9b01674"
+  },
+  "2200170": {
+    "heteroarene": "C45=CC=CC=C4C=CN=C5",
+    "radical": "[H]C1N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "O=C(OC(C)(C)C)N1C(C2=NC=CC3=CC=CC=C32)CCC1",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200012": {
+    "heteroarene": "C1(N=CN2CC3=CC=CC=C3)=C2N=CN=C1",
+    "radical": "[H]OC([H])C([H])([H])[H]",
+    "product": "OC(C)C1=NC=NC2=C1N=CN2CC3=CC=CC=C3",
+    "paper": "acs.orglett.2c01680"
+  },
+  "2200222": {
+    "heteroarene": "CC1=CC=NC(N)=N1",
+    "radical": "[H][B-]([H])[N+](C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "[H][B-]([N+](C)(C)C)([H])C1=CC(C)=NC(N)=N1",
+    "paper": "10.1038/s41586-021-03637-6"
+  },
+  "2200179": {
+    "heteroarene": "C56=CC=CC=C5C7=C(C=CC=C7)C=N6",
+    "radical": "[H]C1N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "O=C(OC(C)(C)C)N1C(C2=NC3=CC=CC=C3C4=C2C=CC=C4)CCC1",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200160": {
+    "heteroarene": "C3(C4=CC=CC=C4)=CC=CC=N3",
+    "radical": "[H]C([H])([H])C([H])([H])C([H])([H])C=O",
+    "product": "O=C(CCC)C1=NC(C2=CC=CC=C2)=CC=C1",
+    "paper": "10.1002/asia.201900857"
+  },
+  "2200376": {
+    "heteroarene": "CC1=NC2=CC=CC=C2N=C1",
+    "radical": "[H]C(F)F",
+    "product": "CC1=NC2=CC=CC=C2N=C1C(F)F",
+    "paper": "10.1021/ja211422g"
+  },
+  "2200177": {
+    "heteroarene": "ClC(C=C1)=NN2C1=NC=C2",
+    "radical": "[H]C1N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "O=C(OC(C)(C)C)N3CCCC3C4=CC5=NC=CN5N=C4Cl",
+    "paper": "10.1021/acs.orglett.8b02389"
+  },
+  "2200019": {
+    "heteroarene": "C1(N=CN2CC3=CC=CC=C3)=C2N=CN=C1",
+    "radical": "[H]OC([H])C([H])([H])O[H]",
+    "product": "OC(CO)C1=NC=NC2=C1N=CN2CC3=CC=CC=C3",
+    "paper": "acs.orglett.2c01680"
+  }
+}

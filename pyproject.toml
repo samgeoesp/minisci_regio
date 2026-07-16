@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "minisml"
+version = "0.1"
+description = "A Python package for Minisci regioselectivity predictions using machine learning."
+readme = "README.md"
+authors = [
+    {name = "Samuel G. Espley", email = "sam.espley@astx.com"},
+    {name = "Carl Poelking", email = "carl.poelking@astx.com"}
+]
+license = ""
+license-files = ["LICENSE"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
