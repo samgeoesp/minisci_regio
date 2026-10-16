@@ -1,542 +1,1150 @@
 {
-  "600007": {
-    "heteroarene": "C12=NC=NC=C1C=CN2",
-    "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "O=C(OC(C)(C)C)NCCC1=C2C(NC=C2)=NC=N1"
-  },
-  "600003": {
-    "heteroarene": "N#CC1=CC2=CC=CC=C2N=C1",
-    "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "N#CC1=C(CNC(OC(C)(C)C)=O)C2=CC=CC=C2N=C1"
-  },
-  "600005": {
-    "heteroarene": "C12=NC=NC=C1C=CN2",
-    "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "O=C(N(C)C)C1=C2C(NC=C2)=NC=N1"
-  },
-  "600009": {
-    "heteroarene": "C12=NC=NC=C1SC=C2",
-    "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "O=C(N(C)C)C1=C2C(C=CS2)=NC=N1"
-  },
-  "600006": {
-    "heteroarene": "C12=NC=NC=C1C=CN2",
-    "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "O=C(OC(C)(C)C)NCC1=C2C(NC=C2)=NC=N1"
-  },
-  "600010": {
-    "heteroarene": "C12=NC=NC=C1SC=C2",
-    "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "O=C(OC(C)(C)C)NCCC1=C2C(C=CS2)=NC=N1"
-  },
   "600001": {
     "heteroarene": "C12=C(NN=C2)C=NC=C1",
     "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "O=C(N(C)C)C1=NC=CC2=C1NN=C2"
-  },
-  "600008": {
-    "heteroarene": "O=C(OC)C1=C(C=CN2)C2=NC=N1",
-    "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "O=C(OC)C1=C(C=C(C(N(C)C)=O)N2)C2=NC=N1"
+    "product": "O=C(N(C)C)C1=NC=CC2=C1NN=C2",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      4,
+      7,
+      8
+    ]
   },
   "600002": {
     "heteroarene": "N#CC1=CC2=CC=CC=C2N=C1",
     "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "N#CC1=C(C(N(C)C)=O)C2=CC=CC=C2N=C1"
+    "product": "N#CC1=C(C(N(C)C)=O)C2=CC=CC=C2N=C1",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      5,
+      6,
+      7,
+      8,
+      11
+    ]
+  },
+  "600003": {
+    "heteroarene": "N#CC1=CC2=CC=CC=C2N=C1",
+    "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "N#CC1=C(CNC(OC(C)(C)C)=O)C2=CC=CC=C2N=C1",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      5,
+      6,
+      7,
+      8,
+      11
+    ]
   },
   "600004": {
     "heteroarene": "N#CC1=CC2=CC=CC=C2N=C1",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "N#CC1=C(CCNC(OC(C)(C)C)=O)C2=CC=CC=C2N=C1"
+    "product": "N#CC1=C(CCNC(OC(C)(C)C)=O)C2=CC=CC=C2N=C1",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      5,
+      6,
+      7,
+      8,
+      11
+    ]
+  },
+  "600005": {
+    "heteroarene": "C12=NC=NC=C1C=CN2",
+    "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
+    "product": "O=C(N(C)C)C1=C2C(NC=C2)=NC=N1",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      2,
+      6,
+      7
+    ]
+  },
+  "600006": {
+    "heteroarene": "C12=NC=NC=C1C=CN2",
+    "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "O=C(OC(C)(C)C)NCC1=C2C(NC=C2)=NC=N1",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      2,
+      6,
+      7
+    ]
+  },
+  "600007": {
+    "heteroarene": "C12=NC=NC=C1C=CN2",
+    "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "O=C(OC(C)(C)C)NCCC1=C2C(NC=C2)=NC=N1",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      2,
+      6,
+      7
+    ]
+  },
+  "600008": {
+    "heteroarene": "O=C(OC)C1=C(C=CN2)C2=NC=N1",
+    "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
+    "product": "O=C(OC)C1=C(C=C(C(N(C)C)=O)N2)C2=NC=N1",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      6,
+      11
+    ]
+  },
+  "600009": {
+    "heteroarene": "C12=NC=NC=C1SC=C2",
+    "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
+    "product": "O=C(N(C)C)C1=C2C(C=CS2)=NC=N1",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      2,
+      7,
+      8
+    ]
+  },
+  "600010": {
+    "heteroarene": "C12=NC=NC=C1SC=C2",
+    "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "O=C(OC(C)(C)C)NCCC1=C2C(C=CS2)=NC=N1",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      2,
+      7,
+      8
+    ]
   },
   "600011": {
     "heteroarene": "O=C(OC)C1=CNC2=NC=NC=C21",
     "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "O=C(OC)C1=CNC2=NC=NC(C(N(C)C)=O)=C21"
+    "product": "O=C(OC)C1=CNC2=NC=NC(C(N(C)C)=O)=C21",
+    "heteroarene_rc": 11,
+    "other_heteroarene_rc": [
+      5,
+      9
+    ]
   },
   "600012": {
     "heteroarene": "O=C(OC)C1=CNC2=NC=NC=C21",
     "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "O=C(OC)C1=CNC2=NC=NC(CNC(OC(C)(C)C)=O)=C21"
+    "product": "O=C(OC)C1=CNC2=NC=NC(CNC(OC(C)(C)C)=O)=C21",
+    "heteroarene_rc": 11,
+    "other_heteroarene_rc": [
+      5,
+      9
+    ]
   },
   "600013": {
     "heteroarene": "O=C(OC)C1=CNC2=NC=NC=C21",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "O=C(OC)C1=CNC2=NC=NC(CCNC(OC(C)(C)C)=O)=C21"
+    "product": "O=C(OC)C1=CNC2=NC=NC(CCNC(OC(C)(C)C)=O)=C21",
+    "heteroarene_rc": 11,
+    "other_heteroarene_rc": [
+      5,
+      9
+    ]
   },
   "600014": {
     "heteroarene": "N#CC1=CN=C2C(C=CN2)=C1",
     "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "N#CC1=CN=C2C(C=CN2)=C1CNC(OC(C)(C)C)=O"
+    "product": "N#CC1=CN=C2C(C=CN2)=C1CNC(OC(C)(C)C)=O",
+    "heteroarene_rc": 10,
+    "other_heteroarene_rc": [
+      3,
+      7,
+      8
+    ]
   },
   "600015": {
     "heteroarene": "N#CC1=CN=C2C(C=CN2)=C1",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "N#CC1=CN=C2C(C=CN2)=C1CCNC(OC(C)(C)C)=O"
+    "product": "N#CC1=CN=C2C(C=CN2)=C1CCNC(OC(C)(C)C)=O",
+    "heteroarene_rc": 10,
+    "other_heteroarene_rc": [
+      3,
+      7,
+      8
+    ]
   },
   "600016": {
     "heteroarene": "ClC1=C(C=CN2)C2=NC=C1",
     "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "ClC1=C(C=CN2)C2=NC(C(N(C)C)=O)=C1"
+    "product": "ClC1=C(C=CN2)C2=NC(C(N(C)C)=O)=C1",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      3,
+      4,
+      9
+    ]
   },
   "600017": {
     "heteroarene": "ClC1=C(C=CN2)C2=NC=C1",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "ClC1=C(C=CN2)C2=NC(CCNC(OC(C)(C)C)=O)=C1"
+    "product": "ClC1=C(C=CN2)C2=NC(CCNC(OC(C)(C)C)=O)=C1",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      3,
+      4,
+      9
+    ]
   },
   "600018": {
     "heteroarene": "ClC1=C(C=CN2C)C2=NC=N1",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "ClC1=C(C=C(CCNC(OC(C)(C)C)=O)N2C)C2=NC=N1"
+    "product": "ClC1=C(C=C(CCNC(OC(C)(C)C)=O)N2C)C2=NC=N1",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      3,
+      9
+    ]
   },
   "600019": {
     "heteroarene": "ClC1=C(C=CN2C)C2=NC=N1",
     "radical": "[H]C1C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1([H])[H]",
-    "product": "ClC1=C(C=C(C(C2)CN2C(OC(C)(C)C)=O)N3C)C3=NC=N1"
+    "product": "ClC1=C(C=C(C(C2)CN2C(OC(C)(C)C)=O)N3C)C3=NC=N1",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      3,
+      9
+    ]
   },
   "600020": {
     "heteroarene": "BrC1=C(OC)N=C2C(C=CN2C)=C1",
     "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "BrC1=C(OC)N=C2C(C=C(C(N(C)C)=O)N2C)=C1"
+    "product": "BrC1=C(OC)N=C2C(C=C(C(N(C)C)=O)N2C)=C1",
+    "heteroarene_rc": 9,
+    "other_heteroarene_rc": [
+      8,
+      12
+    ]
   },
   "600021": {
     "heteroarene": "BrC1=C(OC)N=C2C(C=CN2C)=C1",
     "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "BrC1=C(N=C2C(C(CNC(OC(C)(C)C)=O)=CN2C)=C1)OC"
+    "product": "BrC1=C(N=C2C(C(CNC(OC(C)(C)C)=O)=CN2C)=C1)OC",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      9,
+      12
+    ]
   },
   "600022": {
     "heteroarene": "BrC1=C(OC)N=C2C(C=CN2C)=C1",
     "radical": "[H]C1C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1([H])[H]",
-    "product": "BrC1=C(OC)N=C2C(C=CN2C)=C1C3CN(C(OC(C)(C)C)=O)C3"
+    "product": "BrC1=C(OC)N=C2C(C=CN2C)=C1C3CN(C(OC(C)(C)C)=O)C3",
+    "heteroarene_rc": 12,
+    "other_heteroarene_rc": [
+      8,
+      9
+    ]
   },
   "600023": {
     "heteroarene": "O=C(OC(C)(C)C)N1C2=NC=CC=C2C=C1",
     "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "O=C(OC(C)(C)C)N1C2=NC=CC=C2C=C1C(N(C)C)=O"
+    "product": "O=C(OC(C)(C)C)N1C2=NC=CC=C2C=C1C(N(C)C)=O",
+    "heteroarene_rc": 15,
+    "other_heteroarene_rc": [
+      10,
+      11,
+      12,
+      14
+    ]
   },
   "600024": {
     "heteroarene": "O=C(OC(C)(C)C)N1C2=NC=CC=C2C=C1",
     "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "O=C(OC(C)(C)C)N1C2=NC=CC(CNC(OC(C)(C)C)=O)=C2C=C1"
+    "product": "O=C(OC(C)(C)C)N1C2=NC=CC(CNC(OC(C)(C)C)=O)=C2C=C1",
+    "heteroarene_rc": 12,
+    "other_heteroarene_rc": [
+      10,
+      11,
+      14,
+      15
+    ]
   },
   "600025": {
     "heteroarene": "O=C(OC(C)(C)C)N1C2=NC=CC=C2C=C1",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "O=C(OC(C)(C)C)N1C2=NC=CC(CCNC(OC(C)(C)C)=O)=C2C=C1"
+    "product": "O=C(OC(C)(C)C)N1C2=NC=CC(CCNC(OC(C)(C)C)=O)=C2C=C1",
+    "heteroarene_rc": 12,
+    "other_heteroarene_rc": [
+      10,
+      11,
+      14,
+      15
+    ]
   },
   "600026": {
     "heteroarene": "BrC1=C(C=CN2C(OC(C)(C)C)=O)C2=NC=C1",
     "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "BrC1=C(C=C(C(N(C)C)=O)N2C(OC(C)(C)C)=O)C2=NC=C1"
+    "product": "BrC1=C(C=C(C(N(C)C)=O)N2C(OC(C)(C)C)=O)C2=NC=C1",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      3,
+      15,
+      16
+    ]
   },
   "600027": {
     "heteroarene": "BrC1=C(C=CN2C(OC(C)(C)C)=O)C2=NC=C1",
     "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "BrC1=C(C=CN2C(OC(C)(C)C)=O)C2=NC(CNC(OC(C)(C)C)=O)=C1"
+    "product": "BrC1=C(C=CN2C(OC(C)(C)C)=O)C2=NC(CNC(OC(C)(C)C)=O)=C1",
+    "heteroarene_rc": 15,
+    "other_heteroarene_rc": [
+      3,
+      4,
+      16
+    ]
   },
   "600028": {
     "heteroarene": "BrC1=C(C=CN2C(OC(C)(C)C)=O)C2=NC=C1",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "BrC1=C(C=C(CCNC(OC(C)(C)C)=O)N2C(OC(C)(C)C)=O)C2=NC=C1"
+    "product": "BrC1=C(C=C(CCNC(OC(C)(C)C)=O)N2C(OC(C)(C)C)=O)C2=NC=C1",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      3,
+      15,
+      16
+    ]
   },
   "600029": {
     "heteroarene": "BrC1=C(C=CN2C(OC(C)(C)C)=O)C2=NC=C1",
     "radical": "[H]C1C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1([H])[H]",
-    "product": "BrC1=C(C=C(C2CN(C(OC(C)(C)C)=O)C2)N3C(OC(C)(C)C)=O)C3=NC=C1"
+    "product": "BrC1=C(C=C(C2CN(C(OC(C)(C)C)=O)C2)N3C(OC(C)(C)C)=O)C3=NC=C1",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      3,
+      15,
+      16
+    ]
   },
   "600030": {
     "heteroarene": "ClC1=NN=C(C#N)C=C1",
     "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "ClC1=NN=C(C#N)C=C1C(N(C)C)=O"
+    "product": "ClC1=NN=C(C#N)C=C1C(N(C)C)=O",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      7
+    ]
   },
   "600031": {
     "heteroarene": "ClC1=NN=C(C#N)C=C1",
     "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "ClC1=NN=C(C#N)C=C1CNC(OC(C)(C)C)=O"
+    "product": "ClC1=NN=C(C#N)C=C1CNC(OC(C)(C)C)=O",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      7
+    ]
   },
   "600032": {
     "heteroarene": "ClC1=NN=C(C#N)C=C1",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "ClC1=NN=C(C#N)C=C1CCNC(OC(C)(C)C)=O"
+    "product": "ClC1=NN=C(C#N)C=C1CCNC(OC(C)(C)C)=O",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      7
+    ]
   },
   "600033": {
     "heteroarene": "ClC1=NN=C(C#N)C=C1",
     "radical": "[H]C1C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1([H])[H]",
-    "product": "ClC1=NN=C(C#N)C=C1C(C2)CN2C(OC(C)(C)C)=O"
+    "product": "ClC1=NN=C(C#N)C=C1C(C2)CN2C(OC(C)(C)C)=O",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      7
+    ]
   },
   "600035": {
     "heteroarene": "CC1=NN=C(C#N)C=C1",
     "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "N#CC1=NN=C(C(CNC(OC(C)(C)C)=O)=C1)C"
+    "product": "N#CC1=NN=C(C(CNC(OC(C)(C)C)=O)=C1)C",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      7
+    ]
   },
   "600036": {
     "heteroarene": "CC1=NN=C(C#N)C=C1",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "N#CC1=NN=C(C(CCNC(OC(C)(C)C)=O)=C1)C"
+    "product": "N#CC1=NN=C(C(CCNC(OC(C)(C)C)=O)=C1)C",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      7
+    ]
   },
   "600037": {
     "heteroarene": "CC1=NN=C(C#N)C=C1",
     "radical": "[H]C1C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1([H])[H]",
-    "product": "N#CC1=NN=C(C(C(C2)CN2C(OC(C)(C)C)=O)=C1)C"
+    "product": "N#CC1=NN=C(C(C(C2)CN2C(OC(C)(C)C)=O)=C1)C",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      7
+    ]
   },
   "600038": {
     "heteroarene": "ClC1=NN2C=NN=C2C=C1",
     "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "ClC1=NN2C=NN=C2C(C(N(C)C)=O)=C1"
+    "product": "ClC1=NN2C=NN=C2C(C(N(C)C)=O)=C1",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      4,
+      9
+    ]
   },
   "600039": {
     "heteroarene": "ClC1=NN2C=NN=C2C=C1",
     "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "ClC1=NN2C=NN=C2C(CNC(OC(C)(C)C)=O)=C1"
+    "product": "ClC1=NN2C=NN=C2C(CNC(OC(C)(C)C)=O)=C1",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      4,
+      9
+    ]
   },
   "600040": {
     "heteroarene": "ClC1=NN2C=NN=C2C=C1",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "ClC1=NN2C=NN=C2C(CCNC(OC(C)(C)C)=O)=C1"
+    "product": "ClC1=NN2C=NN=C2C(CCNC(OC(C)(C)C)=O)=C1",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      4,
+      9
+    ]
   },
   "600041": {
     "heteroarene": "ClC1=NN2C=NN=C2C=C1",
     "radical": "[H]C1C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1([H])[H]",
-    "product": "ClC1=NN2C=NN=C2C(C3CN(C(OC(C)(C)C)=O)C3)=C1"
+    "product": "ClC1=NN2C=NN=C2C(C3CN(C(OC(C)(C)C)=O)C3)=C1",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      4,
+      9
+    ]
   },
   "600042": {
     "heteroarene": "ClC1=NN2C=CN=C2C=C1",
     "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "ClC1=NN2C=CN=C2C(CNC(OC(C)(C)C)=O)=C1"
+    "product": "ClC1=NN2C=CN=C2C(CNC(OC(C)(C)C)=O)=C1",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      4,
+      5,
+      9
+    ]
   },
   "600044": {
     "heteroarene": "ClC1=NN2C=CN=C2C=C1",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "ClC1=NN2C=CN=C2C(CCNC(OC(C)(C)C)=O)=C1"
+    "product": "ClC1=NN2C=CN=C2C(CCNC(OC(C)(C)C)=O)=C1",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      4,
+      5,
+      9
+    ]
   },
   "600045": {
     "heteroarene": "ClC1=NN2C=CN=C2C=C1",
     "radical": "[H]C1C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1([H])[H]",
-    "product": "ClC1=NN2C=CN=C2C(C3CN(C(OC(C)(C)C)=O)C3)=C1"
+    "product": "ClC1=NN2C=CN=C2C(C3CN(C(OC(C)(C)C)=O)C3)=C1",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      4,
+      5,
+      9
+    ]
   },
   "600047": {
     "heteroarene": "CCOC(C1=CN2N=C(C=CC2=N1)Cl)=O",
     "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CCOC(C1=CN2N=C(C=C(CNC(OC(C)(C)C)=O)C2=N1)Cl)=O"
+    "product": "CCOC(C1=CN2N=C(C=C(CNC(OC(C)(C)C)=O)C2=N1)Cl)=O",
+    "heteroarene_rc": 10,
+    "other_heteroarene_rc": [
+      5,
+      9
+    ]
   },
   "600048": {
     "heteroarene": "CCOC(C1=CN2N=C(C=CC2=N1)Cl)=O",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CCOC(C1=CN2N=C(C=C(C2=N1)CCNC(OC(C)(C)C)=O)Cl)=O"
+    "product": "CCOC(C1=CN2N=C(C=C(C2=N1)CCNC(OC(C)(C)C)=O)Cl)=O",
+    "heteroarene_rc": 10,
+    "other_heteroarene_rc": [
+      5,
+      9
+    ]
   },
   "600049": {
     "heteroarene": "CCOC(C1=CN2N=C(C=CC2=N1)Cl)=O",
     "radical": "[H]C1C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1([H])[H]",
-    "product": "CCOC(C1=CN2N=C(C=C(C3CN(C(OC(C)(C)C)=O)C3)C2=N1)Cl)=O"
+    "product": "CCOC(C1=CN2N=C(C=C(C3CN(C(OC(C)(C)C)=O)C3)C2=N1)Cl)=O",
+    "heteroarene_rc": 10,
+    "other_heteroarene_rc": [
+      5,
+      9
+    ]
   },
   "600050": {
     "heteroarene": "C12=NC=CC=C1SC=N2",
     "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "O=C(N(C)C)C1=NC2=NC=CC=C2S1"
+    "product": "O=C(N(C)C)C1=NC2=NC=CC=C2S1",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      2,
+      3,
+      4
+    ]
   },
   "600053": {
     "heteroarene": "C12=NC=CC=C1SC=N2",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "O=C(OC(C)(C)C)NCCC1=NC2=NC=CC=C2S1"
+    "product": "O=C(OC(C)(C)C)NCCC1=NC2=NC=CC=C2S1",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      2,
+      3,
+      4
+    ]
   },
   "600054": {
     "heteroarene": "C12=NC=CC=C1SC=N2",
     "radical": "[H]C1C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1([H])[H]",
-    "product": "O=C(OC(C)(C)C)N(C1)CC1C2=NC3=NC=CC=C3S2"
+    "product": "O=C(OC(C)(C)C)N(C1)CC1C2=NC3=NC=CC=C3S2",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      2,
+      3,
+      4
+    ]
   },
   "600055": {
     "heteroarene": "COC(C1=NN=C(C)C=C1)=O",
     "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "COC(C1=NN=C(C)C=C1C(N(C)C)=O)=O"
+    "product": "COC(C1=NN=C(C)C=C1C(N(C)C)=O)=O",
+    "heteroarene_rc": 9,
+    "other_heteroarene_rc": [
+      8
+    ]
   },
   "600056": {
     "heteroarene": "COC(C1=NN=C(C)C=C1)=O",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "COC(C1=NN=C(C)C=C1CCNC(OC(C)(C)C)=O)=O"
+    "product": "COC(C1=NN=C(C)C=C1CCNC(OC(C)(C)C)=O)=O",
+    "heteroarene_rc": 9,
+    "other_heteroarene_rc": [
+      8
+    ]
   },
   "600057": {
     "heteroarene": "COC(C1=NN=C(C)C=C1)=O",
     "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "COC(C1=NN=C(C)C=C1CNC(OC(C)(C)C)=O)=O"
+    "product": "COC(C1=NN=C(C)C=C1CNC(OC(C)(C)C)=O)=O",
+    "heteroarene_rc": 9,
+    "other_heteroarene_rc": [
+      8
+    ]
   },
   "600058": {
     "heteroarene": "C12=NC=NC=C1C=CS2",
     "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "O=C(N(C)C)C1=C2C(SC=C2)=NC=N1"
+    "product": "O=C(N(C)C)C1=C2C(SC=C2)=NC=N1",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      2,
+      6,
+      7
+    ]
   },
   "600059": {
     "heteroarene": "C12=NC=NC=C1C=CS2",
     "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "O=C(OC(C)(C)C)NCC1=C2C(SC=C2)=NC=N1"
+    "product": "O=C(OC(C)(C)C)NCC1=C2C(SC=C2)=NC=N1",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      2,
+      6,
+      7
+    ]
   },
   "600060": {
     "heteroarene": "C12=NC=NC=C1C=CS2",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "O=C(OC(C)(C)C)NCCC1=C2C(SC=C2)=NC=N1"
+    "product": "O=C(OC(C)(C)C)NCCC1=C2C(SC=C2)=NC=N1",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      2,
+      6,
+      7
+    ]
   },
   "600061": {
     "heteroarene": "ClC1=NC=C2C(SC=C2C)=N1",
     "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "ClC1=NC(CNC(OC(C)(C)C)=O)=C2C(SC=C2C)=N1"
+    "product": "ClC1=NC(CNC(OC(C)(C)C)=O)=C2C(SC=C2C)=N1",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      7
+    ]
   },
   "600062": {
     "heteroarene": "CC1=C(C=NC=C1Br)F",
     "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC1=C(C(CNC(OC(C)(C)C)=O)=NC=C1Br)F"
+    "product": "CC1=C(C(CNC(OC(C)(C)C)=O)=NC=C1Br)F",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      5
+    ]
   },
   "600063": {
     "heteroarene": "N#CC1=CC(C)=CN=C1",
     "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "N#CC1=CC(C)=C(C(N(C)C)=O)N=C1"
+    "product": "N#CC1=CC(C)=C(C(N(C)C)=O)N=C1",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      3,
+      8
+    ]
   },
   "600064": {
     "heteroarene": "N#CC1=CC(C)=CN=C1",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "N#CC1=CC(C)=C(CCNC(OC(C)(C)C)=O)N=C1"
+    "product": "N#CC1=CC(C)=C(CCNC(OC(C)(C)C)=O)N=C1",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      3,
+      8
+    ]
   },
   "600065": {
     "heteroarene": "N#CC1=CC(C)=CN=C1",
     "radical": "[H]C1C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1([H])[H]",
-    "product": "N#CC1=CC(C)=C(C(C2)CN2C(OC(C)(C)C)=O)N=C1"
+    "product": "N#CC1=CC(C)=C(C(C2)CN2C(OC(C)(C)C)=O)N=C1",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      3,
+      8
+    ]
   },
   "600066": {
     "heteroarene": "N#CC1=CC(Br)=CN=C1",
     "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "N#CC1=CC(Br)=C(CNC(OC(C)(C)C)=O)N=C1"
+    "product": "N#CC1=CC(Br)=C(CNC(OC(C)(C)C)=O)N=C1",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      3,
+      8
+    ]
   },
   "600067": {
     "heteroarene": "N#CC1=CC(Br)=CN=C1",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "N#CC1=CC(Br)=C(N=C1)CCNC(OC(C)(C)C)=O"
+    "product": "N#CC1=CC(Br)=C(N=C1)CCNC(OC(C)(C)C)=O",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      3,
+      8
+    ]
   },
   "600068": {
     "heteroarene": "CCOC(C1=CN=CC=C1)=O",
     "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CCOC(C1=CN=C(CNC(OC(C)(C)C)=O)C=C1)=O"
+    "product": "CCOC(C1=CN=C(CNC(OC(C)(C)C)=O)C=C1)=O",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      5,
+      8,
+      9
+    ]
   },
   "600069": {
     "heteroarene": "CCOC(C1=CN=CC=C1)=O",
     "radical": "[H]C1C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1([H])[H]",
-    "product": "CCOC(C1=CN=C(C2CN(C(OC(C)(C)C)=O)C2)C=C1)=O"
+    "product": "CCOC(C1=CN=C(C2CN(C(OC(C)(C)C)=O)C2)C=C1)=O",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      5,
+      8,
+      9
+    ]
   },
   "600071": {
     "heteroarene": "COC(C1=CC(F)=CN=C1)=O",
     "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "COC(C1=CC(F)=C(C(N(C)C)=O)N=C1)=O"
+    "product": "COC(C1=CC(F)=C(C(N(C)C)=O)N=C1)=O",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      4,
+      9
+    ]
   },
   "600072": {
     "heteroarene": "COC(C1=CC(F)=CN=C1)=O",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "COC(C1=CC(F)=C(CCNC(OC(C)(C)C)=O)N=C1)=O"
+    "product": "COC(C1=CC(F)=C(CCNC(OC(C)(C)C)=O)N=C1)=O",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      4,
+      9
+    ]
   },
   "600073": {
     "heteroarene": "COC(C1=CC(F)=CN=C1)=O",
     "radical": "[H]C1C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1([H])[H]",
-    "product": "COC(C1=CC(F)=C(C2CN(C(OC(C)(C)C)=O)C2)N=C1)=O"
+    "product": "COC(C1=CC(F)=C(C2CN(C(OC(C)(C)C)=O)C2)N=C1)=O",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      4,
+      9
+    ]
   },
   "600074": {
     "heteroarene": "COC(C1=CC(F)=C(C)N=C1)=O",
     "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "COC(C1=C(CNC(OC(C)(C)C)=O)C(F)=C(C)N=C1)=O"
+    "product": "COC(C1=C(CNC(OC(C)(C)C)=O)C(F)=C(C)N=C1)=O",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      10
+    ]
   },
   "600075": {
     "heteroarene": "COC(C1=CC(F)=C(C)N=C1)=O",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "COC(C1=C(CCNC(OC(C)(C)C)=O)C(F)=C(C)N=C1)=O"
+    "product": "COC(C1=C(CCNC(OC(C)(C)C)=O)C(F)=C(C)N=C1)=O",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      10
+    ]
   },
   "600076": {
     "heteroarene": "COC(C1=CC(OC)=CN=C1)=O",
     "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "COC(C1=CC(OC)=C(C(N(C)C)=O)N=C1)=O"
+    "product": "COC(C1=CC(OC)=C(C(N(C)C)=O)N=C1)=O",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      4,
+      10
+    ]
   },
   "600077": {
     "heteroarene": "COC1=CC=CN=C1",
     "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "COC1=CC=CN=C1C(N(C)C)=O"
+    "product": "COC1=CC=CN=C1C(N(C)C)=O",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      3,
+      4,
+      5
+    ]
   },
   "600078": {
     "heteroarene": "COC1=CC=CN=C1",
     "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "COC1=CC=CN=C1CNC(OC(C)(C)C)=O"
+    "product": "COC1=CC=CN=C1CNC(OC(C)(C)C)=O",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      3,
+      4,
+      5
+    ]
   },
   "600079": {
     "heteroarene": "COC1=CC=CN=C1",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "COC1=CC=CN=C1CCNC(OC(C)(C)C)=O"
+    "product": "COC1=CC=CN=C1CCNC(OC(C)(C)C)=O",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      3,
+      4,
+      5
+    ]
   },
   "600080": {
     "heteroarene": "COC1=CC=CN=C1",
     "radical": "[H]C1C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1([H])[H]",
-    "product": "COC1=CC=CN=C1C2CN(C(OC(C)(C)C)=O)C2"
+    "product": "COC1=CC=CN=C1C2CN(C(OC(C)(C)C)=O)C2",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      3,
+      4,
+      5
+    ]
   },
   "600081": {
     "heteroarene": "N#CC1=CN=C2C=CNC2=C1",
     "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "N#CC1=CN=C2C=CNC2=C1CNC(OC(C)(C)C)=O"
+    "product": "N#CC1=CN=C2C=CNC2=C1CNC(OC(C)(C)C)=O",
+    "heteroarene_rc": 10,
+    "other_heteroarene_rc": [
+      3,
+      6,
+      7
+    ]
   },
   "600082": {
     "heteroarene": "N#CC1=CN=C2C=CNC2=C1",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "N#CC1=CN=C2C=CNC2=C1CCNC(OC(C)(C)C)=O"
+    "product": "N#CC1=CN=C2C=CNC2=C1CCNC(OC(C)(C)C)=O",
+    "heteroarene_rc": 10,
+    "other_heteroarene_rc": [
+      3,
+      6,
+      7
+    ]
   },
   "600083": {
     "heteroarene": "N#CC1=CN=C2C=CNC2=C1",
     "radical": "[H]C1C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1([H])[H]",
-    "product": "N#CC1=CN=C2C=CNC2=C1C3CN(C(OC(C)(C)C)=O)C3"
+    "product": "N#CC1=CN=C2C=CNC2=C1C3CN(C(OC(C)(C)C)=O)C3",
+    "heteroarene_rc": 10,
+    "other_heteroarene_rc": [
+      3,
+      6,
+      7
+    ]
   },
   "600084": {
     "heteroarene": "FC1=CN=C2C=CNC2=C1",
     "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "FC1=CN=C2C(C(N(C)C)=O)=CNC2=C1"
+    "product": "FC1=CN=C2C(C(N(C)C)=O)=CNC2=C1",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      2,
+      6,
+      9
+    ]
   },
   "600085": {
     "heteroarene": "FC1=CC2=CC=C(Br)C=C2N=C1",
     "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "FC1=CC2=CC=C(Br)C=C2N=C1CNC(OC(C)(C)C)=O"
+    "product": "FC1=CC2=CC=C(Br)C=C2N=C1CNC(OC(C)(C)C)=O",
+    "heteroarene_rc": 11,
+    "other_heteroarene_rc": [
+      2,
+      4,
+      5,
+      8
+    ]
   },
   "600086": {
     "heteroarene": "FC1=CC2=CC=C(Br)C=C2N=C1CNC(OC(C)(C)C)=O",
     "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "FC1=C(CNC(OC(C)(C)C)=O)C2=CC=C(Br)C=C2N=C1CNC(OC(C)(C)C)=O"
+    "product": "FC1=C(CNC(OC(C)(C)C)=O)C2=CC=C(Br)C=C2N=C1CNC(OC(C)(C)C)=O",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      4,
+      5,
+      8
+    ]
   },
   "600087": {
     "heteroarene": "BrC1=CC2=CC=CC=C2N=C1",
     "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "BrC1=C(C(N(C)C)=O)C2=CC=CC=C2N=C1"
+    "product": "BrC1=C(C(N(C)C)=O)C2=CC=CC=C2N=C1",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      4,
+      5,
+      6,
+      7,
+      10
+    ]
   },
   "600088": {
     "heteroarene": "BrC1=CC2=CC=CC=C2N=C1",
     "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "BrC1=C(CNC(OC(C)(C)C)=O)C2=CC=CC=C2N=C1"
+    "product": "BrC1=C(CNC(OC(C)(C)C)=O)C2=CC=CC=C2N=C1",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      4,
+      5,
+      6,
+      7,
+      10
+    ]
   },
   "600089": {
     "heteroarene": "BrC1=CC2=CC=CC=C2N=C1",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "BrC1=C(CCNC(OC(C)(C)C)=O)C2=CC=CC=C2N=C1"
+    "product": "BrC1=C(CCNC(OC(C)(C)C)=O)C2=CC=CC=C2N=C1",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      4,
+      5,
+      6,
+      7,
+      10
+    ]
   },
   "600090": {
     "heteroarene": "BrC1=CC2=CC=CC=C2N=C1",
     "radical": "[H]C1C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1([H])[H]",
-    "product": "BrC1=C(C2CN(C(OC(C)(C)C)=O)C2)C3=CC=CC=C3N=C1"
+    "product": "BrC1=C(C2CN(C(OC(C)(C)C)=O)C2)C3=CC=CC=C3N=C1",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      4,
+      5,
+      6,
+      7,
+      10
+    ]
   },
   "600091": {
     "heteroarene": "COC(C1=CC2=CC=C(Br)C=C2N=C1)=O",
     "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "COC(C1=C(C(N(C)C)=O)C2=CC=C(Br)C=C2N=C1)=O"
+    "product": "COC(C1=C(C(N(C)C)=O)C2=CC=C(Br)C=C2N=C1)=O",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      6,
+      7,
+      10,
+      13
+    ]
   },
   "600092": {
     "heteroarene": "COC(C1=CC2=CC=C(Br)C=C2N=C1)=O",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "COC(C1=C(CCNC(OC(C)(C)C)=O)C2=CC=C(Br)C=C2N=C1)=O"
+    "product": "COC(C1=C(CCNC(OC(C)(C)C)=O)C2=CC=C(Br)C=C2N=C1)=O",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      6,
+      7,
+      10,
+      13
+    ]
   },
   "600093": {
     "heteroarene": "COC(C1=CC2=CC=C(Br)C=C2N=C1)=O",
     "radical": "[H]C1C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1([H])[H]",
-    "product": "COC(C1=C(C2CN(C(OC(C)(C)C)=O)C2)C3=CC=C(Br)C=C3N=C1)=O"
+    "product": "COC(C1=C(C2CN(C(OC(C)(C)C)=O)C2)C3=CC=C(Br)C=C3N=C1)=O",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      6,
+      7,
+      10,
+      13
+    ]
   },
   "600094": {
     "heteroarene": "CC(C1=CC2=CC=CC=C2N=C1)=O",
     "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "CC(C1=C(C(N(C)C)=O)C2=CC=CC=C2N=C1)=O"
+    "product": "CC(C1=C(C(N(C)C)=O)C2=CC=CC=C2N=C1)=O",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      5,
+      6,
+      7,
+      8,
+      11
+    ]
   },
   "600095": {
     "heteroarene": "CC(C1=CC2=CC=CC=C2N=C1)=O",
     "radical": "[H]C1C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1([H])[H]",
-    "product": "CC(C1=C(C2CN(C(OC(C)(C)C)=O)C2)C3=CC=CC=C3N=C1)=O"
+    "product": "CC(C1=C(C2CN(C(OC(C)(C)C)=O)C2)C3=CC=CC=C3N=C1)=O",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      5,
+      6,
+      7,
+      8,
+      11
+    ]
   },
   "600096": {
     "heteroarene": "O=C(OC)C1=CC=CC=N1",
     "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "COC(C1=NC=CC(CNC(OC(C)(C)C)=O)=C1)=O"
+    "product": "COC(C1=NC=CC(CNC(OC(C)(C)C)=O)=C1)=O",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      5,
+      7,
+      8
+    ]
   },
   "600097": {
     "heteroarene": "O=C(OC)C1=CC=CC=N1",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "COC(C1=NC=C(CCNC(OC(C)(C)C)=O)C=C1)=O"
+    "product": "COC(C1=NC=C(CCNC(OC(C)(C)C)=O)C=C1)=O",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      5,
+      6,
+      8
+    ]
   },
   "600098": {
     "heteroarene": "BrC1=C(C=CN2C)C2=CN=C1",
     "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "BrC1=C(C2=CN=C1)C=C(N2C)C(N(C)C)=O"
+    "product": "BrC1=C(C2=CN=C1)C=C(N2C)C(N(C)C)=O",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      3,
+      8,
+      10
+    ]
   },
   "600099": {
     "heteroarene": "BrC1=C(C=CN2C)C2=CN=C1",
     "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "BrC1=C(C=CN2C)C2=C(CNC(OC(C)(C)C)=O)N=C1"
+    "product": "BrC1=C(C=CN2C)C2=C(CNC(OC(C)(C)C)=O)N=C1",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      3,
+      4,
+      10
+    ]
   },
   "600100": {
     "heteroarene": "BrC1=C(C=CN2C)C2=CN=C1",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "BrC1=C(C=CN2C)C2=C(CCNC(OC(C)(C)C)=O)N=C1"
+    "product": "BrC1=C(C=CN2C)C2=C(CCNC(OC(C)(C)C)=O)N=C1",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      3,
+      4,
+      10
+    ]
   },
   "600101": {
     "heteroarene": "BrC1=C(C=CN2C)C2=CN=C1",
     "radical": "[H]C1C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1([H])[H]",
-    "product": "BrC1=C(C=CN2C)C2=C(C3CN(C(OC(C)(C)C)=O)C3)N=C1"
+    "product": "BrC1=C(C=CN2C)C2=C(C3CN(C(OC(C)(C)C)=O)C3)N=C1",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      3,
+      4,
+      10
+    ]
   },
   "600102": {
     "heteroarene": "O=S(N1C2=NC=CC=C2C=C1)(C3=CC=CC=C3)=O",
     "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "O=S(N1C2=NC=CC=C2C=C1C(N(C)C)=O)(C3=CC=CC=C3)=O"
+    "product": "O=S(N1C2=NC=CC=C2C=C1C(N(C)C)=O)(C3=CC=CC=C3)=O",
+    "heteroarene_rc": 10,
+    "other_heteroarene_rc": [
+      5,
+      6,
+      7,
+      9
+    ]
   },
   "600103": {
     "heteroarene": "O=S(N1C2=NC=CC=C2C=C1)(C3=CC=CC=C3)=O",
     "radical": "[H]C1C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1([H])[H]",
-    "product": "O=S(N1C2=NC=CC=C2C=C1C3CN(C(OC(C)(C)C)=O)C3)(C4=CC=CC=C4)=O"
+    "product": "O=S(N1C2=NC=CC=C2C=C1C3CN(C(OC(C)(C)C)=O)C3)(C4=CC=CC=C4)=O",
+    "heteroarene_rc": 10,
+    "other_heteroarene_rc": [
+      5,
+      6,
+      7,
+      9
+    ]
   },
   "600104": {
     "heteroarene": "BrC1=NC(C(OC)=O)=CC=C1",
     "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "BrC1=NC(C(OC)=O)=CC=C1C(N(C)C)=O"
+    "product": "BrC1=NC(C(OC)=O)=CC=C1C(N(C)C)=O",
+    "heteroarene_rc": 10,
+    "other_heteroarene_rc": [
+      8,
+      9
+    ]
   },
   "600105": {
     "heteroarene": "BrC1=NC(C(OC)=O)=CC=C1",
     "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "BrC1=NC(C(OC)=O)=CC=C1CNC(OC(C)(C)C)=O"
+    "product": "BrC1=NC(C(OC)=O)=CC=C1CNC(OC(C)(C)C)=O",
+    "heteroarene_rc": 10,
+    "other_heteroarene_rc": [
+      8,
+      9
+    ]
   },
   "600106": {
     "heteroarene": "BrC1=NC(C(OC)=O)=CC=C1",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "BrC1=NC(C(OC)=O)=CC=C1CCNC(OC(C)(C)C)=O"
+    "product": "BrC1=NC(C(OC)=O)=CC=C1CCNC(OC(C)(C)C)=O",
+    "heteroarene_rc": 10,
+    "other_heteroarene_rc": [
+      8,
+      9
+    ]
   },
   "600107": {
     "heteroarene": "COC(C1=NC=C(Br)C=C1)=O",
     "radical": "[H]C([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "COC(C1=NC=C(Br)C(CNC(OC(C)(C)C)=O)=C1)=O"
+    "product": "COC(C1=NC=C(Br)C(CNC(OC(C)(C)C)=O)=C1)=O",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      5,
+      9
+    ]
   },
   "600108": {
     "heteroarene": "N#CC1=CN=CC(Br)=N1",
     "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "N#CC1=CN=C(C(N(C)C)=O)C(Br)=N1"
+    "product": "N#CC1=CN=C(C(N(C)C)=O)C(Br)=N1",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      3
+    ]
   },
   "600109": {
     "heteroarene": "N#CC1=CN=CC(Br)=N1",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "N#CC1=CN=C(CCNC(OC(C)(C)C)=O)C(Br)=N1"
+    "product": "N#CC1=CN=C(CCNC(OC(C)(C)C)=O)C(Br)=N1",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      3
+    ]
   },
   "600110": {
     "heteroarene": "N#CC1=CN=CC(Br)=N1",
     "radical": "[H]C1C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1([H])[H]",
-    "product": "N#CC1=CN=C(C2CN(C(OC(C)(C)C)=O)C2)C(Br)=N1"
+    "product": "N#CC1=CN=C(C2CN(C(OC(C)(C)C)=O)C2)C(Br)=N1",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      3
+    ]
   },
   "600111": {
     "heteroarene": "COC(C1=NN=CC=C1)=O",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "COC(C1=NN=C(CCNC(OC(C)(C)C)=O)C=C1)=O"
+    "product": "COC(C1=NN=C(CCNC(OC(C)(C)C)=O)C=C1)=O",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      7,
+      8
+    ]
   },
   "600112": {
     "heteroarene": "COC(C1=NN=CC=C1)=O",
     "radical": "[H]C1C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1([H])[H]",
-    "product": "COC(C1=NN=C(C2CN(C(OC(C)(C)C)=O)C2)C=C1)=O"
+    "product": "COC(C1=NN=C(C2CN(C(OC(C)(C)C)=O)C2)C=C1)=O",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      7,
+      8
+    ]
   },
   "600113": {
     "heteroarene": "CN1C=C(C(C)=O)C=C1",
     "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "CN1C(C(N(C)C)=O)=C(C(C)=O)C=C1"
+    "product": "CN1C(C(N(C)C)=O)=C(C(C)=O)C=C1",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      7,
+      8
+    ]
   },
   "600115": {
     "heteroarene": "CN1C=C(C(C)=O)C=C1",
     "radical": "[H]C([H])C([H])([H])N([H])C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CN1C(CCNC(OC(C)(C)C)=O)=C(C(C)=O)C=C1"
+    "product": "CN1C(CCNC(OC(C)(C)C)=O)=C(C(C)=O)C=C1",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      7,
+      8
+    ]
   }
 }

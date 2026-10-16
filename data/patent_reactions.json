@@ -1,1448 +1,2625 @@
 {
-  "1790000700001": {
-    "heteroarene": "Nc1ccc(Br)c(Cl)n1",
-    "radical": "[H]C([H])([H])C([H])([H])OC(=O)C(F)F",
-    "product": "CCOC(=O)C(F)(F)c1cc(Br)c(Cl)nc1N",
-    "patent_id": "WO24/032776_0344"
-  },
-  "90008201636": {
-    "heteroarene": "CC(=O)OC[C@H]1O[C@H](C[C@@H]1OC(=O)C)n2ccc(=O)[nH]c2=O",
-    "radical": "FC(F)F",
-    "product": "CC(=O)OC[C@H]1O[C@H](C[C@@H]1OC(=O)C)n2cc(c(=O)[nH]c2=O)C(F)(F)F",
-    "patent_id": "US20090124796A1_0238"
-  },
-  "80004003184": {
-    "heteroarene": "Brc1ccncc1",
-    "radical": "[H]C([H])([H])OC=O",
-    "product": "COC(=O)c1cc(Br)ccn1",
-    "patent_id": "US20080058521A1_1296"
-  },
-  "120003002005": {
-    "heteroarene": "COC(=O)c1ccc2ncccc2c1",
-    "radical": "[H]C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "COC(=O)c1ccc2nc(ccc2c1)C(C)C",
-    "patent_id": "US20120088746A1_0744"
-  },
-  "90008201637": {
-    "heteroarene": "Nc1cc[nH]c(=O)n1",
-    "radical": "FC(F)F",
-    "product": "Nc1nc(=O)[nH]cc1C(F)(F)F",
-    "patent_id": "US20090124796A1_0243"
-  },
-  "240007401962": {
-    "heteroarene": "Nc1cc(Cl)ncn1",
-    "radical": "[H]C1C([H])([H])C([H])(F)C1([H])[H]",
-    "product": "Nc1cc(Cl)nc(n1)C2CC(F)C2",
-    "patent_id": "WO2022271630A1_0002"
-  },
-  "2150005000389": {
-    "heteroarene": "c1ccc2nccnc2c1",
-    "radical": "[H]C([H])([H])C=O",
-    "product": "CC(=O)c1cnc2ccccc2n1",
-    "patent_id": "WO2012168733A1_0327"
-  },
-  "80011400299": {
-    "heteroarene": "Cc1ccncc1C#N",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "Cc1cc(ncc1C#N)C(C)(C)C",
-    "patent_id": "US20080171770A1_0324"
-  },
-  "240007905313": {
-    "heteroarene": "c1nc2ccccn2n1",
-    "radical": "[H]OC=O",
-    "product": "OC(=O)c1ccn2ncnc2c1",
-    "patent_id": "US20240327386A1"
-  },
-  "50011200944": {
-    "heteroarene": "COC(=O)c1ccc2ncccc2c1",
-    "radical": "[H]N([H])C=O",
-    "product": "COC(=O)c1ccc2nc(ccc2c1)C(=O)N",
-    "patent_id": "EP2314586B1"
-  },
-  "1780003101841": {
-    "heteroarene": "Fc1ccn2nc(Cl)nc(Cl)c12",
-    "radical": "[H]C([H])([H])C([H])([H])C1C([H])([H])C([H])([H])C1([H])[H]",
-    "product": "CCC1(CCC1)c2cc(F)c3c(Cl)nc(Cl)nn23",
-    "patent_id": "WO2023147372A1_0006"
-  },
-  "210001602808": {
-    "heteroarene": "Clc1cnc2ccccc2n1",
-    "radical": "[H]C([H])([H])C([H])([H])C([H])([H])C=O",
-    "product": "CCCC(=O)c1nc2ccccc2nc1Cl",
-    "patent_id": "US20210053927A1_0372"
-  },
-  "230009301900": {
-    "heteroarene": "Fc1ncccc1C#N",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(C)(C)c1ccc(C#N)c(F)n1",
-    "patent_id": "US20190055220A1_1800"
-  },
-  "210006803919": {
-    "heteroarene": "Brc1cncnc1",
-    "radical": "[H]C([H])([H])OC(=O)C12C([H])([H])C([H])([H])C(C([H])([H])C1([H])[H])C([H])([H])C2([H])[H]",
-    "product": "COC(=O)C1(CCC2(CC1)c3ncncc3Br)CC2",
-    "patent_id": "US20210261535A1_2293"
-  },
-  "200003201295": {
-    "heteroarene": "CCOC(=O)c1c[nH]cn1",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CCOC(=O)c1c[nH]c(n1)C(C)(C)C",
-    "patent_id": "US20200115388A1_0238"
-  },
-  "140002801934": {
-    "heteroarene": "COC(=O)c1c[nH]cn1",
-    "radical": "[H]C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "COC(=O)c1c[nH]c(n1)C(C)C",
-    "patent_id": "US20140094474A1_0359"
-  },
-  "770008001400": {
-    "heteroarene": "Cn1cccc1n2cc(Br)cn2",
-    "radical": "FC(C(F)(F)F)C(F)(F)F",
-    "product": "Cn1c(ccc1C(F)(C(F)(F)F)C(F)(F)F)n2cc(Br)cn2",
-    "patent_id": "US20200392124A1_0590"
-  },
-  "1780003102092": {
-    "heteroarene": "Fc1ccn2nc(Cl)nc(Cl)c12",
-    "radical": "[H]OC([H])(C(C([H])([H])[H])C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(O)C(C)(C)c1cc(F)c2c(Cl)nc(Cl)nn12",
-    "patent_id": "WO2023147372A1_0006"
-  },
-  "1750002700446": {
-    "heteroarene": "CCOC(=O)c1sc2ncncc2c1C",
-    "radical": "[H]C([H])C([H])([H])C1([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
-    "product": "CCOC(=O)c1sc2ncnc(CCC3CCCC3)c2c1C",
-    "patent_id": "WO2020139701A1_0500"
-  },
-  "1580004600473": {
-    "heteroarene": "NC(=O)c1cccnc1",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(C)(C)c1ncccc1C(=O)N",
-    "patent_id": "EP2964642B1_0073"
-  },
-  "720008801383": {
-    "heteroarene": "Cc1noc(Cn2ccc(c2C(=O)O)c3ccc(F)cc3)n1",
-    "radical": "FC(F)F",
-    "product": "Cc1noc(Cn2c(cc(c2C(=O)O)c3ccc(F)cc3)C(F)(F)F)n1",
-    "patent_id": "US09802921B2_0352"
-  },
-  "210001502129": {
-    "heteroarene": "Clc1cnc2ccccc2n1",
-    "radical": "[H]C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C=O",
-    "product": "CCCCCC(=O)c1nc2ccccc2nc1Cl",
-    "patent_id": "US20210053927A1_C00113"
-  },
-  "150009002118": {
-    "heteroarene": "OC(=O)c1ccc[nH]1",
-    "radical": "FC(F)F",
-    "product": "OC(=O)c1ccc([nH]1)C(F)(F)F",
-    "patent_id": "US20150315141A1_0244"
-  },
-  "240007806100": {
-    "heteroarene": "Clc1cnnc(Cl)c1",
-    "radical": "[H]C([H])([H])C=O",
-    "product": "CC(=O)c1c(Cl)cnnc1Cl",
-    "patent_id": "WO2022147246A1_0710"
-  },
-  "40015600388": {
-    "heteroarene": "COc1cc([N+](=O)[O-])c2nccc(C)c2c1OC",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "COc1cc([N+](=O)[O-])c2nc(cc(C)c2c1OC)C(C)(C)C",
-    "patent_id": "US20040192724A1_0116"
-  },
-  "90008201635": {
-    "heteroarene": "OC[C@H]1O[C@H](C[C@@H]1O)n2ccc(=O)[nH]c2=O",
-    "radical": "FC(F)F",
-    "product": "OC[C@H]1O[C@H](C[C@@H]1O)n2cc(c(=O)[nH]c2=O)C(F)(F)F",
-    "patent_id": "US20090124796A1_0233"
-  },
-  "150010601532": {
-    "heteroarene": "NC(=O)c1cccnc1",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(C)(C)c1ccc(cn1)C(=O)N",
-    "patent_id": "US20150376166A1_0106"
-  },
-  "170001600870": {
-    "heteroarene": "Cc1nc(Cl)ccc1F",
-    "radical": "[H]C1C([H])([H])C([H])([H])C1([H])[H]",
-    "product": "Cc1nc(Cl)cc(C2CCC2)c1F",
-    "patent_id": "US20170050951A1_0238"
-  },
-  "240003001690": {
-    "heteroarene": "Brc1cc2NCCOc2cn1",
-    "radical": "FC(F)F",
-    "product": "FC(F)(F)c1nc(Br)cc2NCCOc12",
-    "patent_id": "WO2022013311A1_0013"
-  },
-  "220003600483": {
-    "heteroarene": "N#Cc1ccncc1",
-    "radical": "[H]C1C([H])([H])C([H])([H])C1([H])[H]",
-    "product": "N#Cc1ccnc(c1)C2CCC2",
-    "patent_id": "US20220135553A1_0085"
-  },
-  "470000300190": {
-    "heteroarene": "O=C(c1ccc[nH]1)c2ccccc2",
-    "radical": "[H]C(C(=O)OC([H])([H])C([H])([H])[H])C(=O)OC([H])([H])C([H])([H])[H]",
-    "product": "CCOC(=O)C(C(=O)OCC)c1ccc([nH]1)C(=O)c2ccccc2",
-    "patent_id": "US05082950A"
-  },
-  "230010403685": {
-    "heteroarene": "COC(=O)CN1CC2(CC2)c3ncccc3C1=O",
-    "radical": "[H]C1C([H])([H])C1([H])[H]",
-    "product": "COC(=O)CN1CC2(CC2)c3nc(ccc3C1=O)C4CC4",
-    "patent_id": "US20230416205A1_1058"
-  },
-  "100006000876": {
-    "heteroarene": "COc1ccc2cnccc2c1",
-    "radical": "[H]C([H])C([H])([H])[H]",
-    "product": "CCc1cncc2ccc(OC)cc12",
-    "patent_id": "US20100081671A1_0370"
-  },
-  "140003001991": {
-    "heteroarene": "COc1ccc(nn1)C(F)F",
-    "radical": "[H]C([H])OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "COc1nnc(cc1COC(C)(C)C)C(F)F",
-    "patent_id": "US20140100231A1_1186"
-  },
-  "210006803899": {
-    "heteroarene": "Clc1ncccn1",
-    "radical": "[H]C([H])([H])OC(=O)C12C([H])([H])C([H])([H])C(C([H])([H])C1([H])[H])C([H])([H])C2([H])[H]",
-    "product": "COC(=O)C1(CCC2(CC1)c3ccnc(Cl)n3)CC2",
-    "patent_id": "US20210261535A1_1568"
-  },
-  "230004801302": {
-    "heteroarene": "Brc1cncnc1",
-    "radical": "[H]C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(C)c1ncncc1Br",
-    "patent_id": "US20230183210A1_0410"
-  },
-  "90008201618": {
-    "heteroarene": "O=c1cc[nH]c(=O)[nH]1",
-    "radical": "FC(F)F",
-    "product": "FC(F)(F)c1c[nH]c(=O)[nH]c1=O",
-    "patent_id": "US07884202B2_0232"
-  },
-  "90008201641": {
-    "heteroarene": "Nc1ncnc2nc[nH]c12",
-    "radical": "FC(F)F",
-    "product": "Nc1ncnc2nc([nH]c12)C(F)(F)F",
-    "patent_id": "US20090124796A1_0264"
-  },
-  "1780005202859": {
-    "heteroarene": "Cc1cc(ncn1)N2CC3(CC3)c4cnc(Cl)cc24",
-    "radical": "[H]C1C([H])([H])OC1([H])[H]",
-    "product": "Cc1cc(nc(n1)C2COC2)N3CC4(CC4)c5cnc(Cl)cc35",
-    "patent_id": "WO2023250064A1_0017"
-  },
-  "190009300821": {
-    "heteroarene": "Brc1ccc2ocnc2c1",
-    "radical": "[H]C1C([H])([H])C([H])([H])C([H])(C(=O)OC([H])([H])[H])C([H])([H])C1([H])[H]",
-    "product": "COC(=O)C1CCC(CC1)c2nc3cc(Br)ccc3o2",
-    "patent_id": "US20190352280A1_C00062"
-  },
-  "190007004192": {
-    "heteroarene": "Clc1cccc(Cl)n1",
-    "radical": "[H]c1c([H])c(F)c(-c2nnc3c(c2[H])[C@]2([H])C([H])([H])C([H])([H])C3C2(C([H])([H])[H])C([H])([H])[H])c(F)c1[H]",
-    "product": "CC1(C)[C@H]2CC[C@@]1(c3nnc(cc23)c4c(F)cccc4F)c5cc(Cl)nc(Cl)c5",
-    "patent_id": "US20190263794A1_1566"
-  },
-  "150003602300": {
-    "heteroarene": "Cc1cnc(N)cn1",
-    "radical": "FC(F)F",
-    "product": "Cc1cnc(N)c(n1)C(F)(F)F",
-    "patent_id": "US20150119380A1_0826"
-  },
-  "240005203349": {
-    "heteroarene": "Cc1ccnc(Cl)n1",
-    "radical": "[H]C1([H])C(F)C1([H])[H]",
-    "product": "Cc1cc(nc(Cl)n1)C2(F)CC2",
-    "patent_id": "US20240208981A1"
-  },
-  "240007401965": {
-    "heteroarene": "Nc1cc(Cl)ncn1",
-    "radical": "[H]OC(=O)C12C([H])([H])C(C1([H])[H])C2([H])[H]",
-    "product": "Nc1cc(Cl)nc(n1)C2(CC3(C2)C(=O)O)C3",
-    "patent_id": "WO2022271630A1_0002"
-  },
-  "1770000701199": {
-    "heteroarene": "Clc1ncccn1",
-    "radical": "[H]C1C([H])([H])C1([H])[H]",
-    "product": "Clc1nccc(n1)C2CC2",
-    "patent_id": "WO2022034568A1_0519"
-  },
-  "2220001400514": {
-    "heteroarene": "CCc1ccnc(OC)c1",
-    "radical": "[H]C([H])([H])C=O",
-    "product": "CCc1cc(OC)nc(c1)C(=O)C",
-    "patent_id": "WO2019063748A1_1129"
-  },
-  "170001600867": {
-    "heteroarene": "Cc1nc(Cl)ccc1F",
-    "radical": "[H]C([H])C([H])([H])[H]",
-    "product": "CCc1cc(Cl)nc(C)c1F",
-    "patent_id": "US20170050951A1_0226"
-  },
-  "210001602785": {
-    "heteroarene": "Brc1cnc2ccccc2c1",
-    "radical": "[H]C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C=O",
-    "product": "CCCCCC(=O)c1nc2ccccc2cc1Br",
-    "patent_id": "US20210053927A1_0284"
-  },
-  "1420001500281": {
-    "heteroarene": "N#Cc1ccccn1",
-    "radical": "[H]C([H])([H])C([H])([H])OC=O",
-    "product": "CCOC(=O)c1ccnc(C#N)c1",
-    "patent_id": "EP1814846B1_0268"
-  },
-  "770007004500": {
-    "heteroarene": "Clc1ncccc1C#N",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(C)(C)c1ccc(C#N)c(Cl)n1",
-    "patent_id": "US20080171770A1_0321"
-  },
-  "1780002503288": {
-    "heteroarene": "COc1ccc(Cl)nn1",
-    "radical": "[H]C([H])C([H])([H])C([H])(F)F",
-    "product": "COc1nnc(Cl)cc1CCC(F)F",
-    "patent_id": "WO2023111181A1_0017"
-  },
-  "1780002503290": {
-    "heteroarene": "COc1ccc(Cl)nn1",
-    "radical": "[H]OC([H])C([H])([H])C([H])([H])[H]",
-    "product": "CCC(O)c1cc(Cl)nnc1OC",
-    "patent_id": "WO2023111181A1_0017"
-  },
-  "80011400298": {
-    "heteroarene": "COc1ncccc1C#N",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "COc1nc(ccc1C#N)C(C)(C)C",
-    "patent_id": "US20080171770A1_0322"
-  },
-  "210006002131": {
-    "heteroarene": "Clc1ncccn1",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])C([H])([H])[H]",
-    "product": "CCC(C)(C)c1ccnc(Cl)n1",
-    "patent_id": "US20210230143A1_0565"
-  },
-  "30018202087": {
-    "heteroarene": "CCOC(=O)c1cccnc1C",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CCOC(=O)c1ccc(nc1C)C(C)(C)C",
-    "patent_id": "US20030195201A1_1043"
-  },
-  "180003803596": {
-    "heteroarene": "Cc1cscn1",
-    "radical": "[H]C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])[C@]([H])(C([H])([H])C=O)C([H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(C)[C@@H](CC(=O)c1nc(C)cs1)N(C)C(=O)OC(C)(C)C",
-    "patent_id": "US20180127463A1_0170"
-  },
-  "170010201801": {
-    "heteroarene": "COC(=O)[C@@H]1CC[C@H](C1)n2cnc3c(N)ncnc23",
-    "radical": "FC(F)F",
-    "product": "COC(=O)[C@@H]1CC[C@H](C1)n2c(nc3c(N)ncnc23)C(F)(F)F",
-    "patent_id": "US20170362235A1_0242"
-  },
-  "140002901394": {
-    "heteroarene": "COc1ccc(Cl)nn1",
-    "radical": "[H]C1C([H])([H])C(F)(F)C1([H])[H]",
-    "product": "COc1nnc(Cl)cc1C2CC(F)(F)C2",
-    "patent_id": "US20140100231A1_C00052"
-  },
-  "220002102001": {
-    "heteroarene": "CC(=O)c1cccc(Br)n1",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(=O)c1cc(cc(Br)n1)C(C)(C)C",
-    "patent_id": "US20220081458A1_C00017"
-  },
-  "1780003101854": {
-    "heteroarene": "Clc1ccn2nc(Cl)nc(Cl)c12",
-    "radical": "[H]OC([H])(C(C([H])([H])[H])C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(O)C(C)(C)c1cc(Cl)c2c(Cl)nc(Cl)nn12",
-    "patent_id": "WO2023147372A1_0006"
-  },
-  "230001802631": {
-    "heteroarene": "Clc1ccnc(Cl)n1",
-    "radical": "[H]C1C([H])([H])N(C(=O)C([H])([H])[H])C([H])([H])C([H])([H])C1([H])[H]",
-    "product": "CC(=O)N1CCCC(C1)c2cc(Cl)nc(Cl)n2",
-    "patent_id": "US20230067929A1_0586"
-  },
-  "1780001600623": {
-    "heteroarene": "Clc1ncccc1C#N",
-    "radical": "[H]C([H])([H])C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
-    "product": "CC1(CCCCC1)c2ccc(C#N)c(Cl)n2",
-    "patent_id": "WO2023062575A1_0368"
-  },
-  "1680005200656": {
-    "heteroarene": "Clc1ncccn1",
-    "radical": "[H]C1([H])C2C([H])([H])C1([H])C2([H])[H]",
-    "product": "Clc1nccc(n1)C2(CC3C2)C3",
-    "patent_id": "EP3728223B1_0345"
-  },
-  "140003501870": {
-    "heteroarene": "CC1=CC(=O)c2cc(C)cnc2C1=O",
-    "radical": "[H]c1c([H])c(C([H])[H])c([H])c([H])c1Br",
-    "product": "CC1=C(Cc2ccc(Br)cc2)C(=O)c3cc(C)cnc3C1=O",
-    "patent_id": "US20140121238A1_C00179"
-  },
-  "1780001700369": {
-    "heteroarene": "COC(=O)c1ccnc(F)c1",
-    "radical": "[H]C([H])([H])C1C([H])([H])C1([H])[H]",
-    "product": "COC(=O)c1cc(F)nc(c1)C2(C)CC2",
-    "patent_id": "WO2023070053A1_0226"
-  },
-  "180001802623": {
-    "heteroarene": "OCc1cc2nc(Cl)ccc2o1",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(C)(C)c1cc(Cl)nc2cc(CO)oc12",
-    "patent_id": "US20180057505A1_0733"
-  },
-  "230001400597": {
-    "heteroarene": "COC(=O)c1cc2c(F)c(ccn2c1)C3CCOC(C)(C)C3",
-    "radical": "[H]C([H])C#N",
-    "product": "COC(=O)c1cc2c(F)c(ccn2c1CC#N)C3CCOC(C)(C)C3",
-    "patent_id": "US20230051320A1_0754"
-  },
-  "200002402805": {
-    "heteroarene": "Fc1cncc(C=O)c1",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(C)(C)c1ncc(C=O)cc1F",
-    "patent_id": "US20200087323A1_0367"
-  },
-  "160003603751": {
-    "heteroarene": "COC(=O)c1ccncc1",
-    "radical": "[H]N([H])C=O",
-    "product": "COC(=O)c1ccnc(c1)C(=O)N",
-    "patent_id": "US20160122335A1"
-  },
-  "40015600385": {
-    "heteroarene": "COc1cc([N+](=O)[O-])c2ncccc2c1",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "COc1cc([N+](=O)[O-])c2nc(ccc2c1)C(C)(C)C",
-    "patent_id": "US20040192724A1_0100"
-  },
-  "210006002153": {
-    "heteroarene": "Clc1ncccn1",
-    "radical": "[H]OC([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(C)(CO)c1ccnc(Cl)n1",
-    "patent_id": "US20210230143A1_0629"
-  },
-  "210001602814": {
-    "heteroarene": "Brc1cc2ccccc2cn1",
-    "radical": "[H]C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C=O",
-    "product": "CCCCCC(=O)c1nc(Br)cc2ccccc12",
-    "patent_id": "US20210053927A1_0402"
-  },
-  "660010400100": {
-    "heteroarene": "N#Cc1ccncc1",
-    "radical": "[H]C([H])C([H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(C)Cc1cc(C#N)ccn1",
-    "patent_id": "US20090220586A1_0085"
-  },
-  "1790003202409": {
-    "heteroarene": "COc1cnnc(Cl)c1",
-    "radical": "[H]C1C([H])([H])C2(C1([H])[H])C([H])([H])C([H])([H])C2([H])[H]",
-    "product": "COc1cc(Cl)nnc1C2CC3(CCC3)C2",
-    "patent_id": "WO2024163764A2"
-  },
-  "240000603666": {
-    "heteroarene": "Nc1cnnc(c1)c2cc(Cl)ccc2F",
-    "radical": "[H]C([H])C([H])([H])C([H])([H])C(=O)OC([H])([H])[H]",
-    "product": "COC(=O)CCCc1nnc(cc1N)c2cc(Cl)ccc2F",
-    "patent_id": "US20240018122A1_0966"
-  },
-  "220007908420": {
-    "heteroarene": "OC(=O)c1cccnc1F",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(C)(C)c1ccc(C(=O)O)c(F)n1",
-    "patent_id": "US20220313698A1_C00200"
-  },
-  "2150005000391": {
-    "heteroarene": "c1ccc2ncccc2c1",
-    "radical": "[H]C([H])([H])C=O",
-    "product": "CC(=O)c1ccc2ccccc2n1",
-    "patent_id": "WO2012168733A1_0342"
-  },
-  "400003400002": {
-    "heteroarene": "Clc1cnccn1",
-    "radical": "[H]C([H])([H])C([H])(C=O)C([H])([H])[H]",
-    "product": "CC(C)C(=O)c1nccnc1Cl",
-    "patent_id": "US04535791A"
-  },
-  "170003404194": {
-    "heteroarene": "[O-][N+](=O)c1cccnc1c2ccccc2",
-    "radical": "[H]C1C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1([H])[H]",
-    "product": "CC(C)(C)OC(=O)N1CC(C1)c2ccc([N+](=O)[O-])c(n2)c3ccccc3",
-    "patent_id": "US20170114071A1_0207"
-  },
-  "210001602805": {
-    "heteroarene": "Brc1cnc2ccccc2n1",
-    "radical": "[H]C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C=O",
-    "product": "CCCCCCCC(=O)c1nc2ccccc2nc1Br",
-    "patent_id": "US20210053927A1_0358"
-  },
-  "200002402902": {
-    "heteroarene": "CC(=O)c1cccnc1",
-    "radical": "[H]C([H])([H])C1C([H])([H])C1([H])[H]",
-    "product": "CC(=O)c1ccc(nc1)C2(C)CC2",
-    "patent_id": "US20200087323A1_0617"
-  },
-  "400003400000": {
-    "heteroarene": "Clc1cnccn1",
-    "radical": "[H]C([H])([H])C([H])([H])C=O",
-    "product": "CCC(=O)c1nccnc1Cl",
-    "patent_id": "US04535791A"
-  },
-  "180003803597": {
-    "heteroarene": "OCc1cscn1",
-    "radical": "[H]C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])[C@]([H])(C([H])([H])C=O)C([H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(C)[C@@H](CC(=O)c1nc(CO)cs1)N(C)C(=O)OC(C)(C)C",
-    "patent_id": "US20180127463A1_0171"
-  },
-  "1770000701197": {
-    "heteroarene": "Clc1ncccn1",
-    "radical": "[H]C1C([H])([H])C([H])([H])C1([H])[H]",
-    "product": "Clc1nccc(n1)C2CCC2",
-    "patent_id": "WO2022034568A1_0515"
-  },
-  "230002611273": {
-    "heteroarene": "Clc1ncccc1C#N",
-    "radical": "[H]C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(C)c1ccc(C#N)c(Cl)n1",
-    "patent_id": "US20230094341A1_1564"
-  },
-  "780000801056": {
-    "heteroarene": "N#Cc1ccncc1",
-    "radical": "[H]C(F)F",
-    "product": "FC(F)c1cc(C#N)ccn1",
-    "patent_id": "US11560373B2_0445"
-  },
-  "90008201646": {
-    "heteroarene": "O=c1[nH]cnc2nc[nH]c12",
-    "radical": "FC(F)F",
-    "product": "FC(F)(F)c1nc2nc[nH]c(=O)c2[nH]1",
-    "patent_id": "US20090124796A1_0301"
-  },
-  "1780001401250": {
-    "heteroarene": "COC(=O)c1ccnc(SC)n1",
-    "radical": "[H]C1C([H])([H])C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C([H])([H])C1([H])[H]",
-    "product": "COC(=O)c1cc(nc(SC)n1)C2CCN(CC2)C(=O)OC(C)(C)C",
-    "patent_id": "WO2023056423A1_0026"
-  },
-  "200002402882": {
-    "heteroarene": "CC1CSc2nc(c(C#N)c(=O)n2C1)c3cccnc3",
-    "radical": "[H]C([H])([H])C(C([H])([H])F)C([H])([H])F",
-    "product": "CC1CSc2nc(c(C#N)c(=O)n2C1)c3ccc(nc3)C(C)(CF)CF",
-    "patent_id": "US20200087323A1_0568"
-  },
-  "230006402426": {
-    "heteroarene": "COC(=O)c1cncc(F)c1",
-    "radical": "[H]C1C([H])([H])C2(C([H])([H])C(=O)C2([H])[H])C1([H])[H]",
-    "product": "COC(=O)c1cnc(C2CC3(C2)CC(=O)C3)c(F)c1",
-    "patent_id": "US20230250106A1_0696"
-  },
-  "490002200181": {
-    "heteroarene": "CCc1nc2c(C)ccnc2[nH]1",
-    "radical": "[H]C([H])([H])C([H])([H])OC=O",
-    "product": "CCOC(=O)c1cc(C)c2nc(CC)[nH]c2n1",
-    "patent_id": "US05317023A"
-  },
-  "50008003173": {
-    "heteroarene": "N#Cc1cccnc1",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(C)(C)c1ccc(C#N)cn1",
-    "patent_id": "US20050107388A1_0251"
-  },
-  "1780003700015": {
-    "heteroarene": "COC(=O)c1cc2cc(cnn2c1)C3CCOCC3",
-    "radical": "[H]C([H])C#N",
-    "product": "COC(=O)c1cc2cc(cnn2c1CC#N)C3CCOCC3",
-    "patent_id": "WO23/169456_1126"
-  },
-  "1800001202334": {
-    "heteroarene": "COc1ccncc1[N+](=O)[O-]",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "COc1cc(ncc1[N+](=O)[O-])C(C)(C)C",
-    "patent_id": "WO2025059074A1"
-  },
-  "210006002141": {
-    "heteroarene": "Clc1nccc(C#N)n1",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(C)(C)c1cc(C#N)nc(Cl)n1",
-    "patent_id": "US20210230143A1_0589"
-  },
-  "230000206948": {
-    "heteroarene": "COC(=O)c1cn(C)cn1",
-    "radical": "[H]C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "COC(=O)c1cn(C)c(n1)C(C)C",
-    "patent_id": "US20230002403A1_1632"
-  },
-  "110001403607": {
-    "heteroarene": "CCOC(=O)c1cc2cccnc2nc1C(F)(F)F",
-    "radical": "[H]C([H])([H])C=O",
-    "product": "CCOC(=O)c1cc2ccc(nc2nc1C(F)(F)F)C(=O)C",
-    "patent_id": "US20110021352A1_0275"
-  },
-  "140003501874": {
-    "heteroarene": "CC1=CC(=O)c2cccnc2C1=O",
-    "radical": "[H]c1c([H])c(OC([H])([H])[H])c(C([H])[H])c([H])c1OC([H])([H])[H]",
-    "product": "COc1ccc(OC)c(CC2=C(C)C(=O)c3ncccc3C2=O)c1",
-    "patent_id": "US20140121238A1_C00183"
-  },
-  "240008202840": {
-    "heteroarene": "[O-][N+](=O)c1ccnc(Cl)c1",
-    "radical": "[H]C1([H])C(F)C1([H])[H]",
-    "product": "[O-][N+](=O)c1cc(Cl)nc(c1)C2(F)CC2",
-    "patent_id": "EP4234548A1_0227"
-  },
-  "140003501873": {
-    "heteroarene": "CC1=CC(=O)c2cccnc2C1=O",
-    "radical": "[H]c1c([H])c(C(F)(F)F)c([H])c([H])c1C([H])[H]",
-    "product": "CC1=C(Cc2ccc(cc2)C(F)(F)F)C(=O)c3cccnc3C1=O",
-    "patent_id": "US20140121238A1_C00182"
-  },
-  "100017200021": {
-    "heteroarene": "Oc1ccccn1",
-    "radical": "FC(F)F",
-    "product": "Oc1ncccc1C(F)(F)F",
-    "patent_id": "US20100230633A1_0076"
-  },
-  "1790004902612": {
-    "heteroarene": "Cc1nc2cnc(Cl)cc2c(=O)n1C",
-    "radical": "[H]C1([H])C2C([H])([H])C1(C(F)(F)F)C2([H])[H]",
-    "product": "Cc1nc2c(nc(Cl)cc2c(=O)n1C)C3(CC4(C3)C(F)(F)F)C4",
-    "patent_id": "WO2024246018A1"
-  },
-  "210006002134": {
-    "heteroarene": "Clc1ncccn1",
-    "radical": "[H]C1C([H])([H])C1([H])C([H])([H])[H]",
-    "product": "CC1CC1c2ccnc(Cl)n2",
-    "patent_id": "US20210230143A1_0571"
-  },
-  "210006002142": {
-    "heteroarene": "Clc1nccc(C#N)n1",
-    "radical": "[H]C1C([H])([H])C([H])([H])C1([H])[H]",
-    "product": "Clc1nc(C#N)cc(n1)C2CCC2",
-    "patent_id": "US20210230143A1_0591"
-  },
-  "120006201572": {
-    "heteroarene": "CN1CCn2cccc2C31CCN(CC3)C(=O)OC(C)(C)C",
-    "radical": "FC(F)F",
-    "product": "CN1CCn2c(ccc2C31CCN(CC3)C(=O)OC(C)(C)C)C(F)(F)F",
-    "patent_id": "US20120196869A1_0201"
-  },
-  "200002402872": {
-    "heteroarene": "CC(=O)c1cncc(F)c1",
-    "radical": "[H]C([H])([H])C1C([H])([H])C1([H])[H]",
-    "product": "CC(=O)c1cnc(c(F)c1)C2(C)CC2",
-    "patent_id": "US20200087323A1_0541"
-  },
-  "1780003101838": {
-    "heteroarene": "Fc1ccn2nc(Cl)nc(Cl)c12",
-    "radical": "[H]C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(C)c1cc(F)c2c(Cl)nc(Cl)nn12",
-    "patent_id": "WO2023147372A1_0006"
-  },
-  "230009402456": {
-    "heteroarene": "Cc1ncc(Br)cc1C(F)(F)F",
-    "radical": "[H]C1C([H])([H])C([H])([H])C(F)(F)C([H])([H])C1([H])[H]",
-    "product": "Cc1nc(C2CCC(F)(F)CC2)c(Br)cc1C(F)(F)F",
-    "patent_id": "US20230373925A1_0733"
-  },
-  "120000404730": {
-    "heteroarene": "COC(=O)c1cc2CCCCn2c1",
-    "radical": "[H]C([H])C#N",
-    "product": "COC(=O)c1cc2CCCCn2c1CC#N",
-    "patent_id": "US20120010191A1_0345"
-  },
-  "190008600507": {
-    "heteroarene": "CCOC(=O)c1cn(cn1)c2ccccc2C(F)(F)F",
-    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
-    "product": "CCOC(=O)c1cn(c(n1)C2CCCC2)c3ccccc3C(F)(F)F",
-    "patent_id": "US20190322644A1_0158"
-  },
-  "110013000590": {
-    "heteroarene": "Cc1cccc(C)c1c2ccc(Cl)nn2",
-    "radical": "[H]C1C([H])([H])C([H])([H])C1([H])[H]",
-    "product": "Cc1cccc(C)c1c2cc(C3CCC3)c(Cl)nn2",
-    "patent_id": "US20110160187A1_0425"
-  },
-  "70015202949": {
-    "heteroarene": "N#Cc1cccnc1",
-    "radical": "[H]C([H])([H])C=O",
-    "product": "CC(=O)c1ccc(C#N)cn1",
-    "patent_id": "US20070219210A1_0634"
-  },
-  "240003806346": {
-    "heteroarene": "CCOC(=O)c1ccc2ncsc2c1",
-    "radical": "[H]C1C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1([H])[H]",
-    "product": "CCOC(=O)c1ccc2nc(sc2c1)C3CN(C3)C(=O)OC(C)(C)C",
-    "patent_id": "US20240150339A1"
-  },
-  "460001000262": {
-    "heteroarene": "CCOC(=O)c1cc(CC)cnc1C(=O)OCC",
-    "radical": "[H]C1C([H])([H])C1([H])[H]",
-    "product": "CCc1cc(C(=O)O)c(nc1C2CC2)C(=O)O",
-    "patent_id": "US04997947A"
-  },
-  "70015700135": {
-    "heteroarene": "Cc1ccncc1",
-    "radical": "[H]N([H])C=O",
-    "product": "Cc1ccnc(c1)C(=O)N",
-    "patent_id": "US20070231818A1_C00005"
-  },
-  "90006605063": {
-    "heteroarene": "CCOC(=O)c1c(C)ccnc1C",
-    "radical": "[H]C1C([H])([H])C1([H])[H]",
-    "product": "CCOC(=O)c1c(C)cc(nc1C)C2CC2",
-    "patent_id": "US20090099205A1_0700"
-  },
-  "70004802449": {
-    "heteroarene": "CCOC(=O)c1cccnc1C",
-    "radical": "[H]C1C([H])([H])C([H])([H])OC([H])([H])C1([H])[H]",
-    "product": "CCOC(=O)c1ccc(nc1C)C2CCOCC2",
-    "patent_id": "US20070066624A1_0516"
+  "20013600354": {
+    "heteroarene": "c1cc2ccccc2[nH]1",
+    "radical": "[H]c1c([H])c([H])c(C([H])([H])C([H])[H])c([H])c1[H]",
+    "product": "C(Cc1ccccc1)c2cc3ccccc3[nH]2",
+    "patent_id": "US20020156116A1_0329",
+    "heteroarene_rc": 0,
+    "other_heteroarene_rc": [
+      1,
+      3,
+      4,
+      5,
+      6
+    ]
   },
   "30006601987": {
     "heteroarene": "OC(=O)c1cnccn1",
     "radical": "[H]c1c([H])c([H])c(C=O)c([H])c1[H]",
     "product": "OC(=O)c1cnc(cn1)C(=O)c2ccccc2",
-    "patent_id": "US20030069284A1_0770"
-  },
-  "120001403192": {
-    "heteroarene": "Clc1ncccc1C#N",
-    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
-    "product": "Clc1nc(ccc1C#N)C2CCCC2",
-    "patent_id": "US20120040942A1_1187"
-  },
-  "210010300797": {
-    "heteroarene": "COc1cc2ncccc2cc1Br",
-    "radical": "[H]C1C([H])([H])C1([H])[H]",
-    "product": "COc1cc2nc(ccc2cc1Br)C3CC3",
-    "patent_id": "US20210403479A1_C00062"
-  },
-  "1790005200659": {
-    "heteroarene": "COC(=O)c1ccc(Cl)nn1",
-    "radical": "[H]C1C([H])([H])C([H])([H])C1([H])[H]",
-    "product": "COC(=O)c1cc(C2CCC2)c(Cl)nn1",
-    "patent_id": "WO2024263460A1"
-  },
-  "240000606037": {
-    "heteroarene": "[O-][N+](=O)c1cncc(Cl)c1",
-    "radical": "[H]C1C([H])([H])OC1([H])[H]",
-    "product": "[O-][N+](=O)c1cnc(C2COC2)c(Cl)c1",
-    "patent_id": "US20240018157A1_2448"
-  },
-  "160001602312": {
-    "heteroarene": "Clc1cc(Cl)ncn1",
-    "radical": "[H]C1([H])C2C([H])([H])C([H])([H])C([H])(C2([H])[H])C1([H])[H]",
-    "product": "Clc1cc(Cl)nc(n1)C2(CCC3CC2)C3",
-    "patent_id": "US20160052940A1_0364"
-  },
-  "1790001500338": {
-    "heteroarene": "CC(C)Oc1ccc2cnccc2c1",
-    "radical": "[H]c1c([H])c(S(=O)(=O)C([H])([H])[H])c([H])c([H])c1C([H])[H]",
-    "product": "CC(C)Oc1ccc2c(Cc3ccc(cc3)S(=O)(=O)C)nccc2c1",
-    "patent_id": "WO2024074436A1"
-  },
-  "230008604477": {
-    "heteroarene": "Clc1ccc(CCC(=O)Nc2cc(n[nH]2)c3ccncc3)cc1",
-    "radical": "FC(F)F",
-    "product": "FC(F)(F)c1c(NC(=O)CCc2ccc(Cl)cc2)[nH]nc1c3ccncc3",
-    "patent_id": "US20230339913A1_0572"
-  },
-  "90008201633": {
-    "heteroarene": "OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n2ccc(=O)[nH]c2=O",
-    "radical": "FC(F)F",
-    "product": "OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n2cc(c(=O)[nH]c2=O)C(F)(F)F",
-    "patent_id": "US20090124796A1_0223"
-  },
-  "210006002139": {
-    "heteroarene": "Clc1ncccn1",
-    "radical": "[H]C1C([H])([H])C(F)(F)C1([H])[H]",
-    "product": "FC1(F)CC(C1)c2ccnc(Cl)n2",
-    "patent_id": "US20210230143A1_0585"
-  },
-  "160001205926": {
-    "heteroarene": "CCOC(=O)c1ccncc1",
-    "radical": "[H]C1C([H])([H])OC1([H])[H]",
-    "product": "CCOC(=O)c1ccnc(c1)C2COC2",
-    "patent_id": "US20160038504A1_0418"
-  },
-  "1780003101860": {
-    "heteroarene": "Clc1nc(Cl)c2cccn2n1",
-    "radical": "[H]C([H])([H])C([H])([H])C1C([H])([H])C([H])([H])C1([H])[H]",
-    "product": "CCC1(CCC1)c2ccc3c(Cl)nc(Cl)nn23",
-    "patent_id": "WO2023147372A1_0006"
-  },
-  "90015000081": {
-    "heteroarene": "N#Cc1ccncc1",
-    "radical": "[H]c1c([H])c([H])c(C([H])[H])c([H])c1[H]",
-    "product": "N#Cc1ccnc(Cc2ccccc2)c1",
-    "patent_id": "US20090220586A1_0086"
-  },
-  "100017200024": {
-    "heteroarene": "Cc1cn[nH]c1",
-    "radical": "FC(F)F",
-    "product": "Cc1c[nH]nc1C(F)(F)F",
-    "patent_id": "US20100230633A1_0098"
-  },
-  "520002300063": {
-    "heteroarene": "Cc1ccnc2-c3ccccc3C(=O)c21",
-    "radical": "[H]C([H])C([H])([H])[H]",
-    "product": "CCc1cc(C)c2C(=O)c3ccccc3-c2n1",
-    "patent_id": "US05637554A"
-  },
-  "80014200253": {
-    "heteroarene": "FC(F)(F)c1ccnnc1",
-    "radical": "[H]C([H])([H])OC=O",
-    "product": "COC(=O)c1cnncc1C(F)(F)F",
-    "patent_id": "US20080214552A1_0229"
-  },
-  "1790003202369": {
-    "heteroarene": "COc1cnnc(Cl)c1",
-    "radical": "[H]C1C([H])([H])C(F)(F)C1([H])[H]",
-    "product": "COc1cc(Cl)nnc1C2CC(F)(F)C2",
-    "patent_id": "WO2024163764A2"
-  },
-  "210006002132": {
-    "heteroarene": "Clc1ncccn1",
-    "radical": "[H]C([H])([H])C1C([H])([H])C1([H])[H]",
-    "product": "CC1(CC1)c2ccnc(Cl)n2",
-    "patent_id": "US20210230143A1_0567"
-  },
-  "140004604523": {
-    "heteroarene": "N#Cc1cnccn1",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C(F)(F)F",
-    "product": "CC(C)(c1cnc(C#N)cn1)C(F)(F)F",
-    "patent_id": "US20140155597A1_0129"
-  },
-  "1790001204423": {
-    "heteroarene": "COc1cc(C)cc(C)c1c2ccc3cccnc3n2",
-    "radical": "[H]C1C([H])([H])C(=O)C1([H])[H]",
-    "product": "COc1cc(C)cc(C)c1c2ccc3ccc(nc3n2)C4CC(=O)C4",
-    "patent_id": "WO2024057013A1_0835"
-  },
-  "200003803600": {
-    "heteroarene": "Clc1ncccc1C#N",
-    "radical": "[H]C1C([H])([H])C([H])([H])C1([H])[H]",
-    "product": "Clc1nc(ccc1C#N)C2CCC2",
-    "patent_id": "US20200140411A1_0941"
-  },
-  "140003501872": {
-    "heteroarene": "CC1=CC(=O)c2cc(C)cnc2C1=O",
-    "radical": "[H]c1c([H])c(C(F)(F)F)c([H])c([H])c1C([H])[H]",
-    "product": "CC1=C(Cc2ccc(cc2)C(F)(F)F)C(=O)c3cc(C)cnc3C1=O",
-    "patent_id": "US20140121238A1_C00181"
-  },
-  "130002800048": {
-    "heteroarene": "C[Si](C)(C)c1ccc(Br)cn1",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(C)(C)c1nc(ccc1Br)[Si](C)(C)C",
-    "patent_id": "US20130082209A1_0129"
-  },
-  "210010400859": {
-    "heteroarene": "Cc1cncc2n(C)c3ccccc3c12",
-    "radical": "[H]C([H])([H])C([H])(C([H])([H])[H])C([H])([H])C=O",
-    "product": "CC(C)CC(=O)c1ncc(C)c2c3ccccc3n(C)c12",
-    "patent_id": "US20210403470A1_0153"
-  },
-  "230001400602": {
-    "heteroarene": "COC(=O)c1cc2cc(cnn2c1)C3CCOC(C)(C)C3",
-    "radical": "[H]C([H])C#N",
-    "product": "COC(=O)c1cc2cc(cnn2c1CC#N)C3CCOC(C)(C)C3",
-    "patent_id": "US20230051320A1_0763"
-  },
-  "60015202214": {
-    "heteroarene": "CCC(=O)c1cccnc1",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CCC(=O)c1ccc(nc1)C(C)(C)C",
-    "patent_id": "US20060211741A1_0773"
-  },
-  "1790005201220": {
-    "heteroarene": "Nc1cnc(Br)cn1",
-    "radical": "[H]C1([H])C2C([H])([H])C1(C(F)(F)F)C2([H])[H]",
-    "product": "Nc1ncc(Br)nc1C2(CC3(C2)C(F)(F)F)C3",
-    "patent_id": "WO2024260929A1"
-  },
-  "70004802446": {
-    "heteroarene": "CCOC(=O)c1cccnc1C",
-    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
-    "product": "CCOC(=O)c1ccc(nc1C)C2CCCCC2",
-    "patent_id": "US20070066624A1_0510"
-  },
-  "160001602319": {
-    "heteroarene": "Clc1cc(Cl)ncn1",
-    "radical": "[H]C1C([H])([H])C(=O)C1([H])[H]",
-    "product": "Clc1cc(Cl)nc(n1)C2CC(=O)C2",
-    "patent_id": "US20160052940A1_0379"
-  },
-  "80008002885": {
-    "heteroarene": "Cc1ccc(N)nn1",
-    "radical": "[H]C(C([H])([H])C([H])([H])C([H])([H])[H])C([H])([H])C([H])([H])C([H])([H])[H]",
-    "product": "CCCC(CCC)c1cc(C)nnc1N",
-    "patent_id": "WO2006102194A1"
-  },
-  "110012400206": {
-    "heteroarene": "c1ccnnc1",
-    "radical": "[H]c1c([H])c([H])c(C([H])[H])c([H])c1[H]",
-    "product": "C(c1ccccc1)c2ccnnc2",
-    "patent_id": "US20110152281A1_0181"
-  },
-  "380002100115": {
-    "heteroarene": "CN(C)Cc1ccncc1",
-    "radical": "[H]C([H])C([H])([H])C([H])([H])C#N",
-    "product": "CN(C)Cc1ccnc(CCCC#N)c1",
-    "patent_id": "US04385058A"
-  },
-  "250002600982": {
-    "heteroarene": "Nc1ccc(Br)c(F)n1",
-    "radical": "[H]C([H])([H])C([H])([H])OC(=O)C(F)F",
-    "product": "CCOC(=O)C(F)(F)c1cc(Br)c(F)nc1N",
-    "patent_id": "WO2023122000A1_0820"
-  },
-  "230006402424": {
-    "heteroarene": "COC(=O)c1cncc(Br)c1",
-    "radical": "[H]C1C([H])([H])C(F)(F)C1([H])[H]",
-    "product": "COC(=O)c1cnc(C2CC(F)(F)C2)c(Br)c1",
-    "patent_id": "US20230250106A1_0692"
-  },
-  "150008605699": {
-    "heteroarene": "CC(C)(C)C(=O)Nc1ccnc(C2CC2)c1C=O",
-    "radical": "[H]C1C([H])([H])OC1([H])[H]",
-    "product": "CC(C)(C)C(=O)Nc1cc(nc(C2CC2)c1C=O)C3COC3",
-    "patent_id": "US20150299188A1_0884"
-  },
-  "230009402441": {
-    "heteroarene": "FC1(F)CC(C1)c2ccc(Br)cn2",
-    "radical": "[H]C1C([H])([H])C([H])([H])C([H])(C(F)(F)F)C([H])([H])C1([H])[H]",
-    "product": "FC(F)(F)C1CCC(CC1)c2nc(ccc2Br)C3CC(F)(F)C3",
-    "patent_id": "US20230373925A1_0709"
-  },
-  "2180002400853": {
-    "heteroarene": "N#Cc1ccncc1",
-    "radical": "[H]C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(C)c1cc(C#N)ccn1",
-    "patent_id": "WO2015088564A1_0018"
-  },
-  "180003803604": {
-    "heteroarene": "C(OC1CCCCO1)c2cscn2",
-    "radical": "[H]C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])[C@]([H])(C([H])([H])C=O)C([H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(C)[C@@H](CC(=O)c1nc(COC2CCCCO2)cs1)N(C)C(=O)OC(C)(C)C",
-    "patent_id": "US20180127463A1_0178"
-  },
-  "210006803885": {
-    "heteroarene": "FC(F)(F)c1ccncc1",
-    "radical": "[H]C([H])([H])OC(=O)C12C([H])([H])C([H])([H])C(C([H])([H])C1([H])[H])C([H])([H])C2([H])[H]",
-    "product": "COC(=O)C1(CCC2(CC1)c3cc(ccn3)C(F)(F)F)CC2",
-    "patent_id": "US20210261535A1_1257"
-  },
-  "210006002144": {
-    "heteroarene": "Clc1ccnc(Cl)n1",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(C)(C)c1cc(Cl)nc(Cl)n1",
-    "patent_id": "US20210230143A1_0596"
-  },
-  "2020001000126": {
-    "heteroarene": "FC(F)(F)c1ccncc1",
-    "radical": "[H]C([H])([H])C=O",
-    "product": "CC(=O)c1cc(ccn1)C(F)(F)F",
-    "patent_id": "WO1999011129A1_0210"
-  },
-  "210003502977": {
-    "heteroarene": "Clc1cc(Cl)ncn1",
-    "radical": "[H]c1c([H])c([H])c(C([H])([H])OC2([H])C([H])([H])C([H])C2([H])[H])c([H])c1[H]",
-    "product": "Clc1cc(Cl)nc(n1)C2CC(C2)OCc3ccccc3",
-    "patent_id": "US20210130308A1_C00250"
-  },
-  "20013600354": {
-    "heteroarene": "c1cc2ccccc2[nH]1",
-    "radical": "[H]c1c([H])c([H])c(C([H])([H])C([H])[H])c([H])c1[H]",
-    "product": "C(Cc1ccccc1)c2cc3ccccc3[nH]2",
-    "patent_id": "US20020156116A1_0329"
-  },
-  "200003803596": {
-    "heteroarene": "COC(=O)c1cc(Cl)cnc1Cl",
-    "radical": "[H]C1C([H])([H])C([H])([H])C1([H])[H]",
-    "product": "COC(=O)c1cc(Cl)c(nc1Cl)C2CCC2",
-    "patent_id": "US20200140411A1_0936"
-  },
-  "200002402903": {
-    "heteroarene": "COc1cncc(C=O)c1",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "COc1cc(C=O)cnc1C(C)(C)C",
-    "patent_id": "US20200087323A1_0619"
-  },
-  "220002403900": {
-    "heteroarene": "CCOP(=O)(Cc1ccccn1)OCC",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CCOP(=O)(Cc1cc(ccn1)C(C)(C)C)OCC",
-    "patent_id": "US20220089538A1_0362"
-  },
-  "540001800107": {
-    "heteroarene": "Oc1ccc2ncsc2c1",
-    "radical": "[H]Oc1c([H])c([H])c(C=O)c([H])c1[H]",
-    "product": "Oc1ccc(cc1)C(=O)c2nc3ccc(O)cc3s2",
-    "patent_id": "US05900426A"
-  },
-  "220005401633": {
-    "heteroarene": "c1nc2ccccc2s1",
-    "radical": "[H]C([H])([H])OC(=O)C12C([H])([H])C([H])([H])C(C([H])([H])C1([H])[H])C([H])([H])C2([H])[H]",
-    "product": "COC(=O)C1(CCC2(CC1)c3nc4ccccc4s3)CC2",
-    "patent_id": "US20220213026A1_0417"
-  },
-  "240007401966": {
-    "heteroarene": "Nc1cc(Cl)ncn1",
-    "radical": "[H]C1C([H])([H])C([H])([H])C1([H])[H]",
-    "product": "Nc1cc(Cl)nc(n1)C2CCC2",
-    "patent_id": "WO2022271630A1_0002"
-  },
-  "90008201629": {
-    "heteroarene": "Cn1ccc(=O)n(C)c1=O",
-    "radical": "FC(F)F",
-    "product": "Cn1cc(c(=O)n(C)c1=O)C(F)(F)F",
-    "patent_id": "US20090124796A1_0195"
-  },
-  "460002100002": {
-    "heteroarene": "CC(=O)c1cnccn1",
-    "radical": "[H]C([H])([H])C(C=O)(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(=O)c1cnc(cn1)C(=O)C(C)(C)C",
-    "patent_id": "US05017235A"
-  },
-  "1770000701198": {
-    "heteroarene": "Clc1ncccn1",
-    "radical": "[H]C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(C)c1ccnc(Cl)n1",
-    "patent_id": "WO2022034568A1_0517"
-  },
-  "190007004138": {
-    "heteroarene": "CS(=O)(=O)CCc1ncn(n1)c2ncccn2",
-    "radical": "[H]c1c([H])c(F)c(-c2nnc3c(c2[H])[C@]2([H])C([H])([H])C([H])([H])C3C2(C([H])([H])[H])C([H])([H])[H])c(F)c1[H]",
-    "product": "CC1(C)[C@H]2CC[C@]1(c3nnc(cc23)c4c(F)cccc4F)c5ccnc(n5)n6cnc(CCS(=O)(=O)C)n6",
-    "patent_id": "US20190263794A1_1457"
-  },
-  "70014000390": {
-    "heteroarene": "CC(=O)c1ccccn1",
-    "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
-    "product": "CN(C)C(=O)c1cccc(n1)C(=O)C",
-    "patent_id": "US20070203154A1_0300"
-  },
-  "180003803599": {
-    "heteroarene": "C(OCc1ccccc1)c2cscn2",
-    "radical": "[H]C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])[C@]([H])(C([H])([H])C=O)C([H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(C)[C@@H](CC(=O)c1nc(COCc2ccccc2)cs1)N(C)C(=O)OC(C)(C)C",
-    "patent_id": "US20180127463A1_0173"
-  },
-  "340000600340": {
-    "heteroarene": "c1ccc(cc1)C(c2ccccc2)c3ccncc3",
-    "radical": "[H]N([H])C=O",
-    "product": "NC(=O)c1cc(ccn1)C(c2ccccc2)c3ccccc3",
-    "patent_id": "US04138488A"
-  },
-  "140002801939": {
-    "heteroarene": "COC(=O)c1c[nH]cn1",
-    "radical": "[H]C([H])C([H])([H])C([H])([H])C([H])([H])[H]",
-    "product": "CCCCc1nc(c[nH]1)C(=O)OC",
-    "patent_id": "US20140094474A1_0364"
-  },
-  "50002801634": {
-    "heteroarene": "CCOC(=O)c1ccncc1",
-    "radical": "[H]N(C=O)C([H])([H])[H]",
-    "product": "CCOC(=O)c1ccnc(c1)C(=O)NC",
-    "patent_id": "US08076488B2"
-  },
-  "70006400245": {
-    "heteroarene": "c1ccc2ncccc2c1",
-    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
-    "product": "C1CCC(CC1)c2ccc3ccccc3n2",
-    "patent_id": "US20070088025A1_0110"
-  },
-  "140003501871": {
-    "heteroarene": "CC1=CC(=O)c2cc(C)cnc2C1=O",
-    "radical": "[H]c1c(OC([H])([H])[H])c([H])c(C([H])[H])c([H])c1OC([H])([H])[H]",
-    "product": "COc1cc(CC2=C(C)C(=O)c3ncc(C)cc3C2=O)cc(OC)c1",
-    "patent_id": "US20140121238A1_C00180"
-  },
-  "720008801379": {
-    "heteroarene": "OC(=O)c1c(ccn1Cc2ncccn2)c3ccc(F)cc3",
-    "radical": "FC(F)F",
-    "product": "OC(=O)c1c(cc(n1Cc2ncccn2)C(F)(F)F)c3ccc(F)cc3",
-    "patent_id": "US09802921B2_0347"
-  },
-  "190007004149": {
-    "heteroarene": "Clc1ccccn1",
-    "radical": "[H]c1c([H])c(F)c(-c2nnc3c(c2[H])[C@]2([H])C([H])([H])C([H])([H])C3C2(C([H])([H])[H])C([H])([H])[H])c(F)c1[H]",
-    "product": "CC1(C)[C@H]2CC[C@]1(c3nnc(cc23)c4c(F)cccc4F)c5cccc(Cl)n5",
-    "patent_id": "US20190263794A1_1491"
-  },
-  "1040002800057": {
-    "heteroarene": "Clc1ccc(C#N)nn1",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(C)(C)c1cc(C#N)nnc1Cl",
-    "patent_id": "EP0208431B1_0076"
-  },
-  "140003501869": {
-    "heteroarene": "CC1=CC(=O)c2cc(C)cnc2C1=O",
-    "radical": "[H]c1c([H])c(OC([H])([H])[H])c(C([H])[H])c([H])c1OC([H])([H])[H]",
-    "product": "COc1ccc(OC)c(CC2=C(C)C(=O)c3ncc(C)cc3C2=O)c1",
-    "patent_id": "US20140121238A1_C00178"
-  },
-  "170001600864": {
-    "heteroarene": "Cc1nc(Cl)ccc1F",
-    "radical": "[H]C1C([H])([H])C1([H])[H]",
-    "product": "Cc1nc(Cl)cc(C2CC2)c1F",
-    "patent_id": "US20170050951A1_0220"
+    "patent_id": "US20030069284A1_0770",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      4,
+      7
+    ]
   },
   "30010201266": {
     "heteroarene": "Clc1ccncc1",
     "radical": "[H]N(C=O)C([H])([H])[H]",
     "product": "CNC(=O)c1cc(Cl)ccn1",
-    "patent_id": "EP1047418B1"
+    "patent_id": "EP1047418B1",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      2
+    ]
   },
-  "230009505316": {
-    "heteroarene": "Cc1ncc(Cl)cc1Br",
-    "radical": "[H]C1([H])C2C([H])([H])C1([H])C2([H])[H]",
-    "product": "Cc1nc(c(Cl)cc1Br)C2(CC3C2)C3",
-    "patent_id": "US20230382910A1_C01114"
-  },
-  "560003200371": {
-    "heteroarene": "COC(=O)c1cnccn1",
-    "radical": "[H]C([H])([H])C([H])([H])C=O",
-    "product": "CCC(=O)c1cnc(cn1)C(=O)OC",
-    "patent_id": "US06218393B1"
-  },
-  "460004400095": {
-    "heteroarene": "c1ccc(cc1)c2nc3ncccc3o2",
-    "radical": "[H]C([H])([H])C([H])([H])C([H])([H])C=O",
-    "product": "CCCC(=O)c1ccc2oc(nc2n1)c3ccccc3",
-    "patent_id": "US05061713A"
-  },
-  "160001602315": {
-    "heteroarene": "Clc1ccnc(Cl)n1",
-    "radical": "[H]C1C([H])([H])C(=O)C1([H])[H]",
-    "product": "Clc1cc(nc(Cl)n1)C2CC(=O)C2",
-    "patent_id": "US20160052940A1_0371"
-  },
-  "380003900034": {
-    "heteroarene": "Clc1ccc(COc2cccnc2)cc1",
-    "radical": "[H]N([H])C=O",
-    "product": "NC(=O)c1ccc(OCc2ccc(Cl)cc2)cn1",
-    "patent_id": "US04406689"
-  },
-  "100011400310": {
-    "heteroarene": "Cc1nc2ccc(Cl)nn2c1C(=O)c3ccc(Cl)cc3F",
-    "radical": "[H]c1c([H])c([H])c2c(c1[H])C(=O)N(C([H])[H])C2=O",
-    "product": "Cc1nc2c(CN3C(=O)c4ccccc4C3=O)cc(Cl)nn2c1C(=O)c5ccc(Cl)cc5F",
-    "patent_id": "US20100152181A1_0021"
-  },
-  "90008201639": {
-    "heteroarene": "Nc1ccn([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c(=O)n1",
-    "radical": "FC(F)F",
-    "product": "Nc1nc(=O)n(cc1C(F)(F)F)[C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O",
-    "patent_id": "US20090124796A1_0255"
-  },
-  "210006803903": {
-    "heteroarene": "FC(F)(F)c1cccnc1",
-    "radical": "[H]C([H])([H])OC(=O)C12C([H])([H])C([H])([H])C(C([H])([H])C1([H])[H])C([H])([H])C2([H])[H]",
-    "product": "COC(=O)C1(CCC2(CC1)c3ccc(cn3)C(F)(F)F)CC2",
-    "patent_id": "US20210261535A1_1703"
-  },
-  "230008805748": {
-    "heteroarene": "Cc1cc(C#N)ccn1",
+  "30018202087": {
+    "heteroarene": "CCOC(=O)c1cccnc1C",
     "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "Cc1cc(C#N)cc(n1)C(C)(C)C",
-    "patent_id": "US20230348418A1_1615"
+    "product": "CCOC(=O)c1ccc(nc1C)C(C)(C)C",
+    "patent_id": "US20030195201A1_1043",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      6,
+      7
+    ]
   },
-  "740000202600": {
-    "heteroarene": "Clc1ccc2nccn2n1",
-    "radical": "[H]C1C([H])([H])OC1([H])[H]",
-    "product": "Clc1cc(C2COC2)c3nccn3n1",
-    "patent_id": "US20180170917A1_0482"
-  },
-  "200002402841": {
-    "heteroarene": "CC(=O)c1cncc(F)c1",
+  "40015600385": {
+    "heteroarene": "COc1cc([N+](=O)[O-])c2ncccc2c1",
     "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(=O)c1cnc(c(F)c1)C(C)(C)C",
-    "patent_id": "US20200087323A1_0453"
-  },
-  "90004301119": {
-    "heteroarene": "N#Cc1ccncc1",
-    "radical": "[H]C([H])([H])C([H])([H])OC=O",
-    "product": "CCOC(=O)c1cc(C#N)ccn1",
-    "patent_id": "US20090069323A1_C00012"
-  },
-  "50008003175": {
-    "heteroarene": "N#Cc1ccncc1",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(C)(C)c1cc(C#N)ccn1",
-    "patent_id": "US20050107388A1_0253"
-  },
-  "210002403184": {
-    "heteroarene": "COC(=O)c1cncc(Br)c1",
-    "radical": "[H]C([H])N([H])C(=O)C([H])([H])[H]",
-    "product": "COC(=O)c1cnc(CNC(=O)C)c(Br)c1",
-    "patent_id": "US20210087180A1_0364"
-  },
-  "230005700820": {
-    "heteroarene": "OC(=O)Cc1c[nH]c2ccccc12",
-    "radical": "[H]c1c([H])c([H])c2c(c1[H])c(C([H])[H])c([H])n2[H]",
-    "product": "COC(=O)c1ccc2[nH]cc(Cc3c[nH]c4ccccc34)c2c1",
-    "patent_id": "US20230227406A1_C00033"
-  },
-  "120007000983": {
-    "heteroarene": "Nc1cnc(Br)cn1",
-    "radical": "FC(F)F",
-    "product": "Nc1ncc(Br)nc1C(F)(F)F",
-    "patent_id": "US20120220561A1_0215"
-  },
-  "210006002140": {
-    "heteroarene": "Clc1ncccn1",
-    "radical": "[H]C([H])([H])C1C([H])([H])C(F)(F)C1([H])[H]",
-    "product": "CC1(CC(F)(F)C1)c2ccnc(Cl)n2",
-    "patent_id": "US20210230143A1_0587"
-  },
-  "220006604890": {
-    "heteroarene": "N#Cc1ccncc1",
-    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
-    "product": "N#Cc1ccnc(c1)C2CCCC2",
-    "patent_id": "US20220259193A1_1719"
-  },
-  "90008201642": {
-    "heteroarene": "Nc1ncnc2n(cnc12)[C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O",
-    "radical": "FC(F)F",
-    "product": "Nc1ncnc2n([C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O)c(nc12)C(F)(F)F",
-    "patent_id": "US20090124796A1_0270"
-  },
-  "230002002332": {
-    "heteroarene": "Clc1ncccn1",
-    "radical": "[H]C([H])([H])C([H])([H])C=O",
-    "product": "CCC(=O)c1ccnc(Cl)n1",
-    "patent_id": "US20230077316A1_0765"
-  },
-  "230009402437": {
-    "heteroarene": "Brc1cnc2ccccc2c1",
-    "radical": "[H]C1C([H])([H])C([H])([H])C(F)(F)C([H])([H])C1([H])[H]",
-    "product": "FC1(F)CCC(CC1)c2nc3ccccc3cc2Br",
-    "patent_id": "US20230373925A1_0704"
-  },
-  "140003001846": {
-    "heteroarene": "COc1ccc(Cl)nn1",
-    "radical": "[H]C([H])OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
-    "product": "COc1nnc(Cl)cc1COC(C)(C)C",
-    "patent_id": "US20140100231A1"
-  },
-  "1780003700023": {
-    "heteroarene": "COC(=O)c1cc2cc(ccn2c1)C3CCOCC3",
-    "radical": "[H]C([H])C#N",
-    "product": "COC(=O)c1cc2cc(ccn2c1CC#N)C3CCOCC3",
-    "patent_id": "WO23/169456_1148"
-  },
-  "80019202945": {
-    "heteroarene": "CCOC(=O)c1ccncc1",
-    "radical": "[H]N([H])C=O",
-    "product": "CCOC(=O)c1ccnc(c1)C(=O)N",
-    "patent_id": "US20100261755A1_0390"
-  },
-  "480002100078": {
-    "heteroarene": "CC(=O)c1ccccn1",
-    "radical": "[H]C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(C)c1ccnc(c1)C(=O)C",
-    "patent_id": "US05214027A"
-  },
-  "230001400524": {
-    "heteroarene": "CCOC(=O)c1cc2cc(ccn2c1)C3CCOC(C)(C)C3",
-    "radical": "[H]C([H])C#N",
-    "product": "CCOC(=O)c1cc2cc(ccn2c1CC#N)C3CCOC(C)(C)C3",
-    "patent_id": "US20230051320A1_0537"
-  },
-  "1780001600626": {
-    "heteroarene": "Clc1ncccc1C#N",
-    "radical": "[H]N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
-    "product": "CC(C)(C)OC(=O)NC1(CCCCC1)c2ccc(C#N)c(Cl)n2",
-    "patent_id": "WO2023062575A1_0375"
-  },
-  "250001803505": {
-    "heteroarene": "Clc1ncccn1",
-    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
-    "product": "Clc1nccc(n1)C2CCCCC2",
-    "patent_id": "WO2023118253A1_0621"
-  },
-  "90008201640": {
-    "heteroarene": "Nc1ccn([C@H]2C[C@H](O)[C@@H](CO)O2)c(=O)n1",
-    "radical": "FC(F)F",
-    "product": "Nc1nc(=O)n(cc1C(F)(F)F)[C@H]2C[C@H](O)[C@@H](CO)O2",
-    "patent_id": "US20090124796A1_0260"
-  },
-  "140004604522": {
-    "heteroarene": "N#Cc1cnccn1",
-    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(C)(C)c1cnc(C#N)cn1",
-    "patent_id": "US20140155597A1_0115"
-  },
-  "230009402442": {
-    "heteroarene": "FC1(F)CC(C1)c2ccc(Br)cn2",
-    "radical": "[H]C1C([H])([H])C([H])([H])C(F)(F)C([H])([H])C1([H])[H]",
-    "product": "FC1(F)CC(C1)c2ccc(Br)c(n2)C3CCC(F)(F)CC3",
-    "patent_id": "US20230373925A1_0712"
-  },
-  "230003107521": {
-    "heteroarene": "COC(=O)c1ccnc(Cl)n1",
-    "radical": "[H]C([H])([H])C1C([H])([H])OC1([H])[H]",
-    "product": "COC(=O)c1cc(nc(Cl)n1)C2(C)COC2",
-    "patent_id": "US20230116972A1_C01247"
-  },
-  "160008001231": {
-    "heteroarene": "CC(C)Cn1ccc(c1C(=O)O)c2ccc(F)cc2",
-    "radical": "FC(F)F",
-    "product": "CC(C)Cn1c(cc(c1C(=O)O)c2ccc(F)cc2)C(F)(F)F",
-    "patent_id": "US20160289186A1_0317"
-  },
-  "2140002800910": {
-    "heteroarene": "Nc1ncc(Cl)cc1F",
-    "radical": "[H]C([H])[H]",
-    "product": "Cc1c(F)c(N)ncc1Cl",
-    "patent_id": "WO2011085126A2"
-  },
-  "240006000311": {
-    "heteroarene": "Cn1cc2cc(Br)cnc2n1",
-    "radical": "FC(F)F",
-    "product": "Cn1nc2ncc(Br)cc2c1C(F)(F)F",
-    "patent_id": "US20240246981A1"
-  },
-  "150010601569": {
-    "heteroarene": "CC(C)(C)c1ccc(cn1)C(=O)N",
-    "radical": "[H]c1c([H])c([H])c2c(c1[H])C(=O)N(C([H])([H])C([H])[H])C2=O",
-    "product": "CC(C)(C)c1cc(CCN2C(=O)c3ccccc3C2=O)c(cn1)C(=O)N",
-    "patent_id": "US20150376166A1_0237"
-  },
-  "230007804118": {
-    "heteroarene": "N#Cc1ccncc1",
-    "radical": "[H]C1([H])C2C([H])([H])C1([H])C2([H])[H]",
-    "product": "N#Cc1ccnc(c1)C2(CC3C2)C3",
-    "patent_id": "US20230303566A1_0639"
+    "product": "COc1cc([N+](=O)[O-])c2nc(ccc2c1)C(C)(C)C",
+    "patent_id": "US20040192724A1_0100",
+    "heteroarene_rc": 10,
+    "other_heteroarene_rc": [
+      3,
+      11,
+      12,
+      14
+    ]
   },
   "40015600386": {
     "heteroarene": "CCCCCOc1c(OC)cc([N+](=O)[O-])c2nccc(CC)c12",
     "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
     "product": "CCCCCOc1c(OC)cc([N+](=O)[O-])c2nc(cc(CC)c12)C(C)(C)C",
-    "patent_id": "US20040192724A1_0110"
+    "patent_id": "US20040192724A1_0110",
+    "heteroarene_rc": 17,
+    "other_heteroarene_rc": [
+      10,
+      18
+    ]
   },
-  "130006000231": {
-    "heteroarene": "Nc1ncccn1",
-    "radical": "FC(F)F",
-    "product": "Nc1ncc(cn1)C(F)(F)F",
-    "patent_id": "US20130190172A1_0171"
-  },
-  "1790004101561": {
-    "heteroarene": "COC(=O)c1cncc(C)c1C",
-    "radical": "FC(F)F",
-    "product": "COC(=O)c1cnc(c(C)c1C)C(F)(F)F",
-    "patent_id": "WO2024211836A2"
-  },
-  "140003501868": {
-    "heteroarene": "CC1=CC(=O)c2cccnc2C1=O",
-    "radical": "[H]c1c([H])c(C([H])[H])c([H])c([H])c1Br",
-    "product": "CC1=C(Cc2ccc(Br)cc2)C(=O)c3cccnc3C1=O",
-    "patent_id": "US20140121238A1_C00177"
-  },
-  "210001602809": {
-    "heteroarene": "Brc1cncc2ccccc12",
-    "radical": "[H]C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C=O",
-    "product": "CCCCCC(=O)c1ncc(Br)c2ccccc12",
-    "patent_id": "US20210053927A1_0386"
-  },
-  "200002402776": {
-    "heteroarene": "CC(=O)c1cccnc1",
+  "40015600388": {
+    "heteroarene": "COc1cc([N+](=O)[O-])c2nccc(C)c2c1OC",
     "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "CC(=O)c1ccc(nc1)C(C)(C)C",
-    "patent_id": "US20200087323A1_0294"
+    "product": "COc1cc([N+](=O)[O-])c2nc(cc(C)c2c1OC)C(C)(C)C",
+    "patent_id": "US20040192724A1_0116",
+    "heteroarene_rc": 10,
+    "other_heteroarene_rc": [
+      3,
+      11
+    ]
   },
-  "460001000259": {
-    "heteroarene": "CCOC(=O)c1cccnc1C(=O)OCC",
-    "radical": "[H]C1C([H])([H])C1([H])[H]",
-    "product": "CCOC(=O)c1ccc(nc1C(=O)OCC)C2CC2",
-    "patent_id": "US04997947A"
+  "50002801634": {
+    "heteroarene": "CCOC(=O)c1ccncc1",
+    "radical": "[H]N(C=O)C([H])([H])[H]",
+    "product": "CCOC(=O)c1ccnc(c1)C(=O)NC",
+    "patent_id": "US08076488B2",
+    "heteroarene_rc": 9,
+    "other_heteroarene_rc": [
+      6
+    ]
   },
-  "200010201793": {
-    "heteroarene": "Cn1cccc1C=O",
-    "radical": "FC(C(F)(F)F)C(F)(F)F",
-    "product": "Cn1c(C=O)ccc1C(F)(C(F)(F)F)C(F)(F)F",
-    "patent_id": "US20200392124A1_0397"
-  },
-  "210004901866": {
-    "heteroarene": "CCn1cncc1C(=O)OC",
-    "radical": "[H]C1C([H])([H])C([H])([H])C1([H])[H]",
-    "product": "CCn1c(cnc1C2CCC2)C(=O)OC",
-    "patent_id": "US20210188810A1_C00313"
-  },
-  "80011400306": {
-    "heteroarene": "Cc1ncccc1C#N",
+  "50008003173": {
+    "heteroarene": "N#Cc1cccnc1",
     "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
-    "product": "Cc1nc(ccc1C#N)C(C)(C)C",
-    "patent_id": "US20080171770A1_0335"
+    "product": "CC(C)(C)c1ccc(C#N)cn1",
+    "patent_id": "US20050107388A1_0251",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      3,
+      4,
+      7
+    ]
   },
-  "100020800600": {
-    "heteroarene": "CC(=O)c1ccncc1",
-    "radical": "[H]C([H])([H])C([H])([H])OC=O",
-    "product": "CCOC(=O)c1cc(ccn1)C(=O)C",
-    "patent_id": "US20100317648A1_0286"
-  },
-  "150007002675": {
-    "heteroarene": "Cc1cnc(Cl)nc1c2ccnn2C",
-    "radical": "[H]C([H])([H])C([H])([H])OC=O",
-    "product": "CCOC(=O)c1nc(Cl)nc(c2ccnn2C)c1C",
-    "patent_id": "US20150239842A1_0644"
-  },
-  "230009505320": {
-    "heteroarene": "COC(=O)c1cc(Cl)cnc1C",
-    "radical": "[H]C([H])([H])C1C([H])([H])C(F)(F)C1([H])[H]",
-    "product": "COC(=O)c1cc(Cl)c(nc1C)C2(C)CC(F)(F)C2",
-    "patent_id": "US20230382910A1_C01118"
-  },
-  "1870001100008": {
-    "heteroarene": "Cc1cccc2ccc(C#N)nc12",
-    "radical": "[H]C(C([H])([H])C([H])([H])[H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])[H]",
-    "product": "CCCCC(CC)c1cc(C#N)nc2c(C)cccc12",
-    "patent_id": "WO1984001947A1_0070"
-  },
-  "220001603479": {
-    "heteroarene": "COc1cccnc1C",
-    "radical": "[H]C([H])([H])OC(=O)C12C([H])([H])C([H])([H])C(C([H])([H])C1([H])[H])C([H])([H])C2([H])[H]",
-    "product": "COC(=O)C1(CCC2(CC1)c3ccc(OC)c(C)n3)CC2",
-    "patent_id": "US20220056019A1_0859"
-  },
-  "490004600509": {
+  "50008003175": {
     "heteroarene": "N#Cc1ccncc1",
-    "radical": "[H]C([H])([H])C=O",
-    "product": "CC(=O)c1cc(C#N)ccn1",
-    "patent_id": "US05364871A"
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)(C)c1cc(C#N)ccn1",
+    "patent_id": "US20050107388A1_0253",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      3
+    ]
+  },
+  "50011200944": {
+    "heteroarene": "COC(=O)c1ccc2ncccc2c1",
+    "radical": "[H]N([H])C=O",
+    "product": "COC(=O)c1ccc2nc(ccc2c1)C(=O)N",
+    "patent_id": "EP2314586B1",
+    "heteroarene_rc": 9,
+    "other_heteroarene_rc": [
+      5,
+      6,
+      10,
+      11,
+      13
+    ]
   },
   "50019700181": {
     "heteroarene": "CC(=O)c1ccncc1",
     "radical": "[H]c1c([H])c([H])c(C=O)c([H])c1[H]",
     "product": "CC(=O)c1ccnc(c1)C(=O)c2ccccc2",
-    "patent_id": "US20050277639A1_C00038"
+    "patent_id": "US20050277639A1_C00038",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      4
+    ]
   },
-  "200010201785": {
-    "heteroarene": "COC(=O)c1cc(ccc1Cl)c2cnn(c2)c3cccn3C",
-    "radical": "FC(C(F)(F)F)C(F)(F)F",
-    "product": "COC(=O)c1cc(ccc1Cl)c2cnn(c2)c3ccc(n3C)C(F)(C(F)(F)F)C(F)(F)F",
-    "patent_id": "US20200392124A1_0357"
+  "60015202214": {
+    "heteroarene": "CCC(=O)c1cccnc1",
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CCC(=O)c1ccc(nc1)C(C)(C)C",
+    "patent_id": "US20060211741A1_0773",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      5,
+      6,
+      9
+    ]
+  },
+  "70004802446": {
+    "heteroarene": "CCOC(=O)c1cccnc1C",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CCOC(=O)c1ccc(nc1C)C2CCCCC2",
+    "patent_id": "US20070066624A1_0510",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      6,
+      7
+    ]
+  },
+  "70004802449": {
+    "heteroarene": "CCOC(=O)c1cccnc1C",
+    "radical": "[H]C1C([H])([H])C([H])([H])OC([H])([H])C1([H])[H]",
+    "product": "CCOC(=O)c1ccc(nc1C)C2CCOCC2",
+    "patent_id": "US20070066624A1_0516",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      6,
+      7
+    ]
+  },
+  "70006400245": {
+    "heteroarene": "c1ccc2ncccc2c1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "C1CCC(CC1)c2ccc3ccccc3n2",
+    "patent_id": "US20070088025A1_0110",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      0,
+      1,
+      2,
+      6,
+      7,
+      9
+    ]
+  },
+  "70014000390": {
+    "heteroarene": "CC(=O)c1ccccn1",
+    "radical": "[H]C([H])([H])N(C=O)C([H])([H])[H]",
+    "product": "CN(C)C(=O)c1cccc(n1)C(=O)C",
+    "patent_id": "US20070203154A1_0300",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      4,
+      5,
+      6
+    ]
+  },
+  "70015202949": {
+    "heteroarene": "N#Cc1cccnc1",
+    "radical": "[H]C([H])([H])C=O",
+    "product": "CC(=O)c1ccc(C#N)cn1",
+    "patent_id": "US20070219210A1_0634",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      3,
+      4,
+      7
+    ]
+  },
+  "70015700135": {
+    "heteroarene": "Cc1ccncc1",
+    "radical": "[H]N([H])C=O",
+    "product": "Cc1ccnc(c1)C(=O)N",
+    "patent_id": "US20070231818A1_C00005",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "80004003184": {
+    "heteroarene": "Brc1ccncc1",
+    "radical": "[H]C([H])([H])OC=O",
+    "product": "COC(=O)c1cc(Br)ccn1",
+    "patent_id": "US20080058521A1_1296",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "80008002885": {
+    "heteroarene": "Cc1ccc(N)nn1",
+    "radical": "[H]C(C([H])([H])C([H])([H])C([H])([H])[H])C([H])([H])C([H])([H])C([H])([H])[H]",
+    "product": "CCCC(CCC)c1cc(C)nnc1N",
+    "patent_id": "WO2006102194A1",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "80011400298": {
+    "heteroarene": "COc1ncccc1C#N",
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "COc1nc(ccc1C#N)C(C)(C)C",
+    "patent_id": "US20080171770A1_0322",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      5,
+      6
+    ]
+  },
+  "80011400299": {
+    "heteroarene": "Cc1ccncc1C#N",
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "Cc1cc(ncc1C#N)C(C)(C)C",
+    "patent_id": "US20080171770A1_0324",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      2,
+      5
+    ]
+  },
+  "80011400306": {
+    "heteroarene": "Cc1ncccc1C#N",
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "Cc1nc(ccc1C#N)C(C)(C)C",
+    "patent_id": "US20080171770A1_0335",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      4,
+      5
+    ]
+  },
+  "80014200253": {
+    "heteroarene": "FC(F)(F)c1ccnnc1",
+    "radical": "[H]C([H])([H])OC=O",
+    "product": "COC(=O)c1cnncc1C(F)(F)F",
+    "patent_id": "US20080214552A1_0229",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      6,
+      9
+    ]
+  },
+  "80019202945": {
+    "heteroarene": "CCOC(=O)c1ccncc1",
+    "radical": "[H]N([H])C=O",
+    "product": "CCOC(=O)c1ccnc(c1)C(=O)N",
+    "patent_id": "US20100261755A1_0390",
+    "heteroarene_rc": 9,
+    "other_heteroarene_rc": [
+      6
+    ]
+  },
+  "90004301119": {
+    "heteroarene": "N#Cc1ccncc1",
+    "radical": "[H]C([H])([H])C([H])([H])OC=O",
+    "product": "CCOC(=O)c1cc(C#N)ccn1",
+    "patent_id": "US20090069323A1_C00012",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      3
+    ]
+  },
+  "90006605063": {
+    "heteroarene": "CCOC(=O)c1c(C)ccnc1C",
+    "radical": "[H]C1C([H])([H])C1([H])[H]",
+    "product": "CCOC(=O)c1c(C)cc(nc1C)C2CC2",
+    "patent_id": "US20090099205A1_0700",
+    "heteroarene_rc": 9,
+    "other_heteroarene_rc": [
+      8
+    ]
+  },
+  "90008201618": {
+    "heteroarene": "O=c1cc[nH]c(=O)[nH]1",
+    "radical": "FC(F)F",
+    "product": "FC(F)(F)c1c[nH]c(=O)[nH]c1=O",
+    "patent_id": "US07884202B2_0232",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      3
+    ]
+  },
+  "90008201629": {
+    "heteroarene": "Cn1ccc(=O)n(C)c1=O",
+    "radical": "FC(F)F",
+    "product": "Cn1cc(c(=O)n(C)c1=O)C(F)(F)F",
+    "patent_id": "US20090124796A1_0195",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "90008201633": {
+    "heteroarene": "OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n2ccc(=O)[nH]c2=O",
+    "radical": "FC(F)F",
+    "product": "OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n2cc(c(=O)[nH]c2=O)C(F)(F)F",
+    "patent_id": "US20090124796A1_0223",
+    "heteroarene_rc": 11,
+    "other_heteroarene_rc": [
+      10
+    ]
+  },
+  "90008201635": {
+    "heteroarene": "OC[C@H]1O[C@H](C[C@@H]1O)n2ccc(=O)[nH]c2=O",
+    "radical": "FC(F)F",
+    "product": "OC[C@H]1O[C@H](C[C@@H]1O)n2cc(c(=O)[nH]c2=O)C(F)(F)F",
+    "patent_id": "US20090124796A1_0233",
+    "heteroarene_rc": 10,
+    "other_heteroarene_rc": [
+      9
+    ]
+  },
+  "90008201636": {
+    "heteroarene": "CC(=O)OC[C@H]1O[C@H](C[C@@H]1OC(=O)C)n2ccc(=O)[nH]c2=O",
+    "radical": "FC(F)F",
+    "product": "CC(=O)OC[C@H]1O[C@H](C[C@@H]1OC(=O)C)n2cc(c(=O)[nH]c2=O)C(F)(F)F",
+    "patent_id": "US20090124796A1_0238",
+    "heteroarene_rc": 16,
+    "other_heteroarene_rc": [
+      15
+    ]
+  },
+  "90008201637": {
+    "heteroarene": "Nc1cc[nH]c(=O)n1",
+    "radical": "FC(F)F",
+    "product": "Nc1nc(=O)[nH]cc1C(F)(F)F",
+    "patent_id": "US20090124796A1_0243",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      3
+    ]
+  },
+  "90008201639": {
+    "heteroarene": "Nc1ccn([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c(=O)n1",
+    "radical": "FC(F)F",
+    "product": "Nc1nc(=O)n(cc1C(F)(F)F)[C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O",
+    "patent_id": "US20090124796A1_0255",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      3
+    ]
+  },
+  "90008201640": {
+    "heteroarene": "Nc1ccn([C@H]2C[C@H](O)[C@@H](CO)O2)c(=O)n1",
+    "radical": "FC(F)F",
+    "product": "Nc1nc(=O)n(cc1C(F)(F)F)[C@H]2C[C@H](O)[C@@H](CO)O2",
+    "patent_id": "US20090124796A1_0260",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      3
+    ]
+  },
+  "90008201641": {
+    "heteroarene": "Nc1ncnc2nc[nH]c12",
+    "radical": "FC(F)F",
+    "product": "Nc1ncnc2nc([nH]c12)C(F)(F)F",
+    "patent_id": "US20090124796A1_0264",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      3
+    ]
+  },
+  "90008201642": {
+    "heteroarene": "Nc1ncnc2n(cnc12)[C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O",
+    "radical": "FC(F)F",
+    "product": "Nc1ncnc2n([C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O)c(nc12)C(F)(F)F",
+    "patent_id": "US20090124796A1_0270",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      3
+    ]
+  },
+  "90008201646": {
+    "heteroarene": "O=c1[nH]cnc2nc[nH]c12",
+    "radical": "FC(F)F",
+    "product": "FC(F)(F)c1nc2nc[nH]c(=O)c2[nH]1",
+    "patent_id": "US20090124796A1_0301",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      3
+    ]
+  },
+  "90015000081": {
+    "heteroarene": "N#Cc1ccncc1",
+    "radical": "[H]c1c([H])c([H])c(C([H])[H])c([H])c1[H]",
+    "product": "N#Cc1ccnc(Cc2ccccc2)c1",
+    "patent_id": "US20090220586A1_0086",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      3
+    ]
+  },
+  "100006000876": {
+    "heteroarene": "COc1ccc2cnccc2c1",
+    "radical": "[H]C([H])C([H])([H])[H]",
+    "product": "CCc1cncc2ccc(OC)cc12",
+    "patent_id": "US20100081671A1_0370",
+    "heteroarene_rc": 9,
+    "other_heteroarene_rc": [
+      3,
+      4,
+      6,
+      8,
+      11
+    ]
+  },
+  "100011400310": {
+    "heteroarene": "Cc1nc2ccc(Cl)nn2c1C(=O)c3ccc(Cl)cc3F",
+    "radical": "[H]c1c([H])c([H])c2c(c1[H])C(=O)N(C([H])[H])C2=O",
+    "product": "Cc1nc2c(CN3C(=O)c4ccccc4C3=O)cc(Cl)nn2c1C(=O)c5ccc(Cl)cc5F",
+    "patent_id": "US20100152181A1_0021",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      5
+    ]
+  },
+  "100017200021": {
+    "heteroarene": "Oc1ccccn1",
+    "radical": "FC(F)F",
+    "product": "Oc1ncccc1C(F)(F)F",
+    "patent_id": "US20100230633A1_0076",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      3,
+      4,
+      5
+    ]
+  },
+  "100017200024": {
+    "heteroarene": "Cc1cn[nH]c1",
+    "radical": "FC(F)F",
+    "product": "Cc1c[nH]nc1C(F)(F)F",
+    "patent_id": "US20100230633A1_0098",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "100020800600": {
+    "heteroarene": "CC(=O)c1ccncc1",
+    "radical": "[H]C([H])([H])C([H])([H])OC=O",
+    "product": "CCOC(=O)c1cc(ccn1)C(=O)C",
+    "patent_id": "US20100317648A1_0286",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      4
+    ]
+  },
+  "110001403607": {
+    "heteroarene": "CCOC(=O)c1cc2cccnc2nc1C(F)(F)F",
+    "radical": "[H]C([H])([H])C=O",
+    "product": "CCOC(=O)c1cc2ccc(nc2nc1C(F)(F)F)C(=O)C",
+    "patent_id": "US20110021352A1_0275",
+    "heteroarene_rc": 10,
+    "other_heteroarene_rc": [
+      6,
+      8,
+      9
+    ]
+  },
+  "110012400206": {
+    "heteroarene": "c1ccnnc1",
+    "radical": "[H]c1c([H])c([H])c(C([H])[H])c([H])c1[H]",
+    "product": "C(c1ccccc1)c2ccnnc2",
+    "patent_id": "US20110152281A1_0181",
+    "heteroarene_rc": 0,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "110013000590": {
+    "heteroarene": "Cc1cccc(C)c1c2ccc(Cl)nn2",
+    "radical": "[H]C1C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "Cc1cccc(C)c1c2cc(C3CCC3)c(Cl)nn2",
+    "patent_id": "US20110160187A1_0425",
+    "heteroarene_rc": 10,
+    "other_heteroarene_rc": [
+      9
+    ]
+  },
+  "120000404730": {
+    "heteroarene": "COC(=O)c1cc2CCCCn2c1",
+    "radical": "[H]C([H])C#N",
+    "product": "COC(=O)c1cc2CCCCn2c1CC#N",
+    "patent_id": "US20120010191A1_0345",
+    "heteroarene_rc": 12,
+    "other_heteroarene_rc": [
+      5
+    ]
+  },
+  "120001403192": {
+    "heteroarene": "Clc1ncccc1C#N",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "Clc1nc(ccc1C#N)C2CCCC2",
+    "patent_id": "US20120040942A1_1187",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      4,
+      5
+    ]
+  },
+  "120003002005": {
+    "heteroarene": "COC(=O)c1ccc2ncccc2c1",
+    "radical": "[H]C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "COC(=O)c1ccc2nc(ccc2c1)C(C)C",
+    "patent_id": "US20120088746A1_0744",
+    "heteroarene_rc": 9,
+    "other_heteroarene_rc": [
+      5,
+      6,
+      10,
+      11,
+      13
+    ]
+  },
+  "120006201572": {
+    "heteroarene": "CN1CCn2cccc2C31CCN(CC3)C(=O)OC(C)(C)C",
+    "radical": "FC(F)F",
+    "product": "CN1CCn2c(ccc2C31CCN(CC3)C(=O)OC(C)(C)C)C(F)(F)F",
+    "patent_id": "US20120196869A1_0201",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      6,
+      7
+    ]
+  },
+  "120007000983": {
+    "heteroarene": "Nc1cnc(Br)cn1",
+    "radical": "FC(F)F",
+    "product": "Nc1ncc(Br)nc1C(F)(F)F",
+    "patent_id": "US20120220561A1_0215",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      6
+    ]
+  },
+  "130002800048": {
+    "heteroarene": "C[Si](C)(C)c1ccc(Br)cn1",
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)(C)c1nc(ccc1Br)[Si](C)(C)C",
+    "patent_id": "US20130082209A1_0129",
+    "heteroarene_rc": 9,
+    "other_heteroarene_rc": [
+      5,
+      6
+    ]
+  },
+  "130006000231": {
+    "heteroarene": "Nc1ncccn1",
+    "radical": "FC(F)F",
+    "product": "Nc1ncc(cn1)C(F)(F)F",
+    "patent_id": "US20130190172A1_0171",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      3
+    ]
+  },
+  "140002801934": {
+    "heteroarene": "COC(=O)c1c[nH]cn1",
+    "radical": "[H]C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "COC(=O)c1c[nH]c(n1)C(C)C",
+    "patent_id": "US20140094474A1_0359",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      5
+    ]
+  },
+  "140002801939": {
+    "heteroarene": "COC(=O)c1c[nH]cn1",
+    "radical": "[H]C([H])C([H])([H])C([H])([H])C([H])([H])[H]",
+    "product": "CCCCc1nc(c[nH]1)C(=O)OC",
+    "patent_id": "US20140094474A1_0364",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      5
+    ]
+  },
+  "140002901394": {
+    "heteroarene": "COc1ccc(Cl)nn1",
+    "radical": "[H]C1C([H])([H])C(F)(F)C1([H])[H]",
+    "product": "COc1nnc(Cl)cc1C2CC(F)(F)C2",
+    "patent_id": "US20140100231A1_C00052",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      4
+    ]
+  },
+  "140003001846": {
+    "heteroarene": "COc1ccc(Cl)nn1",
+    "radical": "[H]C([H])OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "COc1nnc(Cl)cc1COC(C)(C)C",
+    "patent_id": "US20140100231A1",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      4
+    ]
+  },
+  "140003001991": {
+    "heteroarene": "COc1ccc(nn1)C(F)F",
+    "radical": "[H]C([H])OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "COc1nnc(cc1COC(C)(C)C)C(F)F",
+    "patent_id": "US20140100231A1_1186",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      4
+    ]
+  },
+  "140003501868": {
+    "heteroarene": "CC1=CC(=O)c2cccnc2C1=O",
+    "radical": "[H]c1c([H])c(C([H])[H])c([H])c([H])c1Br",
+    "product": "CC1=C(Cc2ccc(Br)cc2)C(=O)c3cccnc3C1=O",
+    "patent_id": "US20140121238A1_C00177",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      6,
+      7,
+      8
+    ]
+  },
+  "140003501869": {
+    "heteroarene": "CC1=CC(=O)c2cc(C)cnc2C1=O",
+    "radical": "[H]c1c([H])c(OC([H])([H])[H])c(C([H])[H])c([H])c1OC([H])([H])[H]",
+    "product": "COc1ccc(OC)c(CC2=C(C)C(=O)c3ncc(C)cc3C2=O)c1",
+    "patent_id": "US20140121238A1_C00178",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      6,
+      9
+    ]
+  },
+  "140003501870": {
+    "heteroarene": "CC1=CC(=O)c2cc(C)cnc2C1=O",
+    "radical": "[H]c1c([H])c(C([H])[H])c([H])c([H])c1Br",
+    "product": "CC1=C(Cc2ccc(Br)cc2)C(=O)c3cc(C)cnc3C1=O",
+    "patent_id": "US20140121238A1_C00179",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      6,
+      9
+    ]
+  },
+  "140003501871": {
+    "heteroarene": "CC1=CC(=O)c2cc(C)cnc2C1=O",
+    "radical": "[H]c1c(OC([H])([H])[H])c([H])c(C([H])[H])c([H])c1OC([H])([H])[H]",
+    "product": "COc1cc(CC2=C(C)C(=O)c3ncc(C)cc3C2=O)cc(OC)c1",
+    "patent_id": "US20140121238A1_C00180",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      6,
+      9
+    ]
+  },
+  "140003501872": {
+    "heteroarene": "CC1=CC(=O)c2cc(C)cnc2C1=O",
+    "radical": "[H]c1c([H])c(C(F)(F)F)c([H])c([H])c1C([H])[H]",
+    "product": "CC1=C(Cc2ccc(cc2)C(F)(F)F)C(=O)c3cc(C)cnc3C1=O",
+    "patent_id": "US20140121238A1_C00181",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      6,
+      9
+    ]
+  },
+  "140003501873": {
+    "heteroarene": "CC1=CC(=O)c2cccnc2C1=O",
+    "radical": "[H]c1c([H])c(C(F)(F)F)c([H])c([H])c1C([H])[H]",
+    "product": "CC1=C(Cc2ccc(cc2)C(F)(F)F)C(=O)c3cccnc3C1=O",
+    "patent_id": "US20140121238A1_C00182",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      6,
+      7,
+      8
+    ]
+  },
+  "140003501874": {
+    "heteroarene": "CC1=CC(=O)c2cccnc2C1=O",
+    "radical": "[H]c1c([H])c(OC([H])([H])[H])c(C([H])[H])c([H])c1OC([H])([H])[H]",
+    "product": "COc1ccc(OC)c(CC2=C(C)C(=O)c3ncccc3C2=O)c1",
+    "patent_id": "US20140121238A1_C00183",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      6,
+      7,
+      8
+    ]
+  },
+  "140004604522": {
+    "heteroarene": "N#Cc1cnccn1",
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)(C)c1cnc(C#N)cn1",
+    "patent_id": "US20140155597A1_0115",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      3,
+      6
+    ]
+  },
+  "140004604523": {
+    "heteroarene": "N#Cc1cnccn1",
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C(F)(F)F",
+    "product": "CC(C)(c1cnc(C#N)cn1)C(F)(F)F",
+    "patent_id": "US20140155597A1_0129",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      3,
+      6
+    ]
+  },
+  "150003602300": {
+    "heteroarene": "Cc1cnc(N)cn1",
+    "radical": "FC(F)F",
+    "product": "Cc1cnc(N)c(n1)C(F)(F)F",
+    "patent_id": "US20150119380A1_0826",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "150007002675": {
+    "heteroarene": "Cc1cnc(Cl)nc1c2ccnn2C",
+    "radical": "[H]C([H])([H])C([H])([H])OC=O",
+    "product": "CCOC(=O)c1nc(Cl)nc(c2ccnn2C)c1C",
+    "patent_id": "US20150239842A1_0644",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      9,
+      10
+    ]
+  },
+  "150008605699": {
+    "heteroarene": "CC(C)(C)C(=O)Nc1ccnc(C2CC2)c1C=O",
+    "radical": "[H]C1C([H])([H])OC1([H])[H]",
+    "product": "CC(C)(C)C(=O)Nc1cc(nc(C2CC2)c1C=O)C3COC3",
+    "patent_id": "US20150299188A1_0884",
+    "heteroarene_rc": 9,
+    "other_heteroarene_rc": [
+      8
+    ]
+  },
+  "150009002118": {
+    "heteroarene": "OC(=O)c1ccc[nH]1",
+    "radical": "FC(F)F",
+    "product": "OC(=O)c1ccc([nH]1)C(F)(F)F",
+    "patent_id": "US20150315141A1_0244",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      4,
+      5
+    ]
+  },
+  "150010601532": {
+    "heteroarene": "NC(=O)c1cccnc1",
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)(C)c1ccc(cn1)C(=O)N",
+    "patent_id": "US20150376166A1_0106",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      4,
+      5,
+      8
+    ]
+  },
+  "150010601569": {
+    "heteroarene": "CC(C)(C)c1ccc(cn1)C(=O)N",
+    "radical": "[H]c1c([H])c([H])c2c(c1[H])C(=O)N(C([H])([H])C([H])[H])C2=O",
+    "product": "CC(C)(C)c1cc(CCN2C(=O)c3ccccc3C2=O)c(cn1)C(=O)N",
+    "patent_id": "US20150376166A1_0237",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      5,
+      8
+    ]
+  },
+  "160001205926": {
+    "heteroarene": "CCOC(=O)c1ccncc1",
+    "radical": "[H]C1C([H])([H])OC1([H])[H]",
+    "product": "CCOC(=O)c1ccnc(c1)C2COC2",
+    "patent_id": "US20160038504A1_0418",
+    "heteroarene_rc": 9,
+    "other_heteroarene_rc": [
+      6
+    ]
+  },
+  "160001602312": {
+    "heteroarene": "Clc1cc(Cl)ncn1",
+    "radical": "[H]C1([H])C2C([H])([H])C([H])([H])C([H])(C2([H])[H])C1([H])[H]",
+    "product": "Clc1cc(Cl)nc(n1)C2(CCC3CC2)C3",
+    "patent_id": "US20160052940A1_0364",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "160001602315": {
+    "heteroarene": "Clc1ccnc(Cl)n1",
+    "radical": "[H]C1C([H])([H])C(=O)C1([H])[H]",
+    "product": "Clc1cc(nc(Cl)n1)C2CC(=O)C2",
+    "patent_id": "US20160052940A1_0371",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "160001602319": {
+    "heteroarene": "Clc1cc(Cl)ncn1",
+    "radical": "[H]C1C([H])([H])C(=O)C1([H])[H]",
+    "product": "Clc1cc(Cl)nc(n1)C2CC(=O)C2",
+    "patent_id": "US20160052940A1_0379",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "160003603751": {
+    "heteroarene": "COC(=O)c1ccncc1",
+    "radical": "[H]N([H])C=O",
+    "product": "COC(=O)c1ccnc(c1)C(=O)N",
+    "patent_id": "US20160122335A1",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      5
+    ]
+  },
+  "160008001231": {
+    "heteroarene": "CC(C)Cn1ccc(c1C(=O)O)c2ccc(F)cc2",
+    "radical": "FC(F)F",
+    "product": "CC(C)Cn1c(cc(c1C(=O)O)c2ccc(F)cc2)C(F)(F)F",
+    "patent_id": "US20160289186A1_0317",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      6
+    ]
   },
   "160008602882": {
     "heteroarene": "COC(=O)c1cn2nc(Cl)ccc2n1",
     "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
     "product": "COC(=O)c1cn2nc(Cl)cc(c2n1)C(C)(C)C",
-    "patent_id": "US20160311825A1_0499"
+    "patent_id": "US20160311825A1_0499",
+    "heteroarene_rc": 11,
+    "other_heteroarene_rc": [
+      5,
+      10
+    ]
+  },
+  "170001600864": {
+    "heteroarene": "Cc1nc(Cl)ccc1F",
+    "radical": "[H]C1C([H])([H])C1([H])[H]",
+    "product": "Cc1nc(Cl)cc(C2CC2)c1F",
+    "patent_id": "US20170050951A1_0220",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      5
+    ]
+  },
+  "170001600867": {
+    "heteroarene": "Cc1nc(Cl)ccc1F",
+    "radical": "[H]C([H])C([H])([H])[H]",
+    "product": "CCc1cc(Cl)nc(C)c1F",
+    "patent_id": "US20170050951A1_0226",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      5
+    ]
+  },
+  "170001600870": {
+    "heteroarene": "Cc1nc(Cl)ccc1F",
+    "radical": "[H]C1C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "Cc1nc(Cl)cc(C2CCC2)c1F",
+    "patent_id": "US20170050951A1_0238",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      5
+    ]
+  },
+  "170003404194": {
+    "heteroarene": "[O-][N+](=O)c1cccnc1c2ccccc2",
+    "radical": "[H]C1C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1([H])[H]",
+    "product": "CC(C)(C)OC(=O)N1CC(C1)c2ccc([N+](=O)[O-])c(n2)c3ccccc3",
+    "patent_id": "US20170114071A1_0207",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      4,
+      5
+    ]
+  },
+  "170010201801": {
+    "heteroarene": "COC(=O)[C@@H]1CC[C@H](C1)n2cnc3c(N)ncnc23",
+    "radical": "FC(F)F",
+    "product": "COC(=O)[C@@H]1CC[C@H](C1)n2c(nc3c(N)ncnc23)C(F)(F)F",
+    "patent_id": "US20170362235A1_0242",
+    "heteroarene_rc": 10,
+    "other_heteroarene_rc": [
+      16
+    ]
+  },
+  "180001802623": {
+    "heteroarene": "OCc1cc2nc(Cl)ccc2o1",
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)(C)c1cc(Cl)nc2cc(CO)oc12",
+    "patent_id": "US20180057505A1_0733",
+    "heteroarene_rc": 9,
+    "other_heteroarene_rc": [
+      3,
+      8
+    ]
+  },
+  "180003803596": {
+    "heteroarene": "Cc1cscn1",
+    "radical": "[H]C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])[C@]([H])(C([H])([H])C=O)C([H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)[C@@H](CC(=O)c1nc(C)cs1)N(C)C(=O)OC(C)(C)C",
+    "patent_id": "US20180127463A1_0170",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "180003803597": {
+    "heteroarene": "OCc1cscn1",
+    "radical": "[H]C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])[C@]([H])(C([H])([H])C=O)C([H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)[C@@H](CC(=O)c1nc(CO)cs1)N(C)C(=O)OC(C)(C)C",
+    "patent_id": "US20180127463A1_0171",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      3
+    ]
+  },
+  "180003803599": {
+    "heteroarene": "C(OCc1ccccc1)c2cscn2",
+    "radical": "[H]C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])[C@]([H])(C([H])([H])C=O)C([H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)[C@@H](CC(=O)c1nc(COCc2ccccc2)cs1)N(C)C(=O)OC(C)(C)C",
+    "patent_id": "US20180127463A1_0173",
+    "heteroarene_rc": 12,
+    "other_heteroarene_rc": [
+      10
+    ]
+  },
+  "180003803604": {
+    "heteroarene": "C(OC1CCCCO1)c2cscn2",
+    "radical": "[H]C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])[C@]([H])(C([H])([H])C=O)C([H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)[C@@H](CC(=O)c1nc(COC2CCCCO2)cs1)N(C)C(=O)OC(C)(C)C",
+    "patent_id": "US20180127463A1_0178",
+    "heteroarene_rc": 11,
+    "other_heteroarene_rc": [
+      9
+    ]
+  },
+  "190007004138": {
+    "heteroarene": "CS(=O)(=O)CCc1ncn(n1)c2ncccn2",
+    "radical": "[H]c1c([H])c(F)c(-c2nnc3c(c2[H])[C@]2([H])C([H])([H])C([H])([H])C3C2(C([H])([H])[H])C([H])([H])[H])c(F)c1[H]",
+    "product": "CC1(C)[C@H]2CC[C@]1(c3nnc(cc23)c4c(F)cccc4F)c5ccnc(n5)n6cnc(CCS(=O)(=O)C)n6",
+    "patent_id": "US20190263794A1_1457",
+    "heteroarene_rc": 15,
+    "other_heteroarene_rc": [
+      8,
+      14
+    ]
+  },
+  "190007004149": {
+    "heteroarene": "Clc1ccccn1",
+    "radical": "[H]c1c([H])c(F)c(-c2nnc3c(c2[H])[C@]2([H])C([H])([H])C([H])([H])C3C2(C([H])([H])[H])C([H])([H])[H])c(F)c1[H]",
+    "product": "CC1(C)[C@H]2CC[C@]1(c3nnc(cc23)c4c(F)cccc4F)c5cccc(Cl)n5",
+    "patent_id": "US20190263794A1_1491",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      2,
+      3,
+      4
+    ]
+  },
+  "190007004192": {
+    "heteroarene": "Clc1cccc(Cl)n1",
+    "radical": "[H]c1c([H])c(F)c(-c2nnc3c(c2[H])[C@]2([H])C([H])([H])C([H])([H])C3C2(C([H])([H])[H])C([H])([H])[H])c(F)c1[H]",
+    "product": "CC1(C)[C@H]2CC[C@@]1(c3nnc(cc23)c4c(F)cccc4F)c5cc(Cl)nc(Cl)c5",
+    "patent_id": "US20190263794A1_1566",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "190008600507": {
+    "heteroarene": "CCOC(=O)c1cn(cn1)c2ccccc2C(F)(F)F",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CCOC(=O)c1cn(c(n1)C2CCCC2)c3ccccc3C(F)(F)F",
+    "patent_id": "US20190322644A1_0158",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      6
+    ]
+  },
+  "190009300821": {
+    "heteroarene": "Brc1ccc2ocnc2c1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])(C(=O)OC([H])([H])[H])C([H])([H])C1([H])[H]",
+    "product": "COC(=O)C1CCC(CC1)c2nc3cc(Br)ccc3o2",
+    "patent_id": "US20190352280A1_C00062",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      2,
+      3,
+      9
+    ]
+  },
+  "200002402776": {
+    "heteroarene": "CC(=O)c1cccnc1",
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(=O)c1ccc(nc1)C(C)(C)C",
+    "patent_id": "US20200087323A1_0294",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      4,
+      5,
+      8
+    ]
+  },
+  "200002402805": {
+    "heteroarene": "Fc1cncc(C=O)c1",
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)(C)c1ncc(C=O)cc1F",
+    "patent_id": "US20200087323A1_0367",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      4,
+      8
+    ]
+  },
+  "200002402841": {
+    "heteroarene": "CC(=O)c1cncc(F)c1",
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(=O)c1cnc(c(F)c1)C(C)(C)C",
+    "patent_id": "US20200087323A1_0453",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      4,
+      9
+    ]
+  },
+  "200002402872": {
+    "heteroarene": "CC(=O)c1cncc(F)c1",
+    "radical": "[H]C([H])([H])C1C([H])([H])C1([H])[H]",
+    "product": "CC(=O)c1cnc(c(F)c1)C2(C)CC2",
+    "patent_id": "US20200087323A1_0541",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      4,
+      9
+    ]
+  },
+  "200002402882": {
+    "heteroarene": "CC1CSc2nc(c(C#N)c(=O)n2C1)c3cccnc3",
+    "radical": "[H]C([H])([H])C(C([H])([H])F)C([H])([H])F",
+    "product": "CC1CSc2nc(c(C#N)c(=O)n2C1)c3ccc(nc3)C(C)(CF)CF",
+    "patent_id": "US20200087323A1_0568",
+    "heteroarene_rc": 17,
+    "other_heteroarene_rc": [
+      15,
+      16,
+      19
+    ]
+  },
+  "200002402902": {
+    "heteroarene": "CC(=O)c1cccnc1",
+    "radical": "[H]C([H])([H])C1C([H])([H])C1([H])[H]",
+    "product": "CC(=O)c1ccc(nc1)C2(C)CC2",
+    "patent_id": "US20200087323A1_0617",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      4,
+      5,
+      8
+    ]
+  },
+  "200002402903": {
+    "heteroarene": "COc1cncc(C=O)c1",
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "COc1cc(C=O)cnc1C(C)(C)C",
+    "patent_id": "US20200087323A1_0619",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      5,
+      9
+    ]
+  },
+  "200003201295": {
+    "heteroarene": "CCOC(=O)c1c[nH]cn1",
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CCOC(=O)c1c[nH]c(n1)C(C)(C)C",
+    "patent_id": "US20200115388A1_0238",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      6
+    ]
   },
   "200003201299": {
     "heteroarene": "CCOC(=O)c1ncc[nH]1",
     "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
     "product": "CCOC(=O)c1nc(c[nH]1)C(C)(C)C",
-    "patent_id": "US20200115388A1_0250"
+    "patent_id": "US20200115388A1_0250",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      8
+    ]
+  },
+  "200003803596": {
+    "heteroarene": "COC(=O)c1cc(Cl)cnc1Cl",
+    "radical": "[H]C1C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "COC(=O)c1cc(Cl)c(nc1Cl)C2CCC2",
+    "patent_id": "US20200140411A1_0936",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      5
+    ]
+  },
+  "200003803600": {
+    "heteroarene": "Clc1ncccc1C#N",
+    "radical": "[H]C1C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "Clc1nc(ccc1C#N)C2CCC2",
+    "patent_id": "US20200140411A1_0941",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      4,
+      5
+    ]
+  },
+  "200010201785": {
+    "heteroarene": "COC(=O)c1cc(ccc1Cl)c2cnn(c2)c3cccn3C",
+    "radical": "FC(C(F)(F)F)C(F)(F)F",
+    "product": "COC(=O)c1cc(ccc1Cl)c2cnn(c2)c3ccc(n3C)C(F)(C(F)(F)F)C(F)(F)F",
+    "patent_id": "US20200392124A1_0357",
+    "heteroarene_rc": 19,
+    "other_heteroarene_rc": [
+      12,
+      15,
+      17,
+      18
+    ]
+  },
+  "200010201793": {
+    "heteroarene": "Cn1cccc1C=O",
+    "radical": "FC(C(F)(F)F)C(F)(F)F",
+    "product": "Cn1c(C=O)ccc1C(F)(C(F)(F)F)C(F)(F)F",
+    "patent_id": "US20200392124A1_0397",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      3,
+      4
+    ]
+  },
+  "210001502129": {
+    "heteroarene": "Clc1cnc2ccccc2n1",
+    "radical": "[H]C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C=O",
+    "product": "CCCCCC(=O)c1nc2ccccc2nc1Cl",
+    "patent_id": "US20210053927A1_C00113",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "210001602785": {
+    "heteroarene": "Brc1cnc2ccccc2c1",
+    "radical": "[H]C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C=O",
+    "product": "CCCCCC(=O)c1nc2ccccc2cc1Br",
+    "patent_id": "US20210053927A1_0284",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      5,
+      6,
+      7,
+      8,
+      10
+    ]
+  },
+  "210001602805": {
+    "heteroarene": "Brc1cnc2ccccc2n1",
+    "radical": "[H]C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C=O",
+    "product": "CCCCCCCC(=O)c1nc2ccccc2nc1Br",
+    "patent_id": "US20210053927A1_0358",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "210001602808": {
+    "heteroarene": "Clc1cnc2ccccc2n1",
+    "radical": "[H]C([H])([H])C([H])([H])C([H])([H])C=O",
+    "product": "CCCC(=O)c1nc2ccccc2nc1Cl",
+    "patent_id": "US20210053927A1_0372",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "210001602809": {
+    "heteroarene": "Brc1cncc2ccccc12",
+    "radical": "[H]C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C=O",
+    "product": "CCCCCC(=O)c1ncc(Br)c2ccccc12",
+    "patent_id": "US20210053927A1_0386",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      2,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "210001602814": {
+    "heteroarene": "Brc1cc2ccccc2cn1",
+    "radical": "[H]C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C=O",
+    "product": "CCCCCC(=O)c1nc(Br)cc2ccccc12",
+    "patent_id": "US20210053927A1_0402",
+    "heteroarene_rc": 9,
+    "other_heteroarene_rc": [
+      2,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "210002403184": {
+    "heteroarene": "COC(=O)c1cncc(Br)c1",
+    "radical": "[H]C([H])N([H])C(=O)C([H])([H])[H]",
+    "product": "COC(=O)c1cnc(CNC(=O)C)c(Br)c1",
+    "patent_id": "US20210087180A1_0364",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      5,
+      10
+    ]
+  },
+  "210003502977": {
+    "heteroarene": "Clc1cc(Cl)ncn1",
+    "radical": "[H]c1c([H])c([H])c(C([H])([H])OC2([H])C([H])([H])C([H])C2([H])[H])c([H])c1[H]",
+    "product": "Clc1cc(Cl)nc(n1)C2CC(C2)OCc3ccccc3",
+    "patent_id": "US20210130308A1_C00250",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "210004901866": {
+    "heteroarene": "CCn1cncc1C(=O)OC",
+    "radical": "[H]C1C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CCn1c(cnc1C2CCC2)C(=O)OC",
+    "patent_id": "US20210188810A1_C00313",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      5
+    ]
+  },
+  "210006002131": {
+    "heteroarene": "Clc1ncccn1",
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])C([H])([H])[H]",
+    "product": "CCC(C)(C)c1ccnc(Cl)n1",
+    "patent_id": "US20210230143A1_0565",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      4
+    ]
+  },
+  "210006002132": {
+    "heteroarene": "Clc1ncccn1",
+    "radical": "[H]C([H])([H])C1C([H])([H])C1([H])[H]",
+    "product": "CC1(CC1)c2ccnc(Cl)n2",
+    "patent_id": "US20210230143A1_0567",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      4
+    ]
+  },
+  "210006002134": {
+    "heteroarene": "Clc1ncccn1",
+    "radical": "[H]C1C([H])([H])C1([H])C([H])([H])[H]",
+    "product": "CC1CC1c2ccnc(Cl)n2",
+    "patent_id": "US20210230143A1_0571",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      4
+    ]
+  },
+  "210006002139": {
+    "heteroarene": "Clc1ncccn1",
+    "radical": "[H]C1C([H])([H])C(F)(F)C1([H])[H]",
+    "product": "FC1(F)CC(C1)c2ccnc(Cl)n2",
+    "patent_id": "US20210230143A1_0585",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      4
+    ]
+  },
+  "210006002140": {
+    "heteroarene": "Clc1ncccn1",
+    "radical": "[H]C([H])([H])C1C([H])([H])C(F)(F)C1([H])[H]",
+    "product": "CC1(CC(F)(F)C1)c2ccnc(Cl)n2",
+    "patent_id": "US20210230143A1_0587",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      4
+    ]
+  },
+  "210006002141": {
+    "heteroarene": "Clc1nccc(C#N)n1",
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)(C)c1cc(C#N)nc(Cl)n1",
+    "patent_id": "US20210230143A1_0589",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      4
+    ]
+  },
+  "210006002142": {
+    "heteroarene": "Clc1nccc(C#N)n1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "Clc1nc(C#N)cc(n1)C2CCC2",
+    "patent_id": "US20210230143A1_0591",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      4
+    ]
+  },
+  "210006002144": {
+    "heteroarene": "Clc1ccnc(Cl)n1",
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)(C)c1cc(Cl)nc(Cl)n1",
+    "patent_id": "US20210230143A1_0596",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "210006002153": {
+    "heteroarene": "Clc1ncccn1",
+    "radical": "[H]OC([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)(CO)c1ccnc(Cl)n1",
+    "patent_id": "US20210230143A1_0629",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      4
+    ]
+  },
+  "210006803885": {
+    "heteroarene": "FC(F)(F)c1ccncc1",
+    "radical": "[H]C([H])([H])OC(=O)C12C([H])([H])C([H])([H])C(C([H])([H])C1([H])[H])C([H])([H])C2([H])[H]",
+    "product": "COC(=O)C1(CCC2(CC1)c3cc(ccn3)C(F)(F)F)CC2",
+    "patent_id": "US20210261535A1_1257",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      5
+    ]
+  },
+  "210006803899": {
+    "heteroarene": "Clc1ncccn1",
+    "radical": "[H]C([H])([H])OC(=O)C12C([H])([H])C([H])([H])C(C([H])([H])C1([H])[H])C([H])([H])C2([H])[H]",
+    "product": "COC(=O)C1(CCC2(CC1)c3ccnc(Cl)n3)CC2",
+    "patent_id": "US20210261535A1_1568",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      4
+    ]
+  },
+  "210006803903": {
+    "heteroarene": "FC(F)(F)c1cccnc1",
+    "radical": "[H]C([H])([H])OC(=O)C12C([H])([H])C([H])([H])C(C([H])([H])C1([H])[H])C([H])([H])C2([H])[H]",
+    "product": "COC(=O)C1(CCC2(CC1)c3ccc(cn3)C(F)(F)F)CC2",
+    "patent_id": "US20210261535A1_1703",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      5,
+      6,
+      9
+    ]
+  },
+  "210006803919": {
+    "heteroarene": "Brc1cncnc1",
+    "radical": "[H]C([H])([H])OC(=O)C12C([H])([H])C([H])([H])C(C([H])([H])C1([H])[H])C([H])([H])C2([H])[H]",
+    "product": "COC(=O)C1(CCC2(CC1)c3ncncc3Br)CC2",
+    "patent_id": "US20210261535A1_2293",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      4
+    ]
+  },
+  "210010300797": {
+    "heteroarene": "COc1cc2ncccc2cc1Br",
+    "radical": "[H]C1C([H])([H])C1([H])[H]",
+    "product": "COc1cc2nc(ccc2cc1Br)C3CC3",
+    "patent_id": "US20210403479A1_C00062",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      3,
+      7,
+      8,
+      10
+    ]
+  },
+  "210010400859": {
+    "heteroarene": "Cc1cncc2n(C)c3ccccc3c12",
+    "radical": "[H]C([H])([H])C([H])(C([H])([H])[H])C([H])([H])C=O",
+    "product": "CC(C)CC(=O)c1ncc(C)c2c3ccccc3n(C)c12",
+    "patent_id": "US20210403470A1_0153",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      2,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  "220001603479": {
+    "heteroarene": "COc1cccnc1C",
+    "radical": "[H]C([H])([H])OC(=O)C12C([H])([H])C([H])([H])C(C([H])([H])C1([H])[H])C([H])([H])C2([H])[H]",
+    "product": "COC(=O)C1(CCC2(CC1)c3ccc(OC)c(C)n3)CC2",
+    "patent_id": "US20220056019A1_0859",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      3,
+      4
+    ]
+  },
+  "220002102001": {
+    "heteroarene": "CC(=O)c1cccc(Br)n1",
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(=O)c1cc(cc(Br)n1)C(C)(C)C",
+    "patent_id": "US20220081458A1_C00017",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      4,
+      6
+    ]
+  },
+  "220002403900": {
+    "heteroarene": "CCOP(=O)(Cc1ccccn1)OCC",
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CCOP(=O)(Cc1cc(ccn1)C(C)(C)C)OCC",
+    "patent_id": "US20220089538A1_0362",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      7,
+      9,
+      10
+    ]
+  },
+  "220003600483": {
+    "heteroarene": "N#Cc1ccncc1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "N#Cc1ccnc(c1)C2CCC2",
+    "patent_id": "US20220135553A1_0085",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      3
+    ]
+  },
+  "220005401633": {
+    "heteroarene": "c1nc2ccccc2s1",
+    "radical": "[H]C([H])([H])OC(=O)C12C([H])([H])C([H])([H])C(C([H])([H])C1([H])[H])C([H])([H])C2([H])[H]",
+    "product": "COC(=O)C1(CCC2(CC1)c3nc4ccccc4s3)CC2",
+    "patent_id": "US20220213026A1_0417",
+    "heteroarene_rc": 0,
+    "other_heteroarene_rc": [
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "220006604890": {
+    "heteroarene": "N#Cc1ccncc1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "N#Cc1ccnc(c1)C2CCCC2",
+    "patent_id": "US20220259193A1_1719",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      3
+    ]
+  },
+  "220007908420": {
+    "heteroarene": "OC(=O)c1cccnc1F",
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)(C)c1ccc(C(=O)O)c(F)n1",
+    "patent_id": "US20220313698A1_C00200",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      4,
+      5
+    ]
+  },
+  "230000206948": {
+    "heteroarene": "COC(=O)c1cn(C)cn1",
+    "radical": "[H]C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "COC(=O)c1cn(C)c(n1)C(C)C",
+    "patent_id": "US20230002403A1_1632",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      5
+    ]
+  },
+  "230001400524": {
+    "heteroarene": "CCOC(=O)c1cc2cc(ccn2c1)C3CCOC(C)(C)C3",
+    "radical": "[H]C([H])C#N",
+    "product": "CCOC(=O)c1cc2cc(ccn2c1CC#N)C3CCOC(C)(C)C3",
+    "patent_id": "US20230051320A1_0537",
+    "heteroarene_rc": 13,
+    "other_heteroarene_rc": [
+      6,
+      8,
+      10,
+      11
+    ]
+  },
+  "230001400597": {
+    "heteroarene": "COC(=O)c1cc2c(F)c(ccn2c1)C3CCOC(C)(C)C3",
+    "radical": "[H]C([H])C#N",
+    "product": "COC(=O)c1cc2c(F)c(ccn2c1CC#N)C3CCOC(C)(C)C3",
+    "patent_id": "US20230051320A1_0754",
+    "heteroarene_rc": 13,
+    "other_heteroarene_rc": [
+      5,
+      10,
+      11
+    ]
+  },
+  "230001400602": {
+    "heteroarene": "COC(=O)c1cc2cc(cnn2c1)C3CCOC(C)(C)C3",
+    "radical": "[H]C([H])C#N",
+    "product": "COC(=O)c1cc2cc(cnn2c1CC#N)C3CCOC(C)(C)C3",
+    "patent_id": "US20230051320A1_0763",
+    "heteroarene_rc": 12,
+    "other_heteroarene_rc": [
+      5,
+      7,
+      9
+    ]
+  },
+  "230001802631": {
+    "heteroarene": "Clc1ccnc(Cl)n1",
+    "radical": "[H]C1C([H])([H])N(C(=O)C([H])([H])[H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CC(=O)N1CCCC(C1)c2cc(Cl)nc(Cl)n2",
+    "patent_id": "US20230067929A1_0586",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "230002002332": {
+    "heteroarene": "Clc1ncccn1",
+    "radical": "[H]C([H])([H])C([H])([H])C=O",
+    "product": "CCC(=O)c1ccnc(Cl)n1",
+    "patent_id": "US20230077316A1_0765",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      4
+    ]
+  },
+  "230002611273": {
+    "heteroarene": "Clc1ncccc1C#N",
+    "radical": "[H]C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)c1ccc(C#N)c(Cl)n1",
+    "patent_id": "US20230094341A1_1564",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      4,
+      5
+    ]
+  },
+  "230003107521": {
+    "heteroarene": "COC(=O)c1ccnc(Cl)n1",
+    "radical": "[H]C([H])([H])C1C([H])([H])OC1([H])[H]",
+    "product": "COC(=O)c1cc(nc(Cl)n1)C2(C)COC2",
+    "patent_id": "US20230116972A1_C01247",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      5
+    ]
+  },
+  "230004801302": {
+    "heteroarene": "Brc1cncnc1",
+    "radical": "[H]C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)c1ncncc1Br",
+    "patent_id": "US20230183210A1_0410",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      4
+    ]
+  },
+  "230005700820": {
+    "heteroarene": "OC(=O)Cc1c[nH]c2ccccc12",
+    "radical": "[H]c1c([H])c([H])c2c(c1[H])c(C([H])[H])c([H])n2[H]",
+    "product": "COC(=O)c1ccc2[nH]cc(Cc3c[nH]c4ccccc34)c2c1",
+    "patent_id": "US20230227406A1_C00033",
+    "heteroarene_rc": 11,
+    "other_heteroarene_rc": [
+      5,
+      8,
+      9,
+      10
+    ]
+  },
+  "230006402424": {
+    "heteroarene": "COC(=O)c1cncc(Br)c1",
+    "radical": "[H]C1C([H])([H])C(F)(F)C1([H])[H]",
+    "product": "COC(=O)c1cnc(C2CC(F)(F)C2)c(Br)c1",
+    "patent_id": "US20230250106A1_0692",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      5,
+      10
+    ]
+  },
+  "230006402426": {
+    "heteroarene": "COC(=O)c1cncc(F)c1",
+    "radical": "[H]C1C([H])([H])C2(C([H])([H])C(=O)C2([H])[H])C1([H])[H]",
+    "product": "COC(=O)c1cnc(C2CC3(C2)CC(=O)C3)c(F)c1",
+    "patent_id": "US20230250106A1_0696",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      5,
+      10
+    ]
+  },
+  "230007804118": {
+    "heteroarene": "N#Cc1ccncc1",
+    "radical": "[H]C1([H])C2C([H])([H])C1([H])C2([H])[H]",
+    "product": "N#Cc1ccnc(c1)C2(CC3C2)C3",
+    "patent_id": "US20230303566A1_0639",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      3
+    ]
+  },
+  "230008604477": {
+    "heteroarene": "Clc1ccc(CCC(=O)Nc2cc(n[nH]2)c3ccncc3)cc1",
+    "radical": "FC(F)F",
+    "product": "FC(F)(F)c1c(NC(=O)CCc2ccc(Cl)cc2)[nH]nc1c3ccncc3",
+    "patent_id": "US20230339913A1_0572",
+    "heteroarene_rc": 11,
+    "other_heteroarene_rc": [
+      16,
+      17
+    ]
+  },
+  "230008805748": {
+    "heteroarene": "Cc1cc(C#N)ccn1",
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "Cc1cc(C#N)cc(n1)C(C)(C)C",
+    "patent_id": "US20230348418A1_1615",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      2,
+      6
+    ]
+  },
+  "230009301900": {
+    "heteroarene": "Fc1ncccc1C#N",
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)(C)c1ccc(C#N)c(F)n1",
+    "patent_id": "US20190055220A1_1800",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      4,
+      5
+    ]
+  },
+  "230009402437": {
+    "heteroarene": "Brc1cnc2ccccc2c1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C(F)(F)C([H])([H])C1([H])[H]",
+    "product": "FC1(F)CCC(CC1)c2nc3ccccc3cc2Br",
+    "patent_id": "US20230373925A1_0704",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      5,
+      6,
+      7,
+      8,
+      10
+    ]
+  },
+  "230009402441": {
+    "heteroarene": "FC1(F)CC(C1)c2ccc(Br)cn2",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])(C(F)(F)F)C([H])([H])C1([H])[H]",
+    "product": "FC(F)(F)C1CCC(CC1)c2nc(ccc2Br)C3CC(F)(F)C3",
+    "patent_id": "US20230373925A1_0709",
+    "heteroarene_rc": 11,
+    "other_heteroarene_rc": [
+      7,
+      8
+    ]
+  },
+  "230009402442": {
+    "heteroarene": "FC1(F)CC(C1)c2ccc(Br)cn2",
+    "radical": "[H]C1C([H])([H])C([H])([H])C(F)(F)C([H])([H])C1([H])[H]",
+    "product": "FC1(F)CC(C1)c2ccc(Br)c(n2)C3CCC(F)(F)CC3",
+    "patent_id": "US20230373925A1_0712",
+    "heteroarene_rc": 11,
+    "other_heteroarene_rc": [
+      7,
+      8
+    ]
+  },
+  "230009402456": {
+    "heteroarene": "Cc1ncc(Br)cc1C(F)(F)F",
+    "radical": "[H]C1C([H])([H])C([H])([H])C(F)(F)C([H])([H])C1([H])[H]",
+    "product": "Cc1nc(C2CCC(F)(F)CC2)c(Br)cc1C(F)(F)F",
+    "patent_id": "US20230373925A1_0733",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      6
+    ]
+  },
+  "230009505316": {
+    "heteroarene": "Cc1ncc(Cl)cc1Br",
+    "radical": "[H]C1([H])C2C([H])([H])C1([H])C2([H])[H]",
+    "product": "Cc1nc(c(Cl)cc1Br)C2(CC3C2)C3",
+    "patent_id": "US20230382910A1_C01114",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      6
+    ]
+  },
+  "230009505320": {
+    "heteroarene": "COC(=O)c1cc(Cl)cnc1C",
+    "radical": "[H]C([H])([H])C1C([H])([H])C(F)(F)C1([H])[H]",
+    "product": "COC(=O)c1cc(Cl)c(nc1C)C2(C)CC(F)(F)C2",
+    "patent_id": "US20230382910A1_C01118",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      5
+    ]
+  },
+  "230010403685": {
+    "heteroarene": "COC(=O)CN1CC2(CC2)c3ncccc3C1=O",
+    "radical": "[H]C1C([H])([H])C1([H])[H]",
+    "product": "COC(=O)CN1CC2(CC2)c3nc(ccc3C1=O)C4CC4",
+    "patent_id": "US20230416205A1_1058",
+    "heteroarene_rc": 12,
+    "other_heteroarene_rc": [
+      13,
+      14
+    ]
+  },
+  "240000603666": {
+    "heteroarene": "Nc1cnnc(c1)c2cc(Cl)ccc2F",
+    "radical": "[H]C([H])C([H])([H])C([H])([H])C(=O)OC([H])([H])[H]",
+    "product": "COC(=O)CCCc1nnc(cc1N)c2cc(Cl)ccc2F",
+    "patent_id": "US20240018122A1_0966",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      6
+    ]
+  },
+  "240000606037": {
+    "heteroarene": "[O-][N+](=O)c1cncc(Cl)c1",
+    "radical": "[H]C1C([H])([H])OC1([H])[H]",
+    "product": "[O-][N+](=O)c1cnc(C2COC2)c(Cl)c1",
+    "patent_id": "US20240018157A1_2448",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      4,
+      9
+    ]
+  },
+  "240003001690": {
+    "heteroarene": "Brc1cc2NCCOc2cn1",
+    "radical": "FC(F)F",
+    "product": "FC(F)(F)c1nc(Br)cc2NCCOc12",
+    "patent_id": "WO2022013311A1_0013",
+    "heteroarene_rc": 9,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "240003806346": {
+    "heteroarene": "CCOC(=O)c1ccc2ncsc2c1",
+    "radical": "[H]C1C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1([H])[H]",
+    "product": "CCOC(=O)c1ccc2nc(sc2c1)C3CN(C3)C(=O)OC(C)(C)C",
+    "patent_id": "US20240150339A1",
+    "heteroarene_rc": 10,
+    "other_heteroarene_rc": [
+      6,
+      7,
+      13
+    ]
+  },
+  "240005203349": {
+    "heteroarene": "Cc1ccnc(Cl)n1",
+    "radical": "[H]C1([H])C(F)C1([H])[H]",
+    "product": "Cc1cc(nc(Cl)n1)C2(F)CC2",
+    "patent_id": "US20240208981A1",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "240006000311": {
+    "heteroarene": "Cn1cc2cc(Br)cnc2n1",
+    "radical": "FC(F)F",
+    "product": "Cn1nc2ncc(Br)cc2c1C(F)(F)F",
+    "patent_id": "US20240246981A1",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      4,
+      7
+    ]
   },
   "240007401961": {
     "heteroarene": "Nc1cc(Cl)ncn1",
     "radical": "[H]C([H])([H])C1C([H])([H])C(=O)C1([H])[H]",
     "product": "CC1(CC(=O)C1)c2nc(N)cc(Cl)n2",
-    "patent_id": "WO2022271630A1_0002"
+    "patent_id": "WO2022271630A1_0002",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "240007401962": {
+    "heteroarene": "Nc1cc(Cl)ncn1",
+    "radical": "[H]C1C([H])([H])C([H])(F)C1([H])[H]",
+    "product": "Nc1cc(Cl)nc(n1)C2CC(F)C2",
+    "patent_id": "WO2022271630A1_0002",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "240007401965": {
+    "heteroarene": "Nc1cc(Cl)ncn1",
+    "radical": "[H]OC(=O)C12C([H])([H])C(C1([H])[H])C2([H])[H]",
+    "product": "Nc1cc(Cl)nc(n1)C2(CC3(C2)C(=O)O)C3",
+    "patent_id": "WO2022271630A1_0002",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "240007401966": {
+    "heteroarene": "Nc1cc(Cl)ncn1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "Nc1cc(Cl)nc(n1)C2CCC2",
+    "patent_id": "WO2022271630A1_0002",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "240007806100": {
+    "heteroarene": "Clc1cnnc(Cl)c1",
+    "radical": "[H]C([H])([H])C=O",
+    "product": "CC(=O)c1c(Cl)cnnc1Cl",
+    "patent_id": "WO2022147246A1_0710",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "240007905313": {
+    "heteroarene": "c1nc2ccccn2n1",
+    "radical": "[H]OC=O",
+    "product": "OC(=O)c1ccn2ncnc2c1",
+    "patent_id": "US20240327386A1",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      0,
+      3,
+      5,
+      6
+    ]
+  },
+  "240008202840": {
+    "heteroarene": "[O-][N+](=O)c1ccnc(Cl)c1",
+    "radical": "[H]C1([H])C(F)C1([H])[H]",
+    "product": "[O-][N+](=O)c1cc(Cl)nc(c1)C2(F)CC2",
+    "patent_id": "EP4234548A1_0227",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      4,
+      9
+    ]
+  },
+  "250001803505": {
+    "heteroarene": "Clc1ncccn1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "Clc1nccc(n1)C2CCCCC2",
+    "patent_id": "WO2023118253A1_0621",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      4
+    ]
+  },
+  "250002600982": {
+    "heteroarene": "Nc1ccc(Br)c(F)n1",
+    "radical": "[H]C([H])([H])C([H])([H])OC(=O)C(F)F",
+    "product": "CCOC(=O)C(F)(F)c1cc(Br)c(F)nc1N",
+    "patent_id": "WO2023122000A1_0820",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      3
+    ]
+  },
+  "340000600340": {
+    "heteroarene": "c1ccc(cc1)C(c2ccccc2)c3ccncc3",
+    "radical": "[H]N([H])C=O",
+    "product": "NC(=O)c1cc(ccn1)C(c2ccccc2)c3ccccc3",
+    "patent_id": "US04138488A",
+    "heteroarene_rc": 15,
+    "other_heteroarene_rc": [
+      14
+    ]
+  },
+  "380002100115": {
+    "heteroarene": "CN(C)Cc1ccncc1",
+    "radical": "[H]C([H])C([H])([H])C([H])([H])C#N",
+    "product": "CN(C)Cc1ccnc(CCCC#N)c1",
+    "patent_id": "US04385058A",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      5
+    ]
+  },
+  "380003900034": {
+    "heteroarene": "Clc1ccc(COc2cccnc2)cc1",
+    "radical": "[H]N([H])C=O",
+    "product": "NC(=O)c1ccc(OCc2ccc(Cl)cc2)cn1",
+    "patent_id": "US04406689",
+    "heteroarene_rc": 10,
+    "other_heteroarene_rc": [
+      8,
+      9,
+      12
+    ]
+  },
+  "400003400000": {
+    "heteroarene": "Clc1cnccn1",
+    "radical": "[H]C([H])([H])C([H])([H])C=O",
+    "product": "CCC(=O)c1nccnc1Cl",
+    "patent_id": "US04535791A",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      4,
+      5
+    ]
+  },
+  "400003400002": {
+    "heteroarene": "Clc1cnccn1",
+    "radical": "[H]C([H])([H])C([H])(C=O)C([H])([H])[H]",
+    "product": "CC(C)C(=O)c1nccnc1Cl",
+    "patent_id": "US04535791A",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      4,
+      5
+    ]
+  },
+  "460001000259": {
+    "heteroarene": "CCOC(=O)c1cccnc1C(=O)OCC",
+    "radical": "[H]C1C([H])([H])C1([H])[H]",
+    "product": "CCOC(=O)c1ccc(nc1C(=O)OCC)C2CC2",
+    "patent_id": "US04997947A",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      6,
+      7
+    ]
+  },
+  "460001000262": {
+    "heteroarene": "CCOC(=O)c1cc(CC)cnc1C(=O)OCC",
+    "radical": "[H]C1C([H])([H])C1([H])[H]",
+    "product": "CCc1cc(C(=O)O)c(nc1C2CC2)C(=O)O",
+    "patent_id": "US04997947A",
+    "heteroarene_rc": 10,
+    "other_heteroarene_rc": [
+      6
+    ]
+  },
+  "460002100002": {
+    "heteroarene": "CC(=O)c1cnccn1",
+    "radical": "[H]C([H])([H])C(C=O)(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(=O)c1cnc(cn1)C(=O)C(C)(C)C",
+    "patent_id": "US05017235A",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      4,
+      7
+    ]
+  },
+  "460004400095": {
+    "heteroarene": "c1ccc(cc1)c2nc3ncccc3o2",
+    "radical": "[H]C([H])([H])C([H])([H])C([H])([H])C=O",
+    "product": "CCCC(=O)c1ccc2oc(nc2n1)c3ccccc3",
+    "patent_id": "US05061713A",
+    "heteroarene_rc": 10,
+    "other_heteroarene_rc": [
+      11,
+      12
+    ]
+  },
+  "470000300190": {
+    "heteroarene": "O=C(c1ccc[nH]1)c2ccccc2",
+    "radical": "[H]C(C(=O)OC([H])([H])C([H])([H])[H])C(=O)OC([H])([H])C([H])([H])[H]",
+    "product": "CCOC(=O)C(C(=O)OCC)c1ccc([nH]1)C(=O)c2ccccc2",
+    "patent_id": "US05082950A",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      3,
+      4
+    ]
+  },
+  "480002100078": {
+    "heteroarene": "CC(=O)c1ccccn1",
+    "radical": "[H]C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)c1ccnc(c1)C(=O)C",
+    "patent_id": "US05214027A",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      4,
+      6,
+      7
+    ]
+  },
+  "490002200181": {
+    "heteroarene": "CCc1nc2c(C)ccnc2[nH]1",
+    "radical": "[H]C([H])([H])C([H])([H])OC=O",
+    "product": "CCOC(=O)c1cc(C)c2nc(CC)[nH]c2n1",
+    "patent_id": "US05317023A",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      7
+    ]
+  },
+  "490004600509": {
+    "heteroarene": "N#Cc1ccncc1",
+    "radical": "[H]C([H])([H])C=O",
+    "product": "CC(=O)c1cc(C#N)ccn1",
+    "patent_id": "US05364871A",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      3
+    ]
+  },
+  "520002300063": {
+    "heteroarene": "Cc1ccnc2-c3ccccc3C(=O)c21",
+    "radical": "[H]C([H])C([H])([H])[H]",
+    "product": "CCc1cc(C)c2C(=O)c3ccccc3-c2n1",
+    "patent_id": "US05637554A",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "540001800107": {
+    "heteroarene": "Oc1ccc2ncsc2c1",
+    "radical": "[H]Oc1c([H])c([H])c(C=O)c([H])c1[H]",
+    "product": "Oc1ccc(cc1)C(=O)c2nc3ccc(O)cc3s2",
+    "patent_id": "US05900426A",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      2,
+      3,
+      9
+    ]
+  },
+  "560003200371": {
+    "heteroarene": "COC(=O)c1cnccn1",
+    "radical": "[H]C([H])([H])C([H])([H])C=O",
+    "product": "CCC(=O)c1cnc(cn1)C(=O)OC",
+    "patent_id": "US06218393B1",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      5,
+      8
+    ]
+  },
+  "660010400100": {
+    "heteroarene": "N#Cc1ccncc1",
+    "radical": "[H]C([H])C([H])(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)Cc1cc(C#N)ccn1",
+    "patent_id": "US20090220586A1_0085",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      3
+    ]
+  },
+  "720008801379": {
+    "heteroarene": "OC(=O)c1c(ccn1Cc2ncccn2)c3ccc(F)cc3",
+    "radical": "FC(F)F",
+    "product": "OC(=O)c1c(cc(n1Cc2ncccn2)C(F)(F)F)c3ccc(F)cc3",
+    "patent_id": "US09802921B2_0347",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      5,
+      11,
+      12
+    ]
+  },
+  "720008801383": {
+    "heteroarene": "Cc1noc(Cn2ccc(c2C(=O)O)c3ccc(F)cc3)n1",
+    "radical": "FC(F)F",
+    "product": "Cc1noc(Cn2c(cc(c2C(=O)O)c3ccc(F)cc3)C(F)(F)F)n1",
+    "patent_id": "US09802921B2_0352",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      8
+    ]
+  },
+  "740000202600": {
+    "heteroarene": "Clc1ccc2nccn2n1",
+    "radical": "[H]C1C([H])([H])OC1([H])[H]",
+    "product": "Clc1cc(C2COC2)c3nccn3n1",
+    "patent_id": "US20180170917A1_0482",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      2,
+      6,
+      7
+    ]
+  },
+  "770007004500": {
+    "heteroarene": "Clc1ncccc1C#N",
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)(C)c1ccc(C#N)c(Cl)n1",
+    "patent_id": "US20080171770A1_0321",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      4,
+      5
+    ]
+  },
+  "770008001400": {
+    "heteroarene": "Cn1cccc1n2cc(Br)cn2",
+    "radical": "FC(C(F)(F)F)C(F)(F)F",
+    "product": "Cn1c(ccc1C(F)(C(F)(F)F)C(F)(F)F)n2cc(Br)cn2",
+    "patent_id": "US20200392124A1_0590",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      3,
+      4,
+      7,
+      10
+    ]
+  },
+  "780000801056": {
+    "heteroarene": "N#Cc1ccncc1",
+    "radical": "[H]C(F)F",
+    "product": "FC(F)c1cc(C#N)ccn1",
+    "patent_id": "US11560373B2_0445",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      3
+    ]
+  },
+  "1040002800057": {
+    "heteroarene": "Clc1ccc(C#N)nn1",
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)(C)c1cc(C#N)nnc1Cl",
+    "patent_id": "EP0208431B1_0076",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      3
+    ]
+  },
+  "1420001500281": {
+    "heteroarene": "N#Cc1ccccn1",
+    "radical": "[H]C([H])([H])C([H])([H])OC=O",
+    "product": "CCOC(=O)c1ccnc(C#N)c1",
+    "patent_id": "EP1814846B1_0268",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      3,
+      5,
+      6
+    ]
+  },
+  "1580004600473": {
+    "heteroarene": "NC(=O)c1cccnc1",
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)(C)c1ncccc1C(=O)N",
+    "patent_id": "EP2964642B1_0073",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      4,
+      5,
+      6
+    ]
+  },
+  "1680005200656": {
+    "heteroarene": "Clc1ncccn1",
+    "radical": "[H]C1([H])C2C([H])([H])C1([H])C2([H])[H]",
+    "product": "Clc1nccc(n1)C2(CC3C2)C3",
+    "patent_id": "EP3728223B1_0345",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      4
+    ]
+  },
+  "1750002700446": {
+    "heteroarene": "CCOC(=O)c1sc2ncncc2c1C",
+    "radical": "[H]C([H])C([H])([H])C1([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CCOC(=O)c1sc2ncnc(CCC3CCCC3)c2c1C",
+    "patent_id": "WO2020139701A1_0500",
+    "heteroarene_rc": 11,
+    "other_heteroarene_rc": [
+      9
+    ]
+  },
+  "1770000701197": {
+    "heteroarene": "Clc1ncccn1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "Clc1nccc(n1)C2CCC2",
+    "patent_id": "WO2022034568A1_0515",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      4
+    ]
+  },
+  "1770000701198": {
+    "heteroarene": "Clc1ncccn1",
+    "radical": "[H]C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)c1ccnc(Cl)n1",
+    "patent_id": "WO2022034568A1_0517",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      4
+    ]
+  },
+  "1770000701199": {
+    "heteroarene": "Clc1ncccn1",
+    "radical": "[H]C1C([H])([H])C1([H])[H]",
+    "product": "Clc1nccc(n1)C2CC2",
+    "patent_id": "WO2022034568A1_0519",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      4
+    ]
+  },
+  "1780001401250": {
+    "heteroarene": "COC(=O)c1ccnc(SC)n1",
+    "radical": "[H]C1C([H])([H])C([H])([H])N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C([H])([H])C1([H])[H]",
+    "product": "COC(=O)c1cc(nc(SC)n1)C2CCN(CC2)C(=O)OC(C)(C)C",
+    "patent_id": "WO2023056423A1_0026",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      5
+    ]
+  },
+  "1780001600623": {
+    "heteroarene": "Clc1ncccc1C#N",
+    "radical": "[H]C([H])([H])C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CC1(CCCCC1)c2ccc(C#N)c(Cl)n2",
+    "patent_id": "WO2023062575A1_0368",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      4,
+      5
+    ]
+  },
+  "1780001600626": {
+    "heteroarene": "Clc1ncccc1C#N",
+    "radical": "[H]N(C(=O)OC(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C1C([H])([H])C([H])([H])C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CC(C)(C)OC(=O)NC1(CCCCC1)c2ccc(C#N)c(Cl)n2",
+    "patent_id": "WO2023062575A1_0375",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      4,
+      5
+    ]
+  },
+  "1780001700369": {
+    "heteroarene": "COC(=O)c1ccnc(F)c1",
+    "radical": "[H]C([H])([H])C1C([H])([H])C1([H])[H]",
+    "product": "COC(=O)c1cc(F)nc(c1)C2(C)CC2",
+    "patent_id": "WO2023070053A1_0226",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      5,
+      10
+    ]
+  },
+  "1780002503288": {
+    "heteroarene": "COc1ccc(Cl)nn1",
+    "radical": "[H]C([H])C([H])([H])C([H])(F)F",
+    "product": "COc1nnc(Cl)cc1CCC(F)F",
+    "patent_id": "WO2023111181A1_0017",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      4
+    ]
+  },
+  "1780002503290": {
+    "heteroarene": "COc1ccc(Cl)nn1",
+    "radical": "[H]OC([H])C([H])([H])C([H])([H])[H]",
+    "product": "CCC(O)c1cc(Cl)nnc1OC",
+    "patent_id": "WO2023111181A1_0017",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      4
+    ]
+  },
+  "1780003101838": {
+    "heteroarene": "Fc1ccn2nc(Cl)nc(Cl)c12",
+    "radical": "[H]C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)c1cc(F)c2c(Cl)nc(Cl)nn12",
+    "patent_id": "WO2023147372A1_0006",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "1780003101841": {
+    "heteroarene": "Fc1ccn2nc(Cl)nc(Cl)c12",
+    "radical": "[H]C([H])([H])C([H])([H])C1C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CCC1(CCC1)c2cc(F)c3c(Cl)nc(Cl)nn23",
+    "patent_id": "WO2023147372A1_0006",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "1780003101854": {
+    "heteroarene": "Clc1ccn2nc(Cl)nc(Cl)c12",
+    "radical": "[H]OC([H])(C(C([H])([H])[H])C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(O)C(C)(C)c1cc(Cl)c2c(Cl)nc(Cl)nn12",
+    "patent_id": "WO2023147372A1_0006",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "1780003101860": {
+    "heteroarene": "Clc1nc(Cl)c2cccn2n1",
+    "radical": "[H]C([H])([H])C([H])([H])C1C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "CCC1(CCC1)c2ccc3c(Cl)nc(Cl)nn23",
+    "patent_id": "WO2023147372A1_0006",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      6,
+      7
+    ]
+  },
+  "1780003102092": {
+    "heteroarene": "Fc1ccn2nc(Cl)nc(Cl)c12",
+    "radical": "[H]OC([H])(C(C([H])([H])[H])C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(O)C(C)(C)c1cc(F)c2c(Cl)nc(Cl)nn12",
+    "patent_id": "WO2023147372A1_0006",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      2
+    ]
+  },
+  "1780003700015": {
+    "heteroarene": "COC(=O)c1cc2cc(cnn2c1)C3CCOCC3",
+    "radical": "[H]C([H])C#N",
+    "product": "COC(=O)c1cc2cc(cnn2c1CC#N)C3CCOCC3",
+    "patent_id": "WO23/169456_1126",
+    "heteroarene_rc": 12,
+    "other_heteroarene_rc": [
+      5,
+      7,
+      9
+    ]
+  },
+  "1780003700023": {
+    "heteroarene": "COC(=O)c1cc2cc(ccn2c1)C3CCOCC3",
+    "radical": "[H]C([H])C#N",
+    "product": "COC(=O)c1cc2cc(ccn2c1CC#N)C3CCOCC3",
+    "patent_id": "WO23/169456_1148",
+    "heteroarene_rc": 12,
+    "other_heteroarene_rc": [
+      5,
+      7,
+      9,
+      10
+    ]
+  },
+  "1780005202859": {
+    "heteroarene": "Cc1cc(ncn1)N2CC3(CC3)c4cnc(Cl)cc24",
+    "radical": "[H]C1C([H])([H])OC1([H])[H]",
+    "product": "Cc1cc(nc(n1)C2COC2)N3CC4(CC4)c5cnc(Cl)cc35",
+    "patent_id": "WO2023250064A1_0017",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      2,
+      13,
+      17
+    ]
+  },
+  "1790000700001": {
+    "heteroarene": "Nc1ccc(Br)c(Cl)n1",
+    "radical": "[H]C([H])([H])C([H])([H])OC(=O)C(F)F",
+    "product": "CCOC(=O)C(F)(F)c1cc(Br)c(Cl)nc1N",
+    "patent_id": "WO24/032776_0344",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      3
+    ]
+  },
+  "1790001204423": {
+    "heteroarene": "COc1cc(C)cc(C)c1c2ccc3cccnc3n2",
+    "radical": "[H]C1C([H])([H])C(=O)C1([H])[H]",
+    "product": "COc1cc(C)cc(C)c1c2ccc3ccc(nc3n2)C4CC(=O)C4",
+    "patent_id": "WO2024057013A1_0835",
+    "heteroarene_rc": 16,
+    "other_heteroarene_rc": [
+      11,
+      12,
+      14,
+      15
+    ]
+  },
+  "1790001500338": {
+    "heteroarene": "CC(C)Oc1ccc2cnccc2c1",
+    "radical": "[H]c1c([H])c(S(=O)(=O)C([H])([H])[H])c([H])c([H])c1C([H])[H]",
+    "product": "CC(C)Oc1ccc2c(Cc3ccc(cc3)S(=O)(=O)C)nccc2c1",
+    "patent_id": "WO2024074436A1",
+    "heteroarene_rc": 8,
+    "other_heteroarene_rc": [
+      5,
+      6,
+      10,
+      11,
+      13
+    ]
+  },
+  "1790003202369": {
+    "heteroarene": "COc1cnnc(Cl)c1",
+    "radical": "[H]C1C([H])([H])C(F)(F)C1([H])[H]",
+    "product": "COc1cc(Cl)nnc1C2CC(F)(F)C2",
+    "patent_id": "WO2024163764A2",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      8
+    ]
+  },
+  "1790003202409": {
+    "heteroarene": "COc1cnnc(Cl)c1",
+    "radical": "[H]C1C([H])([H])C2(C1([H])[H])C([H])([H])C([H])([H])C2([H])[H]",
+    "product": "COc1cc(Cl)nnc1C2CC3(CCC3)C2",
+    "patent_id": "WO2024163764A2",
+    "heteroarene_rc": 3,
+    "other_heteroarene_rc": [
+      8
+    ]
+  },
+  "1790004101561": {
+    "heteroarene": "COC(=O)c1cncc(C)c1C",
+    "radical": "FC(F)F",
+    "product": "COC(=O)c1cnc(c(C)c1C)C(F)(F)F",
+    "patent_id": "WO2024211836A2",
+    "heteroarene_rc": 7,
+    "other_heteroarene_rc": [
+      5
+    ]
+  },
+  "1790004902612": {
+    "heteroarene": "Cc1nc2cnc(Cl)cc2c(=O)n1C",
+    "radical": "[H]C1([H])C2C([H])([H])C1(C(F)(F)F)C2([H])[H]",
+    "product": "Cc1nc2c(nc(Cl)cc2c(=O)n1C)C3(CC4(C3)C(F)(F)F)C4",
+    "patent_id": "WO2024246018A1",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      8
+    ]
+  },
+  "1790005200659": {
+    "heteroarene": "COC(=O)c1ccc(Cl)nn1",
+    "radical": "[H]C1C([H])([H])C([H])([H])C1([H])[H]",
+    "product": "COC(=O)c1cc(C2CCC2)c(Cl)nn1",
+    "patent_id": "WO2024263460A1",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      5
+    ]
+  },
+  "1790005201220": {
+    "heteroarene": "Nc1cnc(Br)cn1",
+    "radical": "[H]C1([H])C2C([H])([H])C1(C(F)(F)F)C2([H])[H]",
+    "product": "Nc1ncc(Br)nc1C2(CC3(C2)C(F)(F)F)C3",
+    "patent_id": "WO2024260929A1",
+    "heteroarene_rc": 2,
+    "other_heteroarene_rc": [
+      6
+    ]
+  },
+  "1800001202334": {
+    "heteroarene": "COc1ccncc1[N+](=O)[O-]",
+    "radical": "[H]C([H])([H])C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "COc1cc(ncc1[N+](=O)[O-])C(C)(C)C",
+    "patent_id": "WO2025059074A1",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      3,
+      6
+    ]
+  },
+  "1870001100008": {
+    "heteroarene": "Cc1cccc2ccc(C#N)nc12",
+    "radical": "[H]C(C([H])([H])C([H])([H])[H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])[H]",
+    "product": "CCCCC(CC)c1cc(C#N)nc2c(C)cccc12",
+    "patent_id": "WO1984001947A1_0070",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      2,
+      3,
+      4,
+      7
+    ]
+  },
+  "2020001000126": {
+    "heteroarene": "FC(F)(F)c1ccncc1",
+    "radical": "[H]C([H])([H])C=O",
+    "product": "CC(=O)c1cc(ccn1)C(F)(F)F",
+    "patent_id": "WO1999011129A1_0210",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      5
+    ]
+  },
+  "2140002800910": {
+    "heteroarene": "Nc1ncc(Cl)cc1F",
+    "radical": "[H]C([H])[H]",
+    "product": "Cc1c(F)c(N)ncc1Cl",
+    "patent_id": "WO2011085126A2",
+    "heteroarene_rc": 6,
+    "other_heteroarene_rc": [
+      3
+    ]
+  },
+  "2150005000389": {
+    "heteroarene": "c1ccc2nccnc2c1",
+    "radical": "[H]C([H])([H])C=O",
+    "product": "CC(=O)c1cnc2ccccc2n1",
+    "patent_id": "WO2012168733A1_0327",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      0,
+      2
+    ]
+  },
+  "2150005000391": {
+    "heteroarene": "c1ccc2ncccc2c1",
+    "radical": "[H]C([H])([H])C=O",
+    "product": "CC(=O)c1ccc2ccccc2n1",
+    "patent_id": "WO2012168733A1_0342",
+    "heteroarene_rc": 5,
+    "other_heteroarene_rc": [
+      0,
+      1,
+      2,
+      6,
+      7,
+      9
+    ]
+  },
+  "2180002400853": {
+    "heteroarene": "N#Cc1ccncc1",
+    "radical": "[H]C(C([H])([H])[H])C([H])([H])[H]",
+    "product": "CC(C)c1cc(C#N)ccn1",
+    "patent_id": "WO2015088564A1_0018",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      3
+    ]
+  },
+  "2220001400514": {
+    "heteroarene": "CCc1ccnc(OC)c1",
+    "radical": "[H]C([H])([H])C=O",
+    "product": "CCc1cc(OC)nc(c1)C(=O)C",
+    "patent_id": "WO2019063748A1_1129",
+    "heteroarene_rc": 4,
+    "other_heteroarene_rc": [
+      3,
+      9
+    ]
   }
 }
