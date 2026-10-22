@@ -8,6 +8,12 @@
       4,
       7,
       8
+    ],
+    "observed_regioisomers": [
+      "O=C(N(C)C)C1=NC=CC2=C1NN=C2"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600002": {
@@ -21,6 +27,12 @@
       7,
       8,
       11
+    ],
+    "observed_regioisomers": [
+      "N#CC1=C(C(N(C)C)=O)C2=CC=CC=C2N=C1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600003": {
@@ -34,6 +46,12 @@
       7,
       8,
       11
+    ],
+    "observed_regioisomers": [
+      "N#CC1=C(CNC(OC(C)(C)C)=O)C2=CC=CC=C2N=C1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600004": {
@@ -47,6 +65,12 @@
       7,
       8,
       11
+    ],
+    "observed_regioisomers": [
+      "N#CC1=C(CCNC(OC(C)(C)C)=O)C2=CC=CC=C2N=C1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600005": {
@@ -58,6 +82,12 @@
       2,
       6,
       7
+    ],
+    "observed_regioisomers": [
+      "O=C(N(C)C)C1=C2C(NC=C2)=NC=N1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600006": {
@@ -69,6 +99,12 @@
       2,
       6,
       7
+    ],
+    "observed_regioisomers": [
+      "O=C(OC(C)(C)C)NCC1=C2C(NC=C2)=NC=N1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600007": {
@@ -80,6 +116,12 @@
       2,
       6,
       7
+    ],
+    "observed_regioisomers": [
+      "O=C(OC(C)(C)C)NCCC1=C2C(NC=C2)=NC=N1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600008": {
@@ -90,6 +132,12 @@
     "other_heteroarene_rc": [
       6,
       11
+    ],
+    "observed_regioisomers": [
+      "O=C(OC)C1=C(C=C(C(N(C)C)=O)N2)C2=NC=N1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600009": {
@@ -101,6 +149,12 @@
       2,
       7,
       8
+    ],
+    "observed_regioisomers": [
+      "O=C(N(C)C)C1=C2C(C=CS2)=NC=N1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600010": {
@@ -112,6 +166,12 @@
       2,
       7,
       8
+    ],
+    "observed_regioisomers": [
+      "O=C(OC(C)(C)C)NCCC1=C2C(C=CS2)=NC=N1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600011": {
@@ -122,6 +182,12 @@
     "other_heteroarene_rc": [
       5,
       9
+    ],
+    "observed_regioisomers": [
+      "O=C(OC)C1=CNC2=NC=NC(C(N(C)C)=O)=C21"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600012": {
@@ -132,6 +198,12 @@
     "other_heteroarene_rc": [
       5,
       9
+    ],
+    "observed_regioisomers": [
+      "O=C(OC)C1=CNC2=NC=NC(CNC(OC(C)(C)C)=O)=C21"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600013": {
@@ -142,6 +214,12 @@
     "other_heteroarene_rc": [
       5,
       9
+    ],
+    "observed_regioisomers": [
+      "O=C(OC)C1=CNC2=NC=NC(CCNC(OC(C)(C)C)=O)=C21"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600014": {
@@ -153,6 +231,12 @@
       3,
       7,
       8
+    ],
+    "observed_regioisomers": [
+      "N#CC1=CN=C2C(C=CN2)=C1CNC(OC(C)(C)C)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600015": {
@@ -164,6 +248,12 @@
       3,
       7,
       8
+    ],
+    "observed_regioisomers": [
+      "N#CC1=CN=C2C(C=CN2)=C1CCNC(OC(C)(C)C)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600016": {
@@ -175,6 +265,12 @@
       3,
       4,
       9
+    ],
+    "observed_regioisomers": [
+      "ClC1=C(C=CN2)C2=NC(C(N(C)C)=O)=C1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600017": {
@@ -186,6 +282,12 @@
       3,
       4,
       9
+    ],
+    "observed_regioisomers": [
+      "ClC1=C(C=CN2)C2=NC(CCNC(OC(C)(C)C)=O)=C1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600018": {
@@ -196,6 +298,12 @@
     "other_heteroarene_rc": [
       3,
       9
+    ],
+    "observed_regioisomers": [
+      "ClC1=C(C=C(CCNC(OC(C)(C)C)=O)N2C)C2=NC=N1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600019": {
@@ -206,6 +314,14 @@
     "other_heteroarene_rc": [
       3,
       9
+    ],
+    "observed_regioisomers": [
+      "ClC1=C(C=C(C(C2)CN2C(OC(C)(C)C)=O)N3C)C3=NC=N1",
+      "ClC1=C(C=CN2C)C2=NC(C3CN(C3)C(OC(C)(C)C)=O)=N1"
+    ],
+    "observed_ratio": [
+      0.75,
+      0.25
     ]
   },
   "600020": {
@@ -216,6 +332,12 @@
     "other_heteroarene_rc": [
       8,
       12
+    ],
+    "observed_regioisomers": [
+      "BrC1=C(OC)N=C2C(C=C(C(N(C)C)=O)N2C)=C1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600021": {
@@ -226,6 +348,12 @@
     "other_heteroarene_rc": [
       9,
       12
+    ],
+    "observed_regioisomers": [
+      "BrC1=C(N=C2C(C(CNC(OC(C)(C)C)=O)=CN2C)=C1)OC"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600022": {
@@ -236,6 +364,14 @@
     "other_heteroarene_rc": [
       8,
       9
+    ],
+    "observed_regioisomers": [
+      "BrC1=C(OC)N=C2C(C=CN2C)=C1C3CN(C(OC(C)(C)C)=O)C3",
+      "BrC1=C(OC)N=C2C(C=C(C3CN(C(OC(C)(C)C)=O)C3)N2C)=C1"
+    ],
+    "observed_ratio": [
+      0.55,
+      0.45
     ]
   },
   "600023": {
@@ -248,6 +384,12 @@
       11,
       12,
       14
+    ],
+    "observed_regioisomers": [
+      "O=C(OC(C)(C)C)N1C2=NC=CC=C2C=C1C(N(C)C)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600024": {
@@ -260,6 +402,14 @@
       11,
       14,
       15
+    ],
+    "observed_regioisomers": [
+      "O=C(OC(C)(C)C)N1C2=NC=CC(CNC(OC(C)(C)C)=O)=C2C=C1",
+      "O=C(OC(C)(C)C)N1C2=NC(CNC(OC(C)(C)C)=O)=CC=C2C=C1"
+    ],
+    "observed_ratio": [
+      0.66,
+      0.33
     ]
   },
   "600025": {
@@ -272,6 +422,14 @@
       11,
       14,
       15
+    ],
+    "observed_regioisomers": [
+      "O=C(OC(C)(C)C)N1C2=NC=CC(CCNC(OC(C)(C)C)=O)=C2C=C1",
+      "O=C(N1C2=NC(CCNC(OC(C)(C)C)=O)=CC=C2C=C1)OC(C)(C)C"
+    ],
+    "observed_ratio": [
+      0.55,
+      0.45
     ]
   },
   "600026": {
@@ -283,6 +441,12 @@
       3,
       15,
       16
+    ],
+    "observed_regioisomers": [
+      "BrC1=C(C=C(C(N(C)C)=O)N2C(OC(C)(C)C)=O)C2=NC=C1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600027": {
@@ -294,6 +458,12 @@
       3,
       4,
       16
+    ],
+    "observed_regioisomers": [
+      "BrC1=C(C=CN2C(OC(C)(C)C)=O)C2=NC(CNC(OC(C)(C)C)=O)=C1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600028": {
@@ -305,6 +475,12 @@
       3,
       15,
       16
+    ],
+    "observed_regioisomers": [
+      "BrC1=C(C=C(CCNC(OC(C)(C)C)=O)N2C(OC(C)(C)C)=O)C2=NC=C1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600029": {
@@ -316,6 +492,12 @@
       3,
       15,
       16
+    ],
+    "observed_regioisomers": [
+      "BrC1=C(C=C(C2CN(C(OC(C)(C)C)=O)C2)N3C(OC(C)(C)C)=O)C3=NC=C1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600030": {
@@ -325,6 +507,14 @@
     "heteroarene_rc": 8,
     "other_heteroarene_rc": [
       7
+    ],
+    "observed_regioisomers": [
+      "ClC1=NN=C(C#N)C=C1C(N(C)C)=O",
+      "ClC1=NN=C(C#N)C(C(N(C)C)=O)=C1"
+    ],
+    "observed_ratio": [
+      0.75,
+      0.25
     ]
   },
   "600031": {
@@ -334,6 +524,14 @@
     "heteroarene_rc": 8,
     "other_heteroarene_rc": [
       7
+    ],
+    "observed_regioisomers": [
+      "ClC1=NN=C(C#N)C=C1CNC(OC(C)(C)C)=O",
+      "ClC1=NN=C(C#N)C(CNC(OC(C)(C)C)=O)=C1"
+    ],
+    "observed_ratio": [
+      0.75,
+      0.25
     ]
   },
   "600032": {
@@ -343,6 +541,14 @@
     "heteroarene_rc": 8,
     "other_heteroarene_rc": [
       7
+    ],
+    "observed_regioisomers": [
+      "ClC1=NN=C(C#N)C=C1CCNC(OC(C)(C)C)=O",
+      "ClC1=NN=C(C#N)C(CCNC(OC(C)(C)C)=O)=C1"
+    ],
+    "observed_ratio": [
+      0.75,
+      0.25
     ]
   },
   "600033": {
@@ -352,6 +558,14 @@
     "heteroarene_rc": 8,
     "other_heteroarene_rc": [
       7
+    ],
+    "observed_regioisomers": [
+      "ClC1=NN=C(C#N)C=C1C(C2)CN2C(OC(C)(C)C)=O",
+      "CC(C)(OC(N(C1)CC1C2=CC(Cl)=NN=C2C#N)=O)C"
+    ],
+    "observed_ratio": [
+      0.66,
+      0.33
     ]
   },
   "600035": {
@@ -361,6 +575,14 @@
     "heteroarene_rc": 8,
     "other_heteroarene_rc": [
       7
+    ],
+    "observed_regioisomers": [
+      "N#CC1=NN=C(C(CNC(OC(C)(C)C)=O)=C1)C",
+      "N#CC1=NN=C(C=C1CNC(OC(C)(C)C)=O)C"
+    ],
+    "observed_ratio": [
+      0.66,
+      0.33
     ]
   },
   "600036": {
@@ -370,6 +592,14 @@
     "heteroarene_rc": 8,
     "other_heteroarene_rc": [
       7
+    ],
+    "observed_regioisomers": [
+      "N#CC1=NN=C(C(CCNC(OC(C)(C)C)=O)=C1)C",
+      "N#CC1=NN=C(C=C1CCNC(OC(C)(C)C)=O)C"
+    ],
+    "observed_ratio": [
+      0.66,
+      0.33
     ]
   },
   "600037": {
@@ -379,6 +609,12 @@
     "heteroarene_rc": 8,
     "other_heteroarene_rc": [
       7
+    ],
+    "observed_regioisomers": [
+      "N#CC1=NN=C(C(C(C2)CN2C(OC(C)(C)C)=O)=C1)C"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600038": {
@@ -389,6 +625,12 @@
     "other_heteroarene_rc": [
       4,
       9
+    ],
+    "observed_regioisomers": [
+      "ClC1=NN2C=NN=C2C(C(N(C)C)=O)=C1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600039": {
@@ -399,6 +641,12 @@
     "other_heteroarene_rc": [
       4,
       9
+    ],
+    "observed_regioisomers": [
+      "ClC1=NN2C=NN=C2C(CNC(OC(C)(C)C)=O)=C1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600040": {
@@ -409,6 +657,12 @@
     "other_heteroarene_rc": [
       4,
       9
+    ],
+    "observed_regioisomers": [
+      "ClC1=NN2C=NN=C2C(CCNC(OC(C)(C)C)=O)=C1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600041": {
@@ -419,6 +673,12 @@
     "other_heteroarene_rc": [
       4,
       9
+    ],
+    "observed_regioisomers": [
+      "ClC1=NN2C=NN=C2C(C3CN(C(OC(C)(C)C)=O)C3)=C1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600042": {
@@ -430,6 +690,12 @@
       4,
       5,
       9
+    ],
+    "observed_regioisomers": [
+      "ClC1=NN2C=CN=C2C(CNC(OC(C)(C)C)=O)=C1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600044": {
@@ -441,6 +707,12 @@
       4,
       5,
       9
+    ],
+    "observed_regioisomers": [
+      "ClC1=NN2C=CN=C2C(CCNC(OC(C)(C)C)=O)=C1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600045": {
@@ -452,6 +724,12 @@
       4,
       5,
       9
+    ],
+    "observed_regioisomers": [
+      "ClC1=NN2C=CN=C2C(C3CN(C(OC(C)(C)C)=O)C3)=C1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600047": {
@@ -462,6 +740,12 @@
     "other_heteroarene_rc": [
       5,
       9
+    ],
+    "observed_regioisomers": [
+      "CCOC(C1=CN2N=C(C=C(CNC(OC(C)(C)C)=O)C2=N1)Cl)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600048": {
@@ -472,6 +756,12 @@
     "other_heteroarene_rc": [
       5,
       9
+    ],
+    "observed_regioisomers": [
+      "CCOC(C1=CN2N=C(C=C(C2=N1)CCNC(OC(C)(C)C)=O)Cl)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600049": {
@@ -482,6 +772,12 @@
     "other_heteroarene_rc": [
       5,
       9
+    ],
+    "observed_regioisomers": [
+      "CCOC(C1=CN2N=C(C=C(C3CN(C(OC(C)(C)C)=O)C3)C2=N1)Cl)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600050": {
@@ -493,6 +789,12 @@
       2,
       3,
       4
+    ],
+    "observed_regioisomers": [
+      "O=C(N(C)C)C1=NC2=NC=CC=C2S1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600053": {
@@ -504,6 +806,12 @@
       2,
       3,
       4
+    ],
+    "observed_regioisomers": [
+      "O=C(OC(C)(C)C)NCCC1=NC2=NC=CC=C2S1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600054": {
@@ -515,6 +823,12 @@
       2,
       3,
       4
+    ],
+    "observed_regioisomers": [
+      "O=C(OC(C)(C)C)N(C1)CC1C2=NC3=NC=CC=C3S2"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600055": {
@@ -524,6 +838,14 @@
     "heteroarene_rc": 9,
     "other_heteroarene_rc": [
       8
+    ],
+    "observed_regioisomers": [
+      "COC(C1=NN=C(C)C=C1C(N(C)C)=O)=O",
+      "COC(C1=NN=C(C)C(C(N(C)C)=O)=C1)=O"
+    ],
+    "observed_ratio": [
+      0.55,
+      0.45
     ]
   },
   "600056": {
@@ -533,6 +855,14 @@
     "heteroarene_rc": 9,
     "other_heteroarene_rc": [
       8
+    ],
+    "observed_regioisomers": [
+      "COC(C1=NN=C(C)C=C1CCNC(OC(C)(C)C)=O)=O",
+      "COC(C1=NN=C(C)C(CCNC(OC(C)(C)C)=O)=C1)=O"
+    ],
+    "observed_ratio": [
+      0.55,
+      0.45
     ]
   },
   "600057": {
@@ -542,6 +872,12 @@
     "heteroarene_rc": 9,
     "other_heteroarene_rc": [
       8
+    ],
+    "observed_regioisomers": [
+      "COC(C1=NN=C(C)C=C1CNC(OC(C)(C)C)=O)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600058": {
@@ -553,6 +889,12 @@
       2,
       6,
       7
+    ],
+    "observed_regioisomers": [
+      "O=C(N(C)C)C1=C2C(SC=C2)=NC=N1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600059": {
@@ -564,6 +906,12 @@
       2,
       6,
       7
+    ],
+    "observed_regioisomers": [
+      "O=C(OC(C)(C)C)NCC1=C2C(SC=C2)=NC=N1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600060": {
@@ -575,6 +923,12 @@
       2,
       6,
       7
+    ],
+    "observed_regioisomers": [
+      "O=C(OC(C)(C)C)NCCC1=C2C(SC=C2)=NC=N1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600061": {
@@ -584,6 +938,12 @@
     "heteroarene_rc": 3,
     "other_heteroarene_rc": [
       7
+    ],
+    "observed_regioisomers": [
+      "ClC1=NC(CNC(OC(C)(C)C)=O)=C2C(SC=C2C)=N1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600062": {
@@ -593,6 +953,12 @@
     "heteroarene_rc": 3,
     "other_heteroarene_rc": [
       5
+    ],
+    "observed_regioisomers": [
+      "CC1=C(C(CNC(OC(C)(C)C)=O)=NC=C1Br)F"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600063": {
@@ -603,6 +969,14 @@
     "other_heteroarene_rc": [
       3,
       8
+    ],
+    "observed_regioisomers": [
+      "N#CC1=CC(C)=C(C(N(C)C)=O)N=C1",
+      "N#CC1=CC(C)=CN=C1C(N(C)C)=O"
+    ],
+    "observed_ratio": [
+      0.66,
+      0.33
     ]
   },
   "600064": {
@@ -613,6 +987,12 @@
     "other_heteroarene_rc": [
       3,
       8
+    ],
+    "observed_regioisomers": [
+      "N#CC1=CC(C)=C(CCNC(OC(C)(C)C)=O)N=C1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600065": {
@@ -623,6 +1003,14 @@
     "other_heteroarene_rc": [
       3,
       8
+    ],
+    "observed_regioisomers": [
+      "N#CC1=CC(C)=C(C(C2)CN2C(OC(C)(C)C)=O)N=C1",
+      "N#CC1=CC(C)=CN=C1C2CN(C(OC(C)(C)C)=O)C2"
+    ],
+    "observed_ratio": [
+      0.75,
+      1
     ]
   },
   "600066": {
@@ -633,6 +1021,12 @@
     "other_heteroarene_rc": [
       3,
       8
+    ],
+    "observed_regioisomers": [
+      "N#CC1=CC(Br)=C(CNC(OC(C)(C)C)=O)N=C1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600067": {
@@ -643,6 +1037,12 @@
     "other_heteroarene_rc": [
       3,
       8
+    ],
+    "observed_regioisomers": [
+      "N#CC1=CC(Br)=C(N=C1)CCNC(OC(C)(C)C)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600068": {
@@ -654,6 +1054,12 @@
       5,
       8,
       9
+    ],
+    "observed_regioisomers": [
+      "CCOC(C1=CN=C(CNC(OC(C)(C)C)=O)C=C1)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600069": {
@@ -665,6 +1071,12 @@
       5,
       8,
       9
+    ],
+    "observed_regioisomers": [
+      "CCOC(C1=CN=C(C2CN(C(OC(C)(C)C)=O)C2)C=C1)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600071": {
@@ -675,6 +1087,12 @@
     "other_heteroarene_rc": [
       4,
       9
+    ],
+    "observed_regioisomers": [
+      "COC(C1=CC(F)=C(C(N(C)C)=O)N=C1)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600072": {
@@ -685,6 +1103,12 @@
     "other_heteroarene_rc": [
       4,
       9
+    ],
+    "observed_regioisomers": [
+      "COC(C1=CC(F)=C(CCNC(OC(C)(C)C)=O)N=C1)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600073": {
@@ -695,6 +1119,12 @@
     "other_heteroarene_rc": [
       4,
       9
+    ],
+    "observed_regioisomers": [
+      "COC(C1=CC(F)=C(C2CN(C(OC(C)(C)C)=O)C2)N=C1)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600074": {
@@ -704,6 +1134,12 @@
     "heteroarene_rc": 4,
     "other_heteroarene_rc": [
       10
+    ],
+    "observed_regioisomers": [
+      "COC(C1=C(CNC(OC(C)(C)C)=O)C(F)=C(C)N=C1)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600075": {
@@ -713,6 +1149,12 @@
     "heteroarene_rc": 4,
     "other_heteroarene_rc": [
       10
+    ],
+    "observed_regioisomers": [
+      "COC(C1=C(CCNC(OC(C)(C)C)=O)C(F)=C(C)N=C1)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600076": {
@@ -723,6 +1165,12 @@
     "other_heteroarene_rc": [
       4,
       10
+    ],
+    "observed_regioisomers": [
+      "COC(C1=CC(OC)=C(C(N(C)C)=O)N=C1)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600077": {
@@ -734,6 +1182,12 @@
       3,
       4,
       5
+    ],
+    "observed_regioisomers": [
+      "COC1=CC=CN=C1C(N(C)C)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600078": {
@@ -745,6 +1199,14 @@
       3,
       4,
       5
+    ],
+    "observed_regioisomers": [
+      "COC1=CC=CN=C1CNC(OC(C)(C)C)=O",
+      "COC1=CC(CNC(OC(C)(C)C)=O)=CN=C1"
+    ],
+    "observed_ratio": [
+      0.66,
+      0.33
     ]
   },
   "600079": {
@@ -756,6 +1218,12 @@
       3,
       4,
       5
+    ],
+    "observed_regioisomers": [
+      "COC1=CC=CN=C1CCNC(OC(C)(C)C)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600080": {
@@ -767,6 +1235,12 @@
       3,
       4,
       5
+    ],
+    "observed_regioisomers": [
+      "COC1=CC=CN=C1C2CN(C(OC(C)(C)C)=O)C2"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600081": {
@@ -778,6 +1252,12 @@
       3,
       6,
       7
+    ],
+    "observed_regioisomers": [
+      "N#CC1=CN=C2C=CNC2=C1CNC(OC(C)(C)C)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600082": {
@@ -789,6 +1269,12 @@
       3,
       6,
       7
+    ],
+    "observed_regioisomers": [
+      "N#CC1=CN=C2C=CNC2=C1CCNC(OC(C)(C)C)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600083": {
@@ -800,6 +1286,12 @@
       3,
       6,
       7
+    ],
+    "observed_regioisomers": [
+      "N#CC1=CN=C2C=CNC2=C1C3CN(C(OC(C)(C)C)=O)C3"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600084": {
@@ -811,6 +1303,12 @@
       2,
       6,
       9
+    ],
+    "observed_regioisomers": [
+      "FC1=CN=C2C(C(N(C)C)=O)=CNC2=C1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600085": {
@@ -823,6 +1321,12 @@
       4,
       5,
       8
+    ],
+    "observed_regioisomers": [
+      "FC1=CC2=CC=C(Br)C=C2N=C1CNC(OC(C)(C)C)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600086": {
@@ -834,6 +1338,12 @@
       4,
       5,
       8
+    ],
+    "observed_regioisomers": [
+      "FC1=C(CNC(OC(C)(C)C)=O)C2=CC=C(Br)C=C2N=C1CNC(OC(C)(C)C)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600087": {
@@ -847,6 +1357,14 @@
       6,
       7,
       10
+    ],
+    "observed_regioisomers": [
+      "BrC1=C(C(N(C)C)=O)C2=CC=CC=C2N=C1",
+      "BrC1=CC2=CC=CC=C2N=C1C(N(C)C)=O"
+    ],
+    "observed_ratio": [
+      0.714,
+      0.286
     ]
   },
   "600088": {
@@ -860,6 +1378,14 @@
       6,
       7,
       10
+    ],
+    "observed_regioisomers": [
+      "BrC1=C(CNC(OC(C)(C)C)=O)C2=CC=CC=C2N=C1",
+      "BrC1=CC2=CC=CC=C2N=C1CNC(OC(C)(C)C)=O"
+    ],
+    "observed_ratio": [
+      0.55,
+      0.45
     ]
   },
   "600089": {
@@ -873,6 +1399,14 @@
       6,
       7,
       10
+    ],
+    "observed_regioisomers": [
+      "BrC1=C(CCNC(OC(C)(C)C)=O)C2=CC=CC=C2N=C1",
+      "BrC1=CC2=CC=CC=C2N=C1CCNC(OC(C)(C)C)=O"
+    ],
+    "observed_ratio": [
+      0.75,
+      0.25
     ]
   },
   "600090": {
@@ -886,6 +1420,14 @@
       6,
       7,
       10
+    ],
+    "observed_regioisomers": [
+      "BrC1=C(C2CN(C(OC(C)(C)C)=O)C2)C3=CC=CC=C3N=C1",
+      "BrC1=CC2=CC=CC=C2N=C1C3CN(C(OC(C)(C)C)=O)C3"
+    ],
+    "observed_ratio": [
+      0.66,
+      0.33
     ]
   },
   "600091": {
@@ -898,6 +1440,12 @@
       7,
       10,
       13
+    ],
+    "observed_regioisomers": [
+      "COC(C1=C(C(N(C)C)=O)C2=CC=C(Br)C=C2N=C1)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600092": {
@@ -910,6 +1458,12 @@
       7,
       10,
       13
+    ],
+    "observed_regioisomers": [
+      "COC(C1=C(CCNC(OC(C)(C)C)=O)C2=CC=C(Br)C=C2N=C1)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600093": {
@@ -922,6 +1476,12 @@
       7,
       10,
       13
+    ],
+    "observed_regioisomers": [
+      "COC(C1=C(C2CN(C(OC(C)(C)C)=O)C2)C3=CC=C(Br)C=C3N=C1)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600094": {
@@ -935,6 +1495,14 @@
       7,
       8,
       11
+    ],
+    "observed_regioisomers": [
+      "CC(C1=C(C(N(C)C)=O)C2=CC=CC=C2N=C1)=O",
+      "CC(C1=CC2=CC=CC=C2N=C1C(N(C)C)=O)=O"
+    ],
+    "observed_ratio": [
+      0.75,
+      0.25
     ]
   },
   "600095": {
@@ -948,6 +1516,12 @@
       7,
       8,
       11
+    ],
+    "observed_regioisomers": [
+      "CC(C1=C(C2CN(C(OC(C)(C)C)=O)C2)C3=CC=CC=C3N=C1)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600096": {
@@ -959,6 +1533,12 @@
       5,
       7,
       8
+    ],
+    "observed_regioisomers": [
+      "COC(C1=NC=CC(CNC(OC(C)(C)C)=O)=C1)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600097": {
@@ -970,6 +1550,14 @@
       5,
       6,
       8
+    ],
+    "observed_regioisomers": [
+      "COC(C1=NC=C(CCNC(OC(C)(C)C)=O)C=C1)=O",
+      "COC(C1=NC=CC(CCNC(OC(C)(C)C)=O)=C1)=O"
+    ],
+    "observed_ratio": [
+      0.75,
+      0.25
     ]
   },
   "600098": {
@@ -981,6 +1569,16 @@
       3,
       8,
       10
+    ],
+    "observed_regioisomers": [
+      "BrC1=C(C2=CN=C1)C=C(N2C)C(N(C)C)=O",
+      "BrC1=C(C=C(C(N(C)C)=O)N2C)C2=C(C(N(C)C)=O)N=C1",
+      "BrC1=C(C=CN2C)C2=C(C(N(C)C)=O)N=C1"
+    ],
+    "observed_ratio": [
+      0.44,
+      0.33,
+      0.22
     ]
   },
   "600099": {
@@ -992,6 +1590,12 @@
       3,
       4,
       10
+    ],
+    "observed_regioisomers": [
+      "BrC1=C(C=CN2C)C2=C(CNC(OC(C)(C)C)=O)N=C1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600100": {
@@ -1003,6 +1607,12 @@
       3,
       4,
       10
+    ],
+    "observed_regioisomers": [
+      "BrC1=C(C=CN2C)C2=C(CCNC(OC(C)(C)C)=O)N=C1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600101": {
@@ -1014,6 +1624,12 @@
       3,
       4,
       10
+    ],
+    "observed_regioisomers": [
+      "BrC1=C(C=CN2C)C2=C(C3CN(C(OC(C)(C)C)=O)C3)N=C1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600102": {
@@ -1026,6 +1642,12 @@
       6,
       7,
       9
+    ],
+    "observed_regioisomers": [
+      "O=S(N1C2=NC=CC=C2C=C1C(N(C)C)=O)(C3=CC=CC=C3)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600103": {
@@ -1038,6 +1660,14 @@
       6,
       7,
       9
+    ],
+    "observed_regioisomers": [
+      "O=S(N1C2=NC=CC=C2C=C1C3CN(C(OC(C)(C)C)=O)C3)(C4=CC=CC=C4)=O",
+      "O=S(N1C2=NC=CC(C3CN(C(OC(C)(C)C)=O)C3)=C2C=C1)(C4=CC=CC=C4)=O"
+    ],
+    "observed_ratio": [
+      0.714,
+      0.286
     ]
   },
   "600104": {
@@ -1048,6 +1678,12 @@
     "other_heteroarene_rc": [
       8,
       9
+    ],
+    "observed_regioisomers": [
+      "BrC1=NC(C(OC)=O)=CC=C1C(N(C)C)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600105": {
@@ -1058,6 +1694,12 @@
     "other_heteroarene_rc": [
       8,
       9
+    ],
+    "observed_regioisomers": [
+      "BrC1=NC(C(OC)=O)=CC=C1CNC(OC(C)(C)C)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600106": {
@@ -1068,6 +1710,12 @@
     "other_heteroarene_rc": [
       8,
       9
+    ],
+    "observed_regioisomers": [
+      "BrC1=NC(C(OC)=O)=CC=C1CCNC(OC(C)(C)C)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600107": {
@@ -1078,6 +1726,12 @@
     "other_heteroarene_rc": [
       5,
       9
+    ],
+    "observed_regioisomers": [
+      "COC(C1=NC=C(Br)C(CNC(OC(C)(C)C)=O)=C1)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600108": {
@@ -1087,6 +1741,12 @@
     "heteroarene_rc": 5,
     "other_heteroarene_rc": [
       3
+    ],
+    "observed_regioisomers": [
+      "N#CC1=CN=C(C(N(C)C)=O)C(Br)=N1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600109": {
@@ -1096,6 +1756,12 @@
     "heteroarene_rc": 5,
     "other_heteroarene_rc": [
       3
+    ],
+    "observed_regioisomers": [
+      "N#CC1=CN=C(CCNC(OC(C)(C)C)=O)C(Br)=N1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600110": {
@@ -1105,6 +1771,12 @@
     "heteroarene_rc": 5,
     "other_heteroarene_rc": [
       3
+    ],
+    "observed_regioisomers": [
+      "N#CC1=CN=C(C2CN(C(OC(C)(C)C)=O)C2)C(Br)=N1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600111": {
@@ -1115,6 +1787,14 @@
     "other_heteroarene_rc": [
       7,
       8
+    ],
+    "observed_regioisomers": [
+      "COC(C1=NN=C(CCNC(OC(C)(C)C)=O)C=C1)=O",
+      "COC(C1=NN=CC(CCNC(OC(C)(C)C)=O)=C1)=O"
+    ],
+    "observed_ratio": [
+      0.66,
+      0.33
     ]
   },
   "600112": {
@@ -1125,6 +1805,12 @@
     "other_heteroarene_rc": [
       7,
       8
+    ],
+    "observed_regioisomers": [
+      "COC(C1=NN=C(C2CN(C(OC(C)(C)C)=O)C2)C=C1)=O"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600113": {
@@ -1135,6 +1821,12 @@
     "other_heteroarene_rc": [
       7,
       8
+    ],
+    "observed_regioisomers": [
+      "CN1C(C(N(C)C)=O)=C(C(C)=O)C=C1"
+    ],
+    "observed_ratio": [
+      1
     ]
   },
   "600115": {
@@ -1145,6 +1837,12 @@
     "other_heteroarene_rc": [
       7,
       8
+    ],
+    "observed_regioisomers": [
+      "CN1C(CCNC(OC(C)(C)C)=O)=C(C(C)=O)C=C1"
+    ],
+    "observed_ratio": [
+      1
     ]
   }
 }
